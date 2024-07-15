@@ -1,0 +1,1655 @@
+Product Name,Website / Pricing,Brand name,Wyz Categories,G2 Category,G2 SubCategory,Utilisation Type,Plan Type ,Resource ,Top 5 Use Case of the Application,RFQ,,,,More Details from Customer,,,
+,,,,,,,,,,Pricing Levers,Payment Frequency,Pricing (INR),Implementations,,,,
+Confluence,https://www.atlassian.com/software/confluence,Atlassian,DW - Productivity Tools,Knowledge Management Software,Knowledge Base Software,Per Seat,Free,"https://www.atlassian.com/software/confluence/pricing
+","1. Knowledge Hub: Confluence is where we store guides, FAQs, and team knowledge. It helps us onboard new members smoothly and keeps all information easy to find.
+
+2. Project Collaboration: Confluence is used to plan projects, track progress, and manage tasks together. It keeps project documents organized and everyone on the same page.
+
+3. Meeting Notes: Confluence captures meeting notes and decisions in one place. It ensures everyone know what was discussed and what actions to take next.
+
+4. Team Portals: Each team has a portal in Confluence where we they can share updates, goals, and important resources. 
+
+5. Agile Support: For Agile projects, Confluence helps document requirements, user stories, and sprint plans. Integrated with Jira, it keeps our development process smooth and efficient.",". User Count: The price scales based on how many people will use Confluence.
+   
+. Deployment Choice: Choose between Cloud (hosted by Atlassian) or Data Center (self-hosted) options, affecting pricing.
+   
+. Subscription Type: Pay monthly or annually, with annual plans often offering savings.
+   
+. Apps and Features: Additional costs may apply for extra features or apps from the Atlassian Marketplace.
+   
+. Support Level: Different support tiers (Standard vs. Premium) are available, influencing pricing and service levels.","Monthly, Annually",$0,No ,"SEN Number
+Registered email id with Atlassian",,,
+Confluence,https://www.atlassian.com/software/confluence,Atlassian,DW - Productivity Tools,Knowledge Management Software,Knowledge Base Software,Per Seat,Standard,,,,"Monthly, Annually",$6.05 / User / Month,No / Support,,,,
+Confluence,https://www.atlassian.com/software/confluence,Atlassian,DW - Productivity Tools,Knowledge Management Software,Knowledge Base Software,Per Seat,Premium,,,,"Monthly, Annually",$11.55 / User / Month,No / Support,,,Common Questions,Sub Questions
+Confluence,https://www.atlassian.com/software/confluence,Atlassian,DW - Productivity Tools,Knowledge Management Software,Knowledge Base Software,Per Seat,Enterprise,,,,"Monthly, Annually",Contact Sales,No / Support,,,New/Renewal,Renewal Time Line
+Jira,https://www.atlassian.com/software/jira,Atlassian,DW - Productivity Tools,Product Management Software,,Per Seat,Free,"https://www.atlassian.com/software/jira/pricing
+https://www.g2.com/products/jira/reviews
+Chat GPT","1. Project Management: Jira helps us plan projects, track tasks, and manage team workloads effectively. It keeps everyone aligned and tasks organized.
+
+2. Agile Development: We use Jira for Agile methodologies like Scrum and Kanban. It helps us manage sprints, user stories, and releases, ensuring we deliver software iteratively and on time.
+
+3. Issue Tracking: Jira serves as a central hub for tracking bugs, issues, and feature requests. 
+
+4. Custom Workflows: With Jira, we can create custom workflows tailored to our team's needs. This flexibility allows us to automate processes and streamline our work.
+
+5. Reporting and Insights: Jira provides us with valuable insights through reporting and dashboards. It helps us analyze team performance, project progress, and make data-driven decisions.",". User Count: Pricing scales based on the number of users needing access to Jira.
+
+. Deployment Options: Choose between Jira Cloud (hosted by Atlassian) or Jira Data Center (self-hosted), impacting features and scalability.
+
+. Subscription Type: Flexible billing options include monthly or annual plans, with annual subscriptions often offering cost savings.
+
+. Apps and Integrations: Additional costs may apply for apps and integrations available via the Atlassian Marketplace to extend Jira's functionality.
+
+. Support Levels: Different support tiers (Standard vs. Premium) offer varying levels of assistance and response times.
+
+","Monthly, Annually",$0,No ,,,,Purshase Price/ISV or Partner Quote
+Jira,https://www.atlassian.com/software/jira,Atlassian,DW - Productivity Tools,Product Management Software,,Per Seat,Standard,,,,"Monthly, Annually",$8.15/ User / month,No / Support,,,,
+Jira,https://www.atlassian.com/software/jira,Atlassian,DW - Productivity Tools,Product Management Software,,Per Seat,Premium,,,,"Monthly, Annually",$16 / User / month,No / Support,,,Number of Licences,Type of Licences
+Jira,https://www.atlassian.com/software/jira,Atlassian,DW - Productivity Tools,Product Management Software,,Per Seat,Enterprise,,,,"Monthly, Annually",Contact Sales,No / Support,,,,
+GitLab,https://about.gitlab.com/,GitLab,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Free,"https://about.gitlab.com/pricing/
+https://www.g2.com/products/gitlab/reviews
+https://www.devopsschool.com/blog/what-is-gitlab-and-use-cases-of-gitlab/
+https://handbook.gitlab.com/handbook/company/pricing/","1. Version Control: Manage code versions efficiently, track changes, and revert to previous versions if needed.
+
+2. Collaboration: Facilitate team collaboration through code reviews, issue tracking, and project boards.
+
+3. Continuous Integration and Delivery (CI/CD): Automate building, testing, and deploying software for faster and more reliable releases.
+
+4. Infrastructure as Code (IaC): Manage and automate your infrastructure configuration with tools like Terraform.
+
+5. Security: Scan code for vulnerabilities, manage secrets securely, and protect your deployments from threats.
+
+6. Project Management: Organize and track project progress with milestones, deadlines, and task management tools.
+
+7. Documentation: Create and share documentation directly within your GitLab repository for easy access.
+
+8. Remote Work: Facilitate communication and collaboration for teams working remotely.
+
+9. Scalability: Accommodate projects of all sizes, from small startups to large enterprises.
+
+10. Customization: Extend GitLab’s functionality with numerous integrations and plugins to tailor it to your specific needs.","
+. Feature-Based Plans: GitLab offers different plans to match various needs and budgets. Whether you're a small team just starting out or a large enterprise needing advanced features, you can choose from the free, premium, or ultimate plans, each packed with progressively more robust features.
+
+. Scalable User Pricing: As your team grows, GitLab’s pricing scales with you. The cost per user adjusts based on the number of users, often providing better rates for larger teams, making it easier to plan as you expand.
+
+. Flexible Billing: You have the option to pay monthly or annually. Annual billing often comes with a discount, helping you save if you're ready to commit for the year. But if you prefer flexibility, monthly billing is available too.
+
+. Customization with Add-Ons: Need something extra? GitLab allows you to add specific features or enhanced support to your plan. This means you can tailor your subscription to exactly what your team requires without paying for unnecessary extras.
+
+. Competitive Pricing: GitLab keeps an eye on the market to ensure their pricing remains competitive. They regularly review and adjust their prices, ensuring you're getting great value compared to other options out there.
+","Monthly, Annually",$0,Optional,,,,
+GitLab,https://about.gitlab.com/,GitLab,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Premium,,,,,"$29 per user/month,
+billed annually",Optional,,,Type of Billing,Frequency(Monthly/Annual/Quaterly)
+GitLab,https://about.gitlab.com/,GitLab,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Ultimate,,,,,Contact Sales,Optional,,,,Currency(USD/INR)
+GitHub,https://github.com/,Microsoft,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Free,"https://github.com/pricing
+https://www.g2.com/products/github/reviews
+Chat GPT",". Collaborative Software Development:
+   Teams can work together on the same codebase, track changes, and manage contributions through pull requests, making it easy to collaborate from anywhere.
+
+. Open Source Project Hosting:
+   Developers can publish and share their code, allowing the global community to contribute, improve, and use it, fostering innovation and collaboration.
+
+. Project Documentation:
+   Use GitHub’s wikis and markdown files to create and maintain comprehensive project documentation, making it easy for new contributors to get up to speed.
+
+. Version Control:
+   Track changes to your code over time, revert to previous versions when necessary, and understand the history and evolution of your project.
+
+. Automated Testing and Deployment:
+   Integrate GitHub with CI/CD tools to automate the testing and deployment process, ensuring code quality and accelerating the release cycle.",". Collaborator Seats: Pricing based on the number of collaborators allowed per repository.
+. Storage Limits: Different tiers with varying amounts of storage for repositories.
+. Enterprise Support: Premium pricing for dedicated support and SLA (Service Level Agreement) guarantees.
+. Extra cost for compliance features and regulatory certifications.
+. Optional paid training sessions or onboarding services for teams.",Monthly,$0,No / Support,,,Commitment,Time Based
+GitHub,https://github.com/,Microsoft,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Team ,,,,,$4 per user/month,No / Support,,,,Usage Based
+GitHub,https://github.com/,Microsoft,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Enterprise,,,,,$21 per user/month,Optional for GitHub Enterprise Server,,,,Vendor Based
+Atlas ,https://www.mongodb.com/atlas,Mongo DB,DPDT- Data & GenAi,Database Software,Database as a Service (DBaaS) Providers,Usage Based,Shared,"https://www.mongodb.com/pricing
+https://www.g2.com/products/mongodb-atlas/pricing
+Chat GPT","
+. Scalable Web Applications: MongoDB Atlas is ideal for building scalable web applications due to its flexible data model and automatic scaling capabilities.
+
+. Real-time Analytics: It supports real-time analytics by efficiently storing and querying large volumes of data, making it suitable for operational analytics and business intelligence.
+
+. Mobile Applications: MongoDB Atlas provides seamless integration with mobile applications, offering offline synchronization and flexible data storage options.
+
+. Internet of Things (IoT): It manages IoT data effectively with features like time-series data storage, enabling real-time data processing and analysis from connected devices.
+
+. Content Management and Delivery: MongoDB Atlas powers content-rich applications and websites with its ability to store and serve unstructured data, manage metadata, and support content versioning.
+
+","Instance Type: Pricing varies based on the type of MongoDB instance (shared or dedicated) and the specific configuration (e.g., CPU cores, RAM).
+
+Instance Size: Costs increase with larger instance sizes, accommodating greater processing power and storage capacity.
+
+Storage: Pricing is based on the amount of storage allocated to your databases, with additional costs for exceeding allocated storage limits.
+
+Data Transfer: Charges apply for data transferred into and out of your MongoDB Atlas clusters, based on the volume of data transferred.
+
+Backup and Restore: Automated backups are included, with options for point-in-time recovery and extended retention periods available at additional cost.",Monthly,$0,,,,,
+Atlas ,https://www.mongodb.com/atlas,Mongo DB,DPDT- Data & GenAi,Database Software,Database as a Service (DBaaS) Providers,Usage Based,Serverless,,,,,"from 
+$0.10/million reads ( Usage based)",,,,Initial Purchase,ISV/Partner
+Atlas ,https://www.mongodb.com/atlas,Mongo DB,DPDT- Data & GenAi,Database Software,Database as a Service (DBaaS) Providers,Usage Based,"
+Dedicated",,,,,$57/ month ,,,,,Name of existing partner
+Marketing Hub,https://www.hubspot.com/products/marketing,HubSpot,SCS- Sales & Marketing,Marketing Automation Software,,Per Seat, Free,"https://www.g2.com/products/hubspot-marketing-hub/reviews
+https://www.hubspot.com/pricing/marketing/
+Chat GPT","Lead Generation and Management: Capture and nurture leads through targeted campaigns, forms, and landing pages, integrating with CRM systems for seamless lead management.
+
+Email Marketing Automation: Create personalized email campaigns, automate follow-ups, and track engagement metrics to optimize email performance.
+
+Social Media Management: Schedule posts, monitor social media interactions, and analyze performance across multiple platforms to enhance brand presence and engagement.
+
+Content Marketing: Plan, create, and distribute content across various channels, leveraging SEO tools and analytics to improve content effectiveness and reach.
+
+Analytics and Reporting: Measure campaign performance, track ROI, and generate detailed reports to inform strategic decisions and optimize marketing efforts.","User Licenses: Pricing often scales with the number of users accessing the platform, with different tiers offering varying levels of access and permissions.
+
+Contacts and Database Size: Costs may vary based on the number of contacts or size of the database managed within the platform, influencing storage and processing requirements.
+
+Feature Tiers: Different pricing levels based on the features and capabilities included, such as email marketing, social media management, and advanced automation.
+
+Volume of Emails: Pricing can be influenced by the volume of emails sent per month or additional costs for higher email limits and sending capacities.
+
+Add-Ons and Integrations: Additional costs may apply for integrations with third-party applications, advanced analytics, custom reporting, and premium support services.",Monthly,$0,No / Support,,,,
+Marketing Hub,https://www.hubspot.com/products/marketing,HubSpot,SCS- Sales & Marketing,Marketing Automation Software,,Per Seat,Starter,,,,,$15/mo/seat,No / Support,,,,
+Marketing Hub,https://www.hubspot.com/products/marketing,HubSpot,SCS- Sales & Marketing,Marketing Automation Software,,Per Seat,Professional,,,,,"$800/mo
+Includes 3 seats",No / Support,,,Google Worskapce Specific Questions,Subquestions
+Marketing Hub,https://www.hubspot.com/products/marketing,HubSpot,SCS- Sales & Marketing,Marketing Automation Software,,Per Seat,Enterprise,,,,,"$3,600/mo
+Includes 5 seats",No / Support,,,Number of Licences,
+Sales Hub,https://www.hubspot.com/pricing/sales,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat, Free,"https://www.hubspot.com/pricing/sales
+https://www.g2.com/products/hubspot-sales-hub/pricing
+Chat GPT",".Personalized Outreach: Tailor outreach efforts based on detailed prospect insights, past interactions, and preferences, enhancing engagement and relationship-building.
+
+. Predictive Analytics: Utilize data-driven insights and predictive analytics to forecast sales trends, identify potential bottlenecks, and optimize sales strategies for better outcomes.
+
+. Sales Enablement: Equip sales teams with tools, content, and resources to effectively engage prospects at each stage of the buyer's journey, fostering confidence and competence.
+
+. Workflow Automation: Streamline complex sales processes, automate routine tasks like lead follow-ups and contract management, and ensure consistency in sales operations.
+
+. Integration Ecosystem: Leverage seamless integrations with marketing platforms, customer support systems, and analytics tools to create a cohesive ecosystem that enhances cross-functional collaboration and data visibility.
+
+.",". User Licenses: Pricing often scales with the number of users accessing the Sales Hub platform, offering different tiers with varying levels of access and permissions.
+
+. Contacts and Database Size: Costs may vary based on the number of contacts or size of the database managed within Sales Hub, influencing storage and processing requirements.
+
+. Feature Tiers: Different pricing levels based on the features and capabilities included, such as sales automation, predictive analytics, and advanced reporting.
+
+. Volume of Contacts: Pricing can be influenced by the volume of contacts managed or additional costs for increasing contact limits and data storage.
+
+. Integration and Add-Ons: Additional costs may apply for integrating with third-party applications, accessing advanced analytics, customizing workflows, and obtaining premium support services.",Monthly,$0,No / Support,,,Type of Licences,Buisness/Enterprise
+Sales Hub,https://www.hubspot.com/pricing/sales,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat,Starter,,,,,$15/mo/seat,No / Support,,,Billing Cycle,Monthly/Annual
+Sales Hub,https://www.hubspot.com/pricing/sales,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat,Professional,,,,,$90/mo/seat,No / Support,,,Domain on which licences are required,
+Sales Hub,https://www.hubspot.com/pricing/sales,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,,$150/mo/seat,No / Support,,,Transfer Token,
+Linkedin Recruiter,https://business.linkedin.com/en-in/talent-solutions/,Linkedin,DW- HRMS,Recruiting Software,Recruiting Automation Software,,Recuriter Lite,"https://www.linkedin.com/pulse/how-much-linkedin-recruiter-2024-edition-michael-kilcullen-51yge/
+ChatGPT","Precision Search and Filtering: Utilize LinkedIn's advanced search filters and Boolean operators to pinpoint candidates with specific skills, experience levels, and geographic preferences, ensuring targeted recruitment efforts.
+
+InMail Campaigns: Engage potential candidates directly through personalized InMail messages, leveraging LinkedIn's analytics to optimize message delivery and response rates.
+
+Competitive Intelligence: Gain insights into competitor hiring trends and talent movements through LinkedIn's company insights and talent pool analysis, informing proactive recruitment strategies.
+
+Collaborative Hiring Process: Facilitate seamless collaboration among hiring teams with LinkedIn Recruiter's shared candidate profiles, real-time feedback, and integrated scheduling tools.
+
+Integration with ATS: Integrate LinkedIn Recruiter with your Applicant Tracking System (ATS) to streamline candidate data management, automate workflows, and ensure data consistency across recruitment stages","Seat Licenses: Pricing typically scales with the number of recruiter seats or licenses required, allowing access to LinkedIn Recruiter's tools and features.
+
+Search and InMail Credits: Additional costs may apply for purchasing search credits to access advanced search filters and InMail credits for sending messages to candidates outside your network.
+
+Access Levels: Different pricing tiers offer varying levels of access to candidate profiles, search functionalities, and analytics tools based on subscription plans.
+
+Enhanced Features: Optional upgrades for enhanced features such as competitive insights, talent pool analytics, and automated candidate recommendations may incur additional costs.
+
+Contract Length and Renewals: Discounts or incentives may be offered for longer-term commitments or renewals, providing cost savings over time.",,,,,,,
+Linkedin Recruiter,https://business.linkedin.com/en-in/talent-solutions/,Linkedin,DW- HRMS,Recruiting Software,Recruiting Automation Software,,Recuriter Professional Service,,,,,,,,,Atlassian Specific Questions,Subquestions
+Linkedin Recruiter,https://business.linkedin.com/en-in/talent-solutions/,Linkedin,DW- HRMS,Recruiting Software,Recruiting Automation Software,,Recuriter Corporate,,,,,,,,,Number of Licences,
+Sales Engagement,https://outplayhq.com/sales-engagement-platform,Outplay,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Starter,https://outplayhq.com/pricing,". Multi-Channel Outreach: Engage prospects through personalized email sequences, automated phone calls, SMS messages, and social media interactions, ensuring a diverse and effective outreach strategy.
+
+. Cadence Management: Create and manage customized cadences of communication tailored to each prospect's journey, automating follow-ups and nurturing sequences to maintain engagement.
+
+. Personalization at Scale: Leverage dynamic email templates and personalized messaging features to deliver relevant content based on prospect data, increasing response rates and building stronger relationships.
+
+. Activity Tracking and Analytics: Monitor prospect interactions in real-time, track email opens, link clicks, call outcomes, and response rates to refine outreach strategies and prioritize leads effectively.
+
+. Integration with CRM Systems: Seamlessly synchronize data between Outplay and CRM platforms like Salesforce and HubSpot, ensuring a unified view of prospect interactions and enabling streamlined follow-up actions.",". Seat Licenses: Pricing typically scales with the number of users or seats accessing Outplay, allowing sales teams to collaborate and utilize its features for outreach and engagement.
+
+. Feature Tiers: Different pricing levels based on the features and capabilities included, such as multi-channel outreach, cadence management, and advanced analytics.
+
+. Usage Limits: Additional costs may apply based on usage limits for email sends, call minutes, SMS messages, and other outreach activities beyond included quotas.
+
+. Integration Requirements: Costs for integrating Outplay with CRM systems, marketing automation tools, and other platforms may vary based on the complexity and scale of integration needed.
+
+. Support and Training: Optional packages for premium support, onboarding, and training sessions to maximize team effectiveness and adoption of Outplay's features.","Monthly, Annualy",$0,No / Support,,,Type of Licences,Standard/Enterprise
+Sales Engagement,https://outplayhq.com/sales-engagement-platform,Outplay,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Growth,,,,,"$99 /month /user, billed monthly
+$79
+/month /user, billed annually",No / Support,,,Billing Cycle,Monthly/Annual
+Sales Engagement,https://outplayhq.com/sales-engagement-platform,Outplay,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Enterprise,,,,,Contact sales,No / Support,,,SEN Number,
+Sales Prospector,https://www.cognism.com/prospector,Cognism,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Platinum ,"https://www.cognism.com/pricing
+","Targeted List Building for Fortune 500 Companies:  Cognism excels at providing access to a vast pool of verified contacts within large, complex organizations   This allows sales teams to build targeted prospect lists for Fortune 500 companies, focusing on specific departments or decision-makers.
+
+Increased Connect Rates with Seamless CRM Integration:  Cognism integrates with popular CRM platforms like Salesforce and Salesloft with just a click. This streamlines outreach and ensures data consistency. By having accurate contact information and leveraging Cognism's insights, salespeople can personalize outreach for higher connect rates.
+
+List Cleansing & Enrichment Beyond Competitors:  While competitors offer data enrichment, Cognism focuses on data quality and GDPR compliance.  This ensures your lists are up-to-date and reduces outreach bounces. Additionally, Cognism goes beyond basic enrichment, providing insights like buying committee structure and technographic data.
+
+Identifying Multithreading Opportunities:  Cognism's data allows you to see the connections between different people within a target account . This enables you to identify ""multithreading"" opportunities, where you can approach multiple decision-makers simultaneously to increase your chances of closing a deal.
+
+Reduced Lead List Building Time:  Sales teams spend a significant amount of time on manual research for lead generation. Cognism boasts a significant time-saving advantage  (https://www.cognism.com/case-studies), allowing you to build high-quality lead lists in a fraction of the time compared to manual methods. This frees up your salespeople to focus on outreach and closing deals.",,,,No / Support,,,Registered email id with Atlassian,
+Sales Prospector,https://www.cognism.com/prospector,Cognism,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Diamond,,,,,,,,,,
+Zohodesk,https://www.zoho.com/desk/,ZOHO,SCS- Sales & Marketing,Help Desk Software,,Per Seat,Standard,"https://www.zoho.com/desk/pricing.html
+",". Customer Support Management: Organize and manage customer queries through a robust ticketing system, ensuring efficient resolution and tracking of issues.
+. Automation: Implement custom workflows, macros, and rule-based automations to handle repetitive tasks, improving support efficiency.
+. Multi-Channel Support: Integrate and manage customer interactions across multiple channels like email, phone, chat, and social media from a single platform.
+. Analytics and Reporting: Generate comprehensive reports on support metrics, agent performance, and customer satisfaction to identify areas for improvement.
+. Self-Service Portals: Create and manage knowledge bases and community forums to empower customers with self-service options, reducing support load.",,,,,,,Salesfore Specific Questions,Subquestions
+Zohodesk,https://www.zoho.com/desk/,ZOHO,SCS- Sales & Marketing,Help Desk Software,,Per Seat,Professional,,,,,,,,,Number of Licences,
+Zohodesk,https://www.zoho.com/desk/,ZOHO,SCS- Sales & Marketing,Help Desk Software,,Per Seat,Enterprise,,,,,,,,,Type of Licences,Standard/Enterprise(CRM) or Pro/Enterprise(Slack)
+Fresdesk,https://www.freshworks.com/freshdesk/,Freshworks,SCS- Customer Service,Help Desk Software,,Per Seat,Free,https://www.freshworks.com/freshdesk/pricing/,". Ticketing System: Centralize customer issues into tickets, allowing for efficient management and resolution tracking within the support team.
+. Service Level Agreement (SLA) Management: Define and enforce SLAs to ensure timely responses and resolutions, enhancing customer satisfaction.
+. Collaboration: Enable team collaboration through shared ticket ownership, internal notes, and agent collision detection to prevent duplicate efforts.
+. Automation: Use automated workflows, canned responses, and event-based triggers to streamline support processes and reduce manual work.
+. Multi-Channel Support: Provide support through email, chat, phone, social media, and web, ensuring a seamless customer experience across all touchpoints.",,Monthly/ Annually,$0,,,,Billing Cycle,Monthly/Annual
+Fresdesk,https://www.freshworks.com/freshdesk/,Freshworks,SCS- Customer Service,Help Desk Software,,Per Seat,Growth,,,,Monthly/ Annually,"₹1199
+/agent/month, billed monthly",,,,Current Account Excecutive Details,
+Fresdesk,https://www.freshworks.com/freshdesk/,Freshworks,SCS- Customer Service,Help Desk Software,,Per Seat,Pro,,,,Monthly/ Annually,"₹4299
+/agent/month, billed monthly",,,,,
+Fresdesk,https://www.freshworks.com/freshdesk/,Freshworks,SCS- Customer Service,Help Desk Software,,Per Seat,Enterprise,,,,Monthly/ Annually,"₹6899
+/agent/month, billed monthly",,,,,
+Google Workspace,https://workspace.google.com/,Google,DW- Productivity,Office Suites Software,,Per Seat,Business starter ,https://workspace.google.com/pricing.html?source=gafb-individual-globalnav-en,". Collaboration: Use Google Docs, Sheets, and Slides for real-time collaboration on documents, spreadsheets, and presentations.
+. Communication: Leverage Gmail and Google Meet for seamless email communication and video conferencing.
+. Storage and Sharing: Utilize Google Drive for secure file storage and sharing, with advanced permissions and version control.
+. Productivity: Manage tasks and schedules with Google Calendar, Keep, and Tasks to stay organized and on track.
+. Security and Compliance: Benefit from robust security features like two-factor authentication, data encryption, and compliance tools.
+",,Monthly,"₹136.90 INR
+
+per user / month, 1 year commitment",,,,,
+Google Workspace,https://workspace.google.com/,Google,DW- Productivity,Office Suites Software,,Per Seat,Business Standard,,,,Monthly,"₹736 INR
+
+per user / month, 1 year commitment
+",,,,,
+Google Workspace,https://workspace.google.com/,Google,DW- Productivity,Office Suites Software,,Per Seat,Business Plus,,,,Monthly,"Business Plus
+₹1,380 INR
+per user / month, 1 year commitment",,,,,
+Google Workspace,https://workspace.google.com/,Google,DW- Productivity,Office Suites Software,,Per Seat,Business enterprise,,,,Monthly,Contact sales,,,,,
+Slack,https://slack.com/intl/en-in,Salesforce,DW- DevEx,Internal Communications Software,Business Instant Messaging Software,Per Seat,Free,https://slack.com/intl/en-in/pricing,"Team Communication: Facilitate real-time messaging, group discussions, and direct messages to streamline team communication.
+
+Integration Hub: Connect with various tools and services through integrations, automating workflows and centralizing notifications.
+
+File Sharing: Share files and documents within channels or direct messages, with easy search and retrieval options.
+
+Collaboration: Use channels for team projects, departments, or topics to keep conversations organized and focused.
+
+Remote Work: Support remote and distributed teams with features like huddles and screen sharing for effective collaboration.",,Monthly,$0,,,,,
+Slack,https://slack.com/intl/en-in,Salesforce,DW- DevEx,Internal Communications Software,Business Instant Messaging Software,Per Seat,Pro,,,,Monthly,₹245.25/mth,,,,,
+Slack,https://slack.com/intl/en-in,Salesforce,DW- DevEx,Internal Communications Software,Business Instant Messaging Software,Per Seat,Business+,,,,Monthly,₹422.10/mth,,,,,
+Slack,https://slack.com/intl/en-in,Salesforce,DW- DevEx,Internal Communications Software,Business Instant Messaging Software,Per Seat,Enterprise Grid,,,,Monthly,Contact sales,,,,,
+Creative Studio,https://www.adobe.com/in/creativecloud.html,Adobe,DPDT- Design,Other Product Suites Software,,Per Seat,Individuals ,https://www.adobe.com/in/creativecloud/plans.html#,"Graphic Design: Create professional graphics and illustrations using tools like Adobe Photoshop and Illustrator.
+
+Video Editing: Edit and produce high-quality videos with Adobe Premiere Pro and After Effects.
+
+Web Design: Design responsive websites and user interfaces with Adobe XD and Dreamweaver.
+
+Photography: Edit and enhance photos using Adobe Lightroom and Photoshop.
+
+Document Management: Create, edit, and manage PDFs with Adobe Acrobat.",,Monthly,"₹1,915.14/mo 
+
+",,,,,
+Creative Studio,https://www.adobe.com/in/creativecloud.html,Adobe,DPDT- Design,Other Product Suites Software,,Per Seat,Business,,,,Monthly,"₹5,750.00/mo",,,,,
+Creative Studio,https://www.adobe.com/in/creativecloud.html,Adobe,DPDT- Design,Other Product Suites Software,,Per Seat,Student & Teachers,,,,Monthly,₹638.38/mo ,,,,,
+Creative Studio,https://www.adobe.com/in/creativecloud.html,Adobe,DPDT- Design,Other Product Suites Software,,Per Seat,School & Universities ,,,,Monthly,"₹2,367.00/mo",,,,,
+Zoominfo,https://www.zoominfo.com/,Zoominfo,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,,https://www.zoominfo.com/pricing,". Sales Prospecting: Access a vast database of company and contact information for targeted sales outreach.
+
+. Market Intelligence: Gain insights into market trends, company news, and industry developments.
+
+. Lead Generation: Identify and qualify potential leads using advanced search filters and data analytics.
+
+. Data Enrichment: Enhance and update CRM records with accurate and up-to-date information.
+
+. Account-Based Marketing: Tailor marketing efforts to specific accounts using detailed company profiles.",,Monthly,Contact sales,,,,,
+SalesHandy,https://www.saleshandy.com/,SalesHandy,SCS- Sales & Marketing,Sales Acceleration Software,Email Tracking Software,Usage Based,Outreach Starter,https://www.saleshandy.com/pricing/,". Email Tracking: Track email opens, clicks, and replies to gauge engagement and follow up effectively.
+
+. Email Scheduling: Schedule emails to be sent at optimal times for increased open rates and responses.
+
+. Mail Merge: Send personalized bulk emails with dynamic fields for efficient outreach.
+
+. Templates: Use pre-designed email templates to maintain consistency and save time.
+
+. Analytics: Analyze email performance metrics to refine strategies and improve results..","Monthly, Annualy
+",monthly/annually,"$25/ Annually
+$36 /Month",,,,,
+SalesHandy,https://www.saleshandy.com/,SalesHandy,SCS- Sales & Marketing,Sales Acceleration Software,Email Tracking Software,Usage Based,Outreach Pro,,,,monthly/annually,"$74/ Annually
+$99 /Month",,,,,
+SalesHandy,https://www.saleshandy.com/,SalesHandy,SCS- Sales & Marketing,Sales Acceleration Software,Email Tracking Software,Usage Based,Outreach Scale,,,,monthly/annually,"$149/ Annually
+$199 /Month",,,,,
+SalesHandy,https://www.saleshandy.com/,SalesHandy,SCS- Sales & Marketing,Sales Acceleration Software,Email Tracking Software,Usage Based,Outreach Scale Plus100k,,,,monthly/annually,"$219/ Annually
+$299 /Month",,,,,
+Trello,https://trello.com/,Atlassian,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,FREE,https://trello.com/pricing,". Task Management: Organize and prioritize tasks using boards, lists, and cards for visual project tracking.
+
+. Team Collaboration: Collaborate with team members by assigning tasks, adding comments, and attaching files.
+
+. Workflow Automation: Automate repetitive tasks with Butler, Trello’s built-in automation tool.
+
+. Project Planning: Plan and track project progress with custom boards and checklists.
+
+. Integration: Connect with other tools and services to streamline workflows and centralize information",,Monthly,$0USD,,,,,
+Trello,https://trello.com/,Atlassian,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,STANDARD,,,,Monthly,$5USD,,,,,
+Trello,https://trello.com/,Atlassian,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,PREMIUM,,,,Monthly,$10USD,,,,,
+Trello,https://trello.com/,Atlassian,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,ENTERPRISE,,,,Monthly,$17.50USD (Est. for 5 users),,,,,
+ClickUp,https://clickup.com/,ClickUp,DW- Productivity Tools,Markup Software,,Per Seat,Free,https://clickup.com/pricing,". Task Management: Manage tasks with lists, boards, and timelines, allowing for detailed task tracking and organization.
+
+. Goal Setting: Set and track goals, aligning team efforts with company objectives.
+
+. Time Tracking: Log time spent on tasks and projects for accurate billing and productivity analysis.
+
+. Document Collaboration: Create, share, and collaborate on documents within the platform.
+
+. Custom Workflows: Design custom workflows to match unique project needs and optimize processes.",,Monthly/ Annually,$0USD,,,,,
+ClickUp,https://clickup.com/,ClickUp,DW- Productivity Tools,Markup Software,,Per Seat,Unlimited,,". Task Management: Manage tasks with lists, boards, and timelines, allowing for detailed task tracking and organization.
+
+. Goal Setting: Set and track goals, aligning team efforts with company objectives.
+
+. Time Tracking: Log time spent on tasks and projects for accurate billing and productivity analysis.
+
+. Document Collaboration: Create, share, and collaborate on documents within the platform.
+
+. Custom Workflows: Design custom workflows to match unique project needs and optimize processes.",,Monthly/ Annually,$7,,,,,
+ClickUp,https://clickup.com/,ClickUp,DW- Productivity Tools,Markup Software,,Per Seat,Business ,,,,Monthly/ Annually,$12,,,,,
+ClickUp,https://clickup.com/,ClickUp,DW- Productivity Tools,Markup Software,,Per Seat,Enterprise,,,,Monthly/ Annually,Contact sales,,,,,
+Wrike,https://www.wrike.com/vap/,Wrike,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Free,https://www.wrike.com/vap/pricing,". Project Management: Plan, execute, and monitor projects with Gantt charts, task lists, and Kanban boards.
+
+. Resource Management: Allocate resources efficiently, tracking availability and workload.
+
+. Collaboration: Foster team collaboration with shared task ownership, real-time editing, and discussions.
+
+. Reporting: Generate detailed reports on project status, team performance, and resource utilization.
+
+. Workflow Automation: Automate recurring tasks and processes to increase efficiency and reduce manual effort.",,Monthly,"$0
+user/ month",,,,,
+Wrike,https://www.wrike.com/vap/,Wrike,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Team ,,,,Monthly,"$9.80
+user/ month",,,,,
+Wrike,https://www.wrike.com/vap/,Wrike,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Business,,,,Monthly,"$24.80
+user/ month",,,,,
+Wrike,https://www.wrike.com/vap/,Wrike,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Enterprise,,,,Monthly,Contact sales,,,,,
+Wrike,https://www.wrike.com/vap/,Wrike,DW- Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Pinnacle,,,,Monthly,Contact sales,,,,,
+Google Looker Studio,https://cloud.google.com/looker-studio,Google,SCS- Analytics,Business Intelligence Software,Data Visualization Tools,Per Seat,Looker Studio Free,https://cloud.google.com/pricing?hl=en,". Data Visualization: Create interactive dashboards and reports to visualize complex data sets.
+
+. Data Integration: Connect to various data sources, including Google Analytics, BigQuery, and SQL databases.
+
+. Real-Time Insights: Monitor real-time data and metrics to make informed business decisions.
+
+. Collaboration: Share and collaborate on reports with team members and stakeholders.
+
+. Custom Reporting: Build customized reports to meet specific business needs and objectives.",,,Contact sales,,,,,
+Google Looker Studio,https://cloud.google.com/looker-studio,Google,SCS- Analytics,Business Intelligence Software,Data Visualization Tools,Per Seat,Looker Studio Pro,,,,,Contact sales,,,,,
+Zoho Analytics,https://www.zoho.com/analytics/index1.html,ZOHO,SCS- Analytics,Analytics Platforms,,Per Seat,BASIC,https://www.zoho.com/analytics/pricing.html,". Data Analysis: Analyze data from multiple sources with drag-and-drop interface and advanced analytics tools.
+
+. Reporting: Create detailed and customizable reports to gain insights into business performance.
+
+. Data Visualization: Use charts, widgets, and dashboards to visualize data trends and patterns.
+
+. Collaboration: Share reports and dashboards with team members for collaborative analysis.
+
+. Predictive Analytics: Implement predictive analytics to forecast trends and make data-driven decisions.",,Monthly/ Annually,"₹960/ Annually 
+₹1,200
+/month",,,,,
+Zoho Analytics,https://www.zoho.com/analytics/index1.html,ZOHO,SCS- Analytics,Analytics Platforms,,Per Seat,STANDARD,,,,Monthly/ Annually,"₹1,900/Annually 
+₹2,400
+/month",,,,,
+Zoho Analytics,https://www.zoho.com/analytics/index1.html,ZOHO,SCS- Analytics,Analytics Platforms,,Per Seat,PREMIUM,,,,Monthly/ Annually,"₹4,200/ Annually 
+₹5,200
+/month",,,,,
+Zoho Analytics,https://www.zoho.com/analytics/index1.html,ZOHO,SCS- Analytics,Analytics Platforms,,Per Seat,ENTERPRISE,,,,Monthly/ Annually,"₹15,850/ Annually 
+₹19,700
+/month",,,,,
+Zoho Analytics,https://www.zoho.com/analytics/index1.html,ZOHO,SCS- Analytics,Analytics Platforms,,Per Seat,CUSTOM,,,,Monthly/ Annually,Contact sales,,,,,
+ Microsoft Teams,https://www.microsoft.com/en-in/microsoft-teams/group-chat-software,Microsoft,DW,Video Conferencing Software,,Per Seat,Microsoft Teams Essentials,https://www.microsoft.com/en-in/microsoft-teams/compare-microsoft-teams-business-options,". Communication: Use chat, voice, and video calls for seamless team communication.
+
+. Collaboration: Collaborate on documents in real-time using integrated Office 365 apps.
+
+. Meetings: Schedule and conduct virtual meetings with screen sharing and recording capabilities.
+
+. Integration: Integrate with third-party apps and services to enhance workflows.
+
+. Project Management: Manage projects with task lists, shared calendars, and file storage.",,Monthly,₹ 115.00 user/month,,,,,
+ Microsoft Teams,https://www.microsoft.com/en-in/microsoft-teams/group-chat-software,Microsoft,DW,Video Conferencing Software,,Per Seat,Microsoft 365 Business Basic,,,,Monthly,₹ 145.00 user/month,,,,,
+ Microsoft Teams,https://www.microsoft.com/en-in/microsoft-teams/group-chat-software,Microsoft,DW,Video Conferencing Software,,Per Seat,Microsoft 365 Business Standard,,,,Monthly,₹ 770.00 user/month,,,,,
+ Zoho Sprints,https://www.zoho.com/sprints/,ZOHO,DW - Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Tools Software,Per Seat,STARTER,https://www.zoho.com/sprints/pricing.html?src=hdd,". Agile Project Management: Manage sprints, backlogs, and epics to ensure agile project delivery.
+
+. Collaboration: Facilitate team collaboration through real-time updates and discussions.
+
+. Time Tracking: Track time spent on tasks to monitor productivity and manage resources.
+
+. Reporting: Generate reports on sprint progress, team performance, and project metrics
+.
+. Customization: Customize workflows, fields, and statuses to fit specific project needs.",,Monthly/ Annually,"₹70
+/user/month billed annually",,,,,
+ Zoho Sprints,https://www.zoho.com/sprints/,ZOHO,DW - Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Tools Software,Per Seat,ELITE,,,,Monthly/ Annually,"₹175
+/user/month billed annually
+
+₹210
+/user/month",,,,,
+ Zoho Sprints,https://www.zoho.com/sprints/,ZOHO,DW - Productivity Tools,"Project, Portfolio & Program Management Software",Project Management Tools Software,Per Seat,PREMIER,,,,Monthly/ Annually,"₹350
+/user/month billed annually
+
+₹420
+/user/month",,,,,
+Bitbucket,https://bitbucket.org/product,Atlassian,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Free,https://www.atlassian.com/software/bitbucket/pricing,". Version Control: Manage source code repositories with Git for version control and collaboration.
+
+. Code Review: Conduct code reviews with pull requests and inline comments to ensure code quality.
+
+. CI/CD Integration: Integrate with continuous integration and delivery pipelines to automate builds and deployments.
+
+. Branch Management: Manage feature branches and workflow strategies to streamline development processes.
+
+. Security: Implement security measures like IP whitelisting, two-factor authentication, and permissions management.",,Monthly,$0 per month,,,,,
+Bitbucket,https://bitbucket.org/product,Atlassian,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Standard,,,,Monthly,"$3
+per user",,,,,
+Bitbucket,https://bitbucket.org/product,Atlassian,DW - Productivity Tools,DevOps Software,Version Control Hosting Software,Per Seat,Premium,,,,Monthly,"$6
+per user",,,,,
+TestRail,https://www.testrail.com/,Idear,DPDT,Software Testing Tools,,Per Seat,Professional,https://www.testrail.com/pricing/,". Test Case Management: Organize and manage test cases, suites, and runs to ensure comprehensive test coverage.
+
+. Real-Time Insights: Monitor test execution progress and results in real-time with customizable dashboards.
+
+. Reporting: Generate detailed reports on test results, including metrics like pass/fail rates and coverage.
+
+. Integration: Integrate with CI/CD tools, issue trackers, and other testing tools for seamless workflows.
+
+. Collaboration: Facilitate team collaboration with shared test plans, comments, and notifications.",,Monthly/ Annually,"$408
+per year
+1 user
+
+$37
+per month
+1 user",,,,,
+TestRail,https://www.testrail.com/,Idear,DPDT,Software Testing Tools,,Per Seat,Enterprise,,,,Monthly/ Annually,"$826
+per year
+1 user
+ ",,,,,
+Katalon Studio,https://katalon.com/,Katalon ,DPDT,DevOps Software,Automation Testing Tools,Per Seat,Free,https://katalon.com/pricing,". Automated Testing: Automate web, mobile, API, and desktop application testing using a comprehensive toolset.
+
+. Test Case Management: Design, execute, and manage test cases with an intuitive interface and reusable components.
+
+. Reporting and Analytics: Generate detailed test execution reports and analyze test results for insights.
+
+. CI/CD Integration: Integrate with CI/CD pipelines to automate testing processes within development workflows.
+
+.Keyword-Driven Testing: Utilize a keyword-driven approach to simplify test automation and improve test readability.",,Monthly/ Annually,$0,,,,,
+Katalon Studio,https://katalon.com/,Katalon ,DPDT,DevOps Software,Automation Testing Tools,Per Seat,Premium,,,,Monthly/ Annually,"$218
+per user /month
+
+175
+per user /month (Anually)",,,,,
+Katalon Studio,https://katalon.com/,Katalon ,DPDT,DevOps Software,Automation Testing Tools,Per Seat,Ultimate,,,,Monthly/ Annually,Contact Sales,,,,,
+Postman,https://www.postman.com/,Postman,DPDT,API Platforms,,Per Seat,Free,https://www.postman.com/pricing,". API Testing: Design, test, and debug APIs using a user-friendly interface and powerful testing tools.
+
+. Automated Testing: Automate API testing with pre-defined test scripts and continuous integration capabilities.
+
+. Collaboration: Share API collections, environments, and test results with team members for collaborative development.
+
+. Mock Servers: Create mock servers to simulate API responses and test applications in isolated environments.
+
+. Documentation: Generate and share comprehensive API documentation to facilitate developer onboarding and usage.",,Monthly/ Annually,$0,,,,,
+Postman,https://www.postman.com/,Postman,DPDT,API Platforms,,Per Seat,Basic,,,,Monthly/ Annually,"$14
+per user/month, billed annually
+
+$19
+per user/month, billed monthly",,,,,
+Postman,https://www.postman.com/,Postman,DPDT,API Platforms,,Per Seat,Professional,,,,Monthly/ Annually,"$29
+per user/month, billed annually
+
+$39
+per user/month, billed monthly",,,,,
+Postman,https://www.postman.com/,Postman,DPDT,API Platforms,,Per Seat,Enterprise ,,,,Monthly/ Annually,"$49
+per user/month, billed annually",,,,,
+Zoho CRM,https://www.zoho.com/en-in/crm/,Zoho,SCS- Sales & Marketing,CRM Software,,Per Seat,Standard,https://www.zoho.com/crm/zohocrm-pricing.html?source_from=crm-header,". Lead Management: Capture, track, and nurture leads through the sales pipeline with automated workflows.
+
+. Contact Management: Maintain a centralized database of contacts, with detailed interaction histories and segmentation
+
+. Sales Automation: Automate sales processes, including follow-ups, task assignments, and approvals, to increase efficiency.
+
+. Analytics and Reporting: Generate detailed sales reports and analytics to gain insights into performance and trends.
+
+. Integration: Connect with other Zoho apps and third-party tools to create a unified business ecosystem.",,Monthly/ Annually,"₹800
+/user/month billed annually
+
+₹1,300
+/user/month billed monthly",,,,,
+Zoho CRM,https://www.zoho.com/en-in/crm/,Zoho,SCS- Sales & Marketing,CRM Software,,Per Seat,Professional,,,,Monthly/ Annually,"₹1,400
+/user/month billed annually
+
+₹2,100
+/user/month billed monthly",,,,,
+Zoho CRM,https://www.zoho.com/en-in/crm/,Zoho,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,Monthly/ Annually,"₹2,400
+/user/month billed annually
+
+₹3,000
+/user/month billed monthly",,,,,
+Zoho CRM,https://www.zoho.com/en-in/crm/,Zoho,SCS- Sales & Marketing,CRM Software,,Per Seat,Ultimate,,,,Monthly/ Annually,"₹2,600
+/user/month billed annually
+
+₹3,200
+/user/month billed monthly",,,,,
+Freshsales,https://www.freshworks.com/crm/sales/,Freshworks,SCS- Sales & Marketing,CRM Software,,Per Seat,Growth,https://www.freshworks.com/crm/pricing/,". Lead Scoring: Automatically score leads based on engagement and behavior to prioritize follow-up actions.
+
+. Contact Management: Manage contacts with detailed profiles, interaction histories, and segmentation capabilities.
+
+. Pipeline Management: Visualize and manage sales pipelines with drag-and-drop functionality and custom stages.
+
+. Email Tracking: Track email opens, clicks, and replies to measure engagement and optimize follow-ups.
+
+. Automation: Automate repetitive sales tasks with workflows and sequences to improve efficiency and consistency.",,Monthly/ Annually,"₹749
+/user/month, billed annually
+
+₹899
+/user/month, billed monthly",,,,,
+Freshsales,https://www.freshworks.com/crm/sales/,Freshworks,SCS- Sales & Marketing,CRM Software,,Per Seat,Pro,,,,Monthly/ Annually,"₹3,239
+/user/month, billed annually
+
+₹3,889
+/user/month, billed monthly",,,,,
+Freshsales,https://www.freshworks.com/crm/sales/,Freshworks,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,Monthly/ Annually,"₹4,899
+/user/month, billed annually
+
+₹5,879
+/user/month, billed monthly",,,,,
+Agile CRM,https://www.agilecrm.com/,Agile CRM,SCS- Sales & Marketing,CRM Software,,Per Seat,Free,https://www.agilecrm.com/pricing,". Contact Management: Centralize contact information with detailed interaction histories and segmentation options.
+
+. Sales Automation: Automate sales workflows, including lead scoring, task assignments, and follow-ups.
+
+. Marketing Automation: Design and execute marketing campaigns with email automation, social media integration, and web forms.
+
+. Customer Service: Manage customer support tickets and interactions to ensure timely resolutions and satisfaction.
+
+. Analytics and Reporting: Generate comprehensive reports on sales, marketing, and service metrics to drive data-driven decisions.",,Monthly,"FREE
+For 10 users",,,,,
+Agile CRM,https://www.agilecrm.com/,Agile CRM,SCS- Sales & Marketing,CRM Software,,Per Seat,starter,,,,Monthly,$8.99,,,,,
+Agile CRM,https://www.agilecrm.com/,Agile CRM,SCS- Sales & Marketing,CRM Software,,Per Seat,Regular,,,,Monthly,$29.99,,,,,
+Agile CRM,https://www.agilecrm.com/,Agile CRM,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,Monthly,$47.99,,,,,
+Mailshake,https://mailshake.com/,Mailshake,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Starter,https://mailshake.com/pricing,"Email Outreach: Send personalized email campaigns with automated follow-ups to engage prospects effectively.
+
+Email Tracking: Track email opens, clicks, and replies to measure engagement and refine outreach strategies.
+
+Automation: Automate follow-up sequences based on recipient actions to increase response rates.
+
+Templates: Use pre-designed email templates to maintain consistency and save time in campaign creation.
+
+Analytics: Analyze email performance metrics to identify successful strategies and areas for improvement.",,Monthly/ Annually,"$ 29 25
+user / month
+
+billed annually
+
+$ 29
+user / month",,,,,
+Mailshake,https://mailshake.com/,Mailshake,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Email Outreach,,,,Monthly/ Annually,"$45
+user / month
+
+billed annually
+
+$ 59
+user / month",,,,,
+Mailshake,https://mailshake.com/,Mailshake,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Sales Engagement,,,,Monthly/ Annually,"$85
+user / month
+
+billed annually
+
+$ 99
+user / month",,,,,
+Vtiger,https://www.vtiger.com/,Vtiger,SCS- Sales & Marketing,CRM Software,,Per Seat,One Growth,https://www.vtiger.com/pricing,"Contact Management: Manage contacts with detailed profiles, interaction histories, and segmentation capabilities.
+
+Sales Automation: Automate sales processes, including lead scoring, task assignments, and follow-ups, to improve efficiency.
+
+Marketing Automation: Design and execute marketing campaigns with email automation, social media integration, and web forms.
+
+Customer Service: Manage customer support tickets and interactions to ensure timely resolutions and satisfaction.
+
+Analytics and Reporting: Generate detailed reports on sales, marketing, and service metrics to drive data-driven decisions.",,Monthly/ Annually,"BILLED ANNUALLY
+INR 840
+per month
+
+BILLED MONTHLY
+INR 1050
+per month",,,,,
+Vtiger,https://www.vtiger.com/,Vtiger,SCS- Sales & Marketing,CRM Software,,Per Seat,One Professional,,,,Monthly/ Annually,"BILLED ANNUALLY
+INR 2100
+per month
+
+BILLED MONTHLY
+INR 2940
+per month",,,,,
+Vtiger,https://www.vtiger.com/,Vtiger,SCS- Sales & Marketing,CRM Software,,Per Seat,One Enterprise ,,,,Monthly/ Annually,"BILLED ANNUALLY
+INR 2940
+per month
+
+BILLED MONTHLY
+INR 4060
+per month",,,,,
+Vtiger,https://www.vtiger.com/,Vtiger,SCS- Sales & Marketing,CRM Software,,Per Seat,One AI,,,,Monthly/ Annually,"BILLED ANNUALLY
+INR 3500
+per month
+
+BILLED MONTHLY
+INR 4620
+per month",,,,,
+Apollo.io,https://www.apollo.io/,Apollo.io,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Free,https://www.apollo.io/pricing,"Sales Prospecting: Access a vast database of companies and contacts for targeted sales outreach.
+
+Lead Generation: Identify and qualify potential leads using advanced search filters and data analytics.
+
+Email Sequencing: Create and automate email sequences to nurture leads and increase engagement.
+
+CRM Integration: Sync data with CRM systems to ensure accurate and up-to-date records.
+
+Analytics: Monitor campaign performance and sales metrics to optimize outreach strategies.",,Monthly/ Annually,$0,,,,,
+Apollo.io,https://www.apollo.io/,Apollo.io,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Basic,,,,Monthly/ Annually,"Basic
+$49
+Per user, per month
+Billed annually",,,,,
+Apollo.io,https://www.apollo.io/,Apollo.io,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Professional,,,,Monthly/ Annually,,,,,,
+Apollo.io,https://www.apollo.io/,Apollo.io,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Organization,,,,Monthly/ Annually,,,,,,
+Lusha,https://www.lusha.com/,Lusha,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Free ,https://www.lusha.com/pricing,"Contact Enrichment: Enhance contact information with accurate and up-to-date details, including email addresses and phone numbers.
+
+Sales Prospecting: Identify and connect with potential leads using Lusha's extensive database.
+
+Integration: Integrate with CRM systems and sales tools to streamline workflows and data management.
+
+Chrome Extension: Use the browser extension to find contact information directly from social media and other web pages.
+
+Data Accuracy: Ensure high data accuracy and compliance with privacy regulations for effective prospecting.",,,,,,,,
+Lusha,https://www.lusha.com/,Lusha,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,pro ,,,,,,,,,,
+Lusha,https://www.lusha.com/,Lusha,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Premium,,,,,,,,,,
+Lusha,https://www.lusha.com/,Lusha,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Scale,,,,,,,,,,
+Mailchimp ,https://mailchimp.com/,Mailchimp ,SCS- Sales & Marketing,Email Marketing Software,,Hybrid,Free,https://mailchimp.com/pricing,"Email Campaigns: Design and send email campaigns with customizable templates and advanced segmentation.
+Automation: Automate email sequences based on triggers, such as user behavior or specific dates.
+Audience Management: Manage subscriber lists with detailed profiles and segmentation capabilities.
+Analytics: Track email performance metrics, including open rates, click rates, and conversion rates, to optimize campaigns.
+Integrations: Connect with e-commerce platforms, CRM systems, and other tools to enhance marketing efforts.",,,,,,,,
+Mailchimp ,https://mailchimp.com/,Mailchimp ,SCS- Sales & Marketing,Email Marketing Software,,Hybrid,Essential ,,,,,,,,,,
+Mailchimp ,https://mailchimp.com/,Mailchimp ,SCS- Sales & Marketing,Email Marketing Software,,Hybrid,Standard,,,,,,,,,,
+Mailchimp ,https://mailchimp.com/,Mailchimp ,SCS- Sales & Marketing,Email Marketing Software,,Hybrid,Premium,,,,,,,,,,
+MoEngage,https://www.moengage.com/,MoEngage,SCS- Sales & Marketing,Mobile Marketing Software,,Per Seat,Growth,https://www.moengage.com/pricing,"Customer Engagement: Design and deliver personalized messaging across multiple channels, including email, push notifications, and SMS.
+
+Automation: Automate engagement workflows based on user behavior and lifecycle stages.
+
+Analytics: Analyze user behavior and campaign performance to gain insights and optimize engagement strategies.
+
+Segmentation: Segment users based on behavior, demographics, and other criteria for targeted messaging.
+
+A/B Testing: Test different campaign variations to determine the most effective strategies and improve engagement.",,,,,,,,
+MoEngage,https://www.moengage.com/,MoEngage,SCS- Sales & Marketing,Mobile Marketing Software,,Per Seat,Enterprise,,,,,,,,,,
+Brevo,https://www.brevo.com/,Camelot IT Lab,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Free ,https://www.brevo.com/pricing,"Email Marketing: Create and send email campaigns with customizable templates and segmentation.
+
+SMS Marketing: Design and deliver SMS campaigns for targeted messaging and notifications.
+
+Marketing Automation: Automate marketing workflows based on user behavior and triggers.
+
+Transactional Emails: Send automated transactional emails, such as order confirmations and password resets.
+
+CRM Integration: Sync data with CRM systems to ensure accurate and up-to-date records for marketing efforts.",,,,,,,,
+Brevo,https://www.brevo.com/,Camelot IT Lab,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Starter,,,,,,,,,,
+Brevo,https://www.brevo.com/,Camelot IT Lab,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Business ,,,,,,,,,,
+Brevo,https://www.brevo.com/,Camelot IT Lab,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Enterprise,,,,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Personal,https://wordpress.com/pricing,"Content Management: Create, edit, and publish content with a user-friendly interface and extensive customization options.
+
+Website Design: Design and customize websites using themes and plugins to match branding and functionality requirements.
+
+E-commerce: Build and manage online stores with WooCommerce integration for product listings, payments, and inventory.
+
+SEO Optimization: Optimize website content for search engines using SEO plugins and best practices.
+
+Blogging: Create and manage blogs with features like categories, tags, and commenting to engage readers.",,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Premium,,,,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Business,,,,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Commerce,,,,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Cloud,,,,,,,,,,
+WordPress,https://wordpress.com/,WordPress,SCS- Sales & Marketing,Web Content Management Software,,Per Seat,Enterprise,,,,,,,,,,
+Medium,https://medium.com/,Medium,SCS- Sales & Marketing,,,Per Seat,Member,https://medium.com/pricing,"Content Publishing: Write, edit, and publish articles with a simple and elegant interface for wide distribution.
+
+Audience Engagement: Engage with readers through comments, highlights, and follower interactions.
+
+Storytelling: Share personal stories, insights, and expertise with a large, diverse audience.
+
+Collaboration: Collaborate with other writers and editors to co-author articles and improve content quality.
+
+Monetization: Earn money through the Medium Partner Program by creating engaging and popular content.",,,,,,,,
+Medium,https://medium.com/,Medium,SCS- Sales & Marketing,,,Per Seat,Friend,,,,,,,,,,
+Buffer,https://buffer.com/,Buffer,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Free ,https://buffer.com/pricing,"Social Media Scheduling: Schedule posts across multiple social media platforms to maintain a consistent online presence.
+
+Content Management: Organize and manage social media content with a visual calendar and content library.
+
+Analytics: Analyze social media performance metrics to measure engagement and optimize strategies.
+
+Team Collaboration: Collaborate with team members on content creation and approval workflows.
+
+Engagement: Monitor and respond to social media interactions to engage with followers and customers effectively.",,,,,,,,
+Buffer,https://buffer.com/,Buffer,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Essential ,,,,,,,,,,
+Buffer,https://buffer.com/,Buffer,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Team ,,,,,,,,,,
+Buffer,https://buffer.com/,Buffer,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Agency,,,,,,,,,,
+SEMrush ,https://www.semrush.com/,SEMrush ,SCS- Sales & Marketing,SEO Tools,,Usage Based,Pro,https://www.semrush.com/pricing,"SEO Research: Conduct keyword research, competitor analysis, and site audits to improve search engine rankings.
+
+Content Marketing: Develop and optimize content strategies based on keyword trends and audience insights.
+
+PPC Advertising: Plan and manage pay-per-click campaigns with detailed keyword and competitor data.
+
+Social Media Management: Track and analyze social media performance to optimize engagement and reach.
+
+Reporting: Generate comprehensive reports on SEO, PPC, and content marketing metrics for data-driven decisions.",,,,,,,,
+SEMrush ,https://www.semrush.com/,SEMrush ,SCS- Sales & Marketing,SEO Tools,,Usage Based,Guru,,,,,,,,,,
+SEMrush ,https://www.semrush.com/,SEMrush ,SCS- Sales & Marketing,SEO Tools,,Usage Based,Business,,,,,,,,,,
+Hootsuite ,https://www.hootsuite.com/,Hootsuite ,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Professional,https://www.hootsuite.com/pricing,"Social Media Management: Schedule and publish posts across multiple social media platforms from a single dashboard.
+
+Monitoring: Monitor social media mentions, keywords, and hashtags to stay informed about trends and brand sentiment.
+
+Analytics: Analyze social media performance metrics to measure engagement and optimize strategies.
+
+Team Collaboration: Collaborate with team members on content creation, scheduling, and approval workflows.
+
+Engagement: Respond to social media interactions and messages to engage with followers and customers effectively.",,,,,,,,
+Hootsuite ,https://www.hootsuite.com/,Hootsuite ,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Team ,,,,,,,,,,
+Hootsuite ,https://www.hootsuite.com/,Hootsuite ,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Management Tools,Per Seat,Enterprise Custom,,,,,,,,,,
+Zoho Campaigns,https://www.zoho.com/campaigns/,ZOHO,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Free,https://www.zoho.com/campaigns/pricing,"Email Marketing: Create and send email campaigns with customizable templates and advanced segmentation.
+
+Automation: Automate email sequences based on user behavior, triggers, and scheduled dates.
+
+Audience Management: Manage subscriber lists with detailed profiles, segmentation, and engagement tracking.
+
+A/B Testing: Test different email versions to determine the most effective subject lines, content, and designs.
+
+Analytics: Track email performance metrics like open rates, click rates, and conversions to optimize campaigns.",,,,,,,,
+Zoho Campaigns,https://www.zoho.com/campaigns/,ZOHO,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Standard,,,,,,,,,,
+Zoho Campaigns,https://www.zoho.com/campaigns/,ZOHO,SCS- Sales & Marketing,Email Marketing Software,,Usage Based,Professional,,,,,,,,,,
+Drift ,https://www.drift.com/,Salesloft,SCS- Sales & Marketing,Email Marketing Software,,Per Seat,Premium ,https://www.drift.com/pricing,"Live Chat: Engage website visitors in real-time with live chat functionality to answer questions and generate leads.
+
+Chatbots: Use AI-powered chatbots to automate conversations, qualify leads, and book meetings.
+
+Email Marketing: Send personalized email campaigns and follow-ups based on visitor interactions and behavior.
+
+Sales Engagement: Integrate with CRM systems to streamline sales processes and track interactions.
+
+Analytics: Analyze chat and chatbot performance to improve engagement strategies and customer experience.",,,,,,,,
+Drift ,https://www.drift.com/,Salesloft,SCS- Sales & Marketing,Email Marketing Software,,Per Seat,Standard,,,,,,,,,,
+Drift ,https://www.drift.com/,Salesloft,SCS- Sales & Marketing,Email Marketing Software,,Per Seat,Enterprise,,,,,,,,,,
+Typeform ,https://www.typeform.com/,Typeform ,SCS- Sales & Marketing,Online Form Builder Software,,Per Seat,Basic,https://www.typeform.com/pricing,"Survey Creation: Design engaging and interactive surveys with customizable templates and logic jumps.
+
+Lead Generation: Create forms and quizzes to capture leads and gather customer information.
+
+Feedback Collection: Collect customer feedback and insights through surveys, forms, and polls.
+
+Integration: Integrate with CRM systems, email marketing tools, and other apps for seamless data transfer.
+
+Analytics: Analyze responses and generate reports to gain insights and make data-driven decisions.",,,,,,,,
+Typeform ,https://www.typeform.com/,Typeform ,SCS- Sales & Marketing,Online Form Builder Software,,Per Seat,Plus,,,,,,,,,,
+Typeform ,https://www.typeform.com/,Typeform ,SCS- Sales & Marketing,Online Form Builder Software,,Per Seat,Business,,,,,,,,,,
+Typeform ,https://www.typeform.com/,Typeform ,SCS- Sales & Marketing,Online Form Builder Software,,Per Seat,Enterprise,,,,,,,,,,
+HelpCrunch,https://helpcrunch.com/,HelpCrunch,SCS- Customer Service,Live Chat Software,,Per Seat,Basic,https://helpcrunch.com/pricing,"Live Chat: Provide real-time support and engage with website visitors through live chat functionality.
+
+Email Marketing: Send automated email campaigns and follow-ups based on customer interactions and behavior.
+
+Knowledge Base: Create and manage a self-service knowledge base to help customers find answers quickly.
+
+Ticketing System: Manage customer support tickets efficiently with automated workflows and prioritization.
+
+Analytics: Track performance metrics and generate reports to improve support and engagement strategies.",,,,,,,,
+HelpCrunch,https://helpcrunch.com/,HelpCrunch,SCS- Customer Service,Live Chat Software,,Per Seat,Pro,,,,,,,,,,
+HelpCrunch,https://helpcrunch.com/,HelpCrunch,SCS- Customer Service,Live Chat Software,,Per Seat,Unlimited,,,,,,,,,,
+Zendesk,https://www.zendesk.com/in/,Zendesk,SCS- Customer Service,Help Desk Software,,Per Seat,Suite Team,https://www.zendesk.com/in/pricing,"Ticketing System: Organize and manage customer support tickets with a robust ticketing system.
+
+Knowledge Base: Create and maintain a self-service knowledge base to help customers find answers quickly.
+
+Live Chat: Provide real-time support and engage with customers through live chat functionality.
+
+Automation: Automate support processes with triggers, macros, and workflows to improve efficiency.
+
+Reporting and Analytics: Generate detailed reports on support metrics, agent performance, and customer satisfaction.",,,,,,,,
+Zendesk,https://www.zendesk.com/in/,Zendesk,SCS- Customer Service,Help Desk Software,,Per Seat,Suite Growth,,,,,,,,,,
+Zendesk,https://www.zendesk.com/in/,Zendesk,SCS- Customer Service,Help Desk Software,,Per Seat,Suite Professional,,,,,,,,,,
+Zendesk,https://www.zendesk.com/in/,Zendesk,SCS- Customer Service,Help Desk Software,,Per Seat,Suite Enterprise,,,,,,,,,,
+Intercom ,https://www.intercom.com/,Intercom ,SCS- Customer Service,Live Chat Software,,Per Seat,Essential ,https://www.intercom.com/pricing,"Live Chat: Engage with website visitors in real-time to provide support and generate leads.
+
+Chatbots: Use AI-powered chatbots to automate conversations, qualify leads, and route queries.
+
+Email Marketing: Send personalized email campaigns and follow-ups based on customer behavior and interactions.
+
+Knowledge Base: Create and manage a self-service knowledge base to help customers find answers quickly.
+
+Analytics: Analyze customer interactions and support metrics to optimize engagement and support strategies.",,,,,,,,
+Intercom ,https://www.intercom.com/,Intercom ,SCS- Customer Service,Live Chat Software,,Per Seat,Advanced,,,,,,,,,,
+Intercom ,https://www.intercom.com/,Intercom ,SCS- Customer Service,Live Chat Software,,Per Seat,Expert,,,,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Foundation,https://www.keka.com/pricing,"Payroll Management: Automate payroll processing, tax calculations, and compliance management.
+
+Attendance Tracking: Track employee attendance, leaves, and work hours with integrated time management tools.
+
+Employee Self-Service: Enable employees to manage their profiles, requests, and documents through a self-service portal.
+
+Performance Management: Conduct performance reviews, set goals, and track employee performance.
+
+Recruitment: Streamline recruitment processes with applicant tracking, job postings, and interview scheduling.",,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Strength ,,,,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Growth,,,,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Basic,,,,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Pro,,,,,,,,,,
+Keka,https://www.keka.com/,Keka,DW- HRMS,Core HR Software,,Per Seat,Advanced,,,,,,,,,,
+Zoho People,https://www.zoho.com/people/,Zoho,DW- HRMS,Core HR Software,,Per Seat,ESSENTIAL HR,https://www.zoho.com/people/pricing,"Employee Management: Manage employee records, profiles, and documents in a centralized system.
+
+Attendance and Leave: Track employee attendance, leaves, and work hours with integrated time management tools.
+
+Performance Management: Conduct performance reviews, set goals, and track employee performance.
+
+Payroll Integration: Integrate with payroll systems for seamless payroll processing and management.
+
+Employee Self-Service: Enable employees to manage their profiles, requests, and documents through a self-service portal.",,,,,,,,
+Zoho People,https://www.zoho.com/people/,Zoho,DW- HRMS,Core HR Software,,Per Seat,PROFESSIONAL,,,,,,,,,,
+Zoho People,https://www.zoho.com/people/,Zoho,DW- HRMS,Core HR Software,,Per Seat,PREMIUM,,,,,,,,,,
+Zoho People,https://www.zoho.com/people/,Zoho,DW- HRMS,Core HR Software,,Per Seat,ENTERPRISE,,,,,,,,,,
+Zoho People,https://www.zoho.com/people/,Zoho,DW- HRMS,Core HR Software,,Per Seat,PEOPLE PLUS,,,,,,,,,,
+GreytHR,https://www.greythr.com/,Grey Tip software,DW- HRMS,Core HR Software,,Per Seat,Starter,https://www.greythr.com/pricing,"IT Service Management: Manage IT service requests, incidents, and problems with a comprehensive ticketing system.
+
+Asset Management: Track and manage IT assets, including hardware, software, and licenses.
+
+Change Management: Plan, approve, and implement changes to IT infrastructure with change management workflows.
+
+Automation: Automate repetitive tasks and workflows to improve efficiency and reduce manual effort.
+
+Reporting and Analytics: Generate detailed reports on service performance, asset utilization, and incident trends.",,,,,,,,
+GreytHR,https://www.greythr.com/,Grey Tip software,DW- HRMS,Core HR Software,,Per Seat,Essential,,,,,,,,,,
+GreytHR,https://www.greythr.com/,Grey Tip software,DW- HRMS,Core HR Software,,Per Seat,Growth,,,,,,,,,,
+GreytHR,https://www.greythr.com/,Grey Tip software,DW- HRMS,Core HR Software,,Per Seat,Enterprise,,,,,,,,,,
+Freshservice,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Starter,https://www.freshworks.com/freshservice/pricing,"IT Service Management: Manage IT service requests, incidents, and problems with a comprehensive ticketing system.
+
+Asset Management: Track and manage IT assets, including hardware, software, and licenses.
+
+Change Management: Plan, approve, and implement changes to IT infrastructure with change management workflows.
+
+Automation: Automate repetitive tasks and workflows to improve efficiency and reduce manual effort.
+
+Reporting and Analytics: Generate detailed reports on service performance, asset utilization, and incident trends.",,,,,,,,
+Freshservice,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Growth,,,,,,,,,,
+Freshservice,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Pro,,,,,,,,,,
+Freshservice,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Enterprise,,,,,,,,,,
+Zoho Assist,https://www.zoho.com/assist/,Zoho,SCS- Customer Service,Remote Support Software,,Per Seat,STANDARD,https://www.zoho.com/assist/pricing,"Remote Support: Provide remote support to customers and employees with screen sharing and control features.
+
+Unattended Access: Set up unattended remote access to manage and troubleshoot devices without user intervention.
+
+File Transfer: Transfer files between local and remote devices securely during support sessions.
+
+Session Recording: Record remote support sessions for training, auditing, and compliance purposes.
+
+Integration: Integrate with other Zoho products and third-party tools to streamline support workflows.",,,,,,,,
+Zoho Assist,https://www.zoho.com/assist/,Zoho,SCS- Customer Service,Remote Support Software,,Per Seat,PROFESSIONAL,,,,,,,,,,
+Zoho Assist,https://www.zoho.com/assist/,Zoho,SCS- Customer Service,Remote Support Software,,Per Seat,ENTERPRISE,,,,,,,,,,
+Spiceworks,https://www.spiceworks.com/,Cloud Help Desk,SCS- Customer Service,Help Desk Software,,Per Seat,Individual Plan,https://www.spiceworks.com/pricing,"Help Desk: Manage IT service requests, incidents, and problems with a robust help desk solution.
+
+Network Monitoring: Monitor network performance, detect issues, and receive alerts for proactive management.
+
+Asset Management: Track and manage IT assets, including hardware, software, and licenses.
+
+Knowledge Base: Create and maintain a self-service knowledge base to help users find answers quickly.
+
+Reporting and Analytics: Generate detailed reports on service performance, asset utilization, and incident trends.",,,,,,,,
+Spiceworks,https://www.spiceworks.com/,Cloud Help Desk,SCS- Customer Service,Help Desk Software,,Per Seat,Team Plan,,,,,,,,,,
+Spiceworks,https://www.spiceworks.com/,Cloud Help Desk,SCS- Customer Service,Help Desk Software,,Per Seat,Enterprise Plan,,,,,,,,,,
+Spiceworks,https://www.spiceworks.com/,Cloud Help Desk,SCS- Customer Service,Help Desk Software,,Per Seat,Custom Plan,,,,,,,,,,
+OfficeRnD ,https://www.officernd.com/,OfficeRnD ,DW,Space Management Software,,Per Seat,Start,https://www.officernd.com/pricing,"Workspace Management: Manage coworking spaces, offices, and meeting rooms with a centralized platform.
+
+Member Management: Track member profiles, contracts, and billing information.
+
+Booking System: Enable members to book rooms, desks, and resources through an integrated booking system.
+
+Billing and Payments: Automate billing processes, generate invoices, and handle payments efficiently.
+
+Community Engagement: Foster community engagement with events, announcements, and member directories.",,,,,,,,
+OfficeRnD ,https://www.officernd.com/,OfficeRnD ,DW,Space Management Software,,Per Seat,Grow,,,,,,,,,,
+OfficeRnD ,https://www.officernd.com/,OfficeRnD ,DW,Space Management Software,,Per Seat,Scale,,,,,,,,,,
+Envoy ,https://envoy.com/,Envoy ,DW,Other Product Suites Software,,Per Seat,Basic (Free),https://envoy.com/pricing,"Visitor Management: Streamline visitor check-in processes with digital sign-in, badges, and notifications.
+
+Workplace Safety: Manage health and safety protocols, including health screenings and capacity limits.
+
+Employee Sign-In: Track employee attendance and manage workplace access with touchless sign-in options.
+
+Package Management: Track and manage incoming packages and deliveries for employees and tenants.
+
+Analytics and Reporting: Generate reports on visitor activity, compliance, and workplace utilization.",,,,,,,,
+Envoy ,https://envoy.com/,Envoy ,DW,Other Product Suites Software,,Per Seat,Standard,,,,,,,,,,
+Envoy ,https://envoy.com/,Envoy ,DW,Other Product Suites Software,,Per Seat,Premium,,,,,,,,,,
+Envoy ,https://envoy.com/,Envoy ,DW,Other Product Suites Software,,Per Seat,Enterprise,,,,,,,,,,
+Zoho Books,https://www.zoho.com/in/books/,Zoho,DW,Accounting & Finance Software,,Per Seat,STANDARD,https://www.zoho.com/in/books/pricing,"Invoicing: Create, send, and manage invoices with customizable templates and automated reminders.
+
+Expense Tracking: Track business expenses, categorize transactions, and manage reimbursements.
+
+Bank Reconciliation: Reconcile bank statements with accounting records to ensure accuracy.
+
+Financial Reporting: Generate detailed financial reports, including profit and loss, balance sheets, and cash flow statements.
+
+Inventory Management: Track and manage inventory levels, purchase orders, and sales.",,,,,,,,
+Zoho Books,https://www.zoho.com/in/books/,Zoho,DW,Accounting & Finance Software,,Per Seat,PROFESSIONAL,,,,,,,,,,
+Zoho Books,https://www.zoho.com/in/books/,Zoho,DW,Accounting & Finance Software,,Per Seat,PREMIUM,,,,,,,,,,
+Vyapar,https://vyaparapp.in/,Axonify,DW,Accounting & Finance Software,,Per Seat,Silver Plan,https://vyaparapp.in/pricing,"Invoicing: Create, send, and manage invoices with customizable templates and automated reminders.
+
+Expense Tracking: Track business expenses, categorize transactions, and manage reimbursements.
+
+Inventory Management: Track and manage inventory levels, purchase orders, and sales.
+
+GST Compliance: Ensure compliance with GST regulations, including filing returns and generating GST reports.
+
+Financial Reporting: Generate detailed financial reports, including profit and loss, balance sheets, and cash flow statements.",,,,,,,,
+Vyapar,https://vyaparapp.in/,Axonify,DW,Accounting & Finance Software,,Per Seat,Gold Plan,,,,,,,,,,
+ProfitBooks,https://profitbooks.net/,ProfitBooks,DW,Inventory Management Software,Inventory Control Software,Per Seat,STARTUP,https://profitbooks.net/pricing,"Invoicing: Create, send, and manage invoices with customizable templates and automated reminders.
+
+Expense Tracking: Track business expenses, categorize transactions, and manage reimbursements.
+
+Inventory Management: Track and manage inventory levels, purchase orders, and sales.
+
+Payroll Management: Automate payroll processing, tax calculations, and compliance management.
+
+Financial Reporting: Generate detailed financial reports, including profit and loss, balance sheets, and cash flow statements.",,,,,,,,
+ProfitBooks,https://profitbooks.net/,ProfitBooks,DW,Inventory Management Software,Inventory Control Software,Per Seat,SMB,,,,,,,,,,
+Xero ,https://www.xero.com/,Xero ,DW,Accounting & Finance Software,Accounting Software,Per Seat,Starter,https://www.xero.com/pricing,"Invoicing: Create, send, and manage invoices with customizable templates and automated reminders.
+
+Expense Tracking: Track business expenses, categorize transactions, and manage reimbursements.
+
+Bank Reconciliation: Reconcile bank statements with accounting records to ensure accuracy.
+
+Financial Reporting: Generate detailed financial reports, including profit and loss, balance sheets, and cash flow statements.
+
+Payroll Management: Automate payroll processing, tax calculations, and compliance management.",,,,,,,,
+Xero ,https://www.xero.com/,Xero ,DW,Accounting & Finance Software,Accounting Software,Per Seat,Standard,,,,,,,,,,
+Xero ,https://www.xero.com/,Xero ,DW,Accounting & Finance Software,Accounting Software,Per Seat,Premium,,,,,,,,,,
+Tally ERP 9,https://tallysolutions.com/download/,Alcode,DW,Accounting & Finance Software,Accounting Software,Per Seat,SILVER RENTAL,https://tallysolutions.com/download/pricing,"Accounting: Manage financial transactions, general ledger, and financial statements.
+
+Inventory Management: Track and manage inventory levels, purchase orders, and sales.
+
+GST Compliance: Ensure compliance with GST regulations, including filing returns and generating GST reports.
+
+Payroll Management: Automate payroll processing, tax calculations, and compliance management.
+
+Bank Reconciliation: Reconcile bank statements with accounting records to ensure accuracy.",,,,,,,,
+Tally ERP 9,https://tallysolutions.com/download/,Alcode,DW,Accounting & Finance Software,Accounting Software,Per Seat,SILVER,,,,,,,,,,
+Tally ERP 9,https://tallysolutions.com/download/,Alcode,DW,Accounting & Finance Software,Accounting Software,Per Seat,GOLD RENTAL,,,,,,,,,,
+Tally ERP 9,https://tallysolutions.com/download/,Alcode,DW,Accounting & Finance Software,Accounting Software,Per Seat,GOLD,,,,,,,,,,
+DocuSign ,https://www.docusign.com/en-in,DocuSign ,SCS- CLM,Contract Lifecycle Management (CLM) Software,,Per Seat,Personal,https://www.docusign.com/en-inpricing,"Electronic Signatures: Obtain legally binding electronic signatures for documents, contracts, and agreements.
+
+Document Management: Store, manage, and organize signed documents in a secure repository.
+
+Workflow Automation: Automate document workflows, including routing, approvals, and notifications.
+
+Integration: Integrate with CRM systems, productivity tools, and other apps for seamless document management.
+
+Compliance: Ensure compliance with industry standards and regulations for electronic signatures and document security.",,,,,,,,
+DocuSign ,https://www.docusign.com/en-in,DocuSign ,SCS- CLM,Contract Lifecycle Management (CLM) Software,,Per Seat,Standard,,,,,,,,,,
+DocuSign ,https://www.docusign.com/en-in,DocuSign ,SCS- CLM,Contract Lifecycle Management (CLM) Software,,Per Seat,Business Pro,,,,,,,,,,
+SignNow,https://www.signnow.com/,Air slate,SCS- CLM,E-Signature Software,,Per Seat,Business,https://www.signnow.com/pricing,"Electronic Signatures: Obtain legally binding electronic signatures for documents, contracts, and agreements.
+
+Document Management: Store, manage, and organize signed documents in a secure repository.
+
+Workflow Automation: Automate document workflows, including routing, approvals, and notifications.
+
+Templates: Create and use reusable templates for frequently signed documents to save time.
+
+Integration: Integrate with CRM systems, productivity tools, and other apps for seamless document management.",,,,,,,,
+SignNow,https://www.signnow.com/,Air slate,SCS- CLM,E-Signature Software,,Per Seat,Business Premium,,,,,,,,,,
+SignNow,https://www.signnow.com/,Air slate,SCS- CLM,E-Signature Software,,Per Seat,Enterprise,,,,,,,,,,
+SignNow,https://www.signnow.com/,Air slate,SCS- CLM,E-Signature Software,,Per Seat,Site License,,,,,,,,,,
+Zoho Sign,https://www.zoho.com/en-in/sign/,Zoho,SCS- CLM,E-Signature Software,,Per Seat,FREE,https://www.zoho.com/en-in/sign/pricing,"Electronic Signatures: Obtain legally binding electronic signatures for documents, contracts, and agreements.
+
+Document Management: Store, manage, and organize signed documents in a secure repository.
+
+Workflow Automation: Automate document workflows, including routing, approvals, and notifications.
+
+Templates: Create and use reusable templates for frequently signed documents to save time.
+
+Integration: Integrate with other Zoho apps and third-party tools for seamless document management.",,,,,,,,
+Zoho Sign,https://www.zoho.com/en-in/sign/,Zoho,SCS- CLM,E-Signature Software,,Per Seat,STANDARD,,,,,,,,,,
+Zoho Sign,https://www.zoho.com/en-in/sign/,Zoho,SCS- CLM,E-Signature Software,,Per Seat,PROFESSIONAL,,,,,,,,,,
+Zoho Sign,https://www.zoho.com/en-in/sign/,Zoho,SCS- CLM,E-Signature Software,,Per Seat,ENTERPRISE,,,,,,,,,,
+PartnerStack ,https://partnerstack.com/,PartnerStack ,SCS- Sales & Marketing,Partnerships Management,Partner Relationship Management (PRM) Software,,,https://partnerstack.com/pricing,"Partner Management: Manage and track partner relationships, including onboarding, training, and performance.
+
+Commission Tracking: Automate commission calculations, payments, and tracking for partners.
+
+Marketing Collaboration: Collaborate with partners on co-marketing initiatives and campaigns.
+
+Analytics and Reporting: Generate detailed reports on partner performance, sales, and commission payouts.
+
+Integration: Integrate with CRM systems, marketing tools, and other apps for a unified partner ecosystem.",,,,,,,,
+PitchBook ,https://pitchbook.com/,PitchBook ,SCS- Sales & Marketing,Financial Services Software,Financial Research Software,,Starter,,"Market Research: Access comprehensive data on private and public companies, investments, and industry trends.
+
+Deal Sourcing: Identify and track potential investment opportunities and deal flow.
+
+Valuation Analysis: Analyze company valuations, financials, and comparables for informed investment decisions.
+
+Due Diligence: Conduct due diligence with detailed company profiles, financials, and deal histories.
+
+Custom Reports: Generate custom reports and presentations for clients, stakeholders, and internal analysis.",,,,,,,,
+Crunchbase ,https://www.crunchbase.com/,Crunchbase ,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Pro,https://www.crunchbase.com/buy/select-product,"Company Research: Discover detailed information on companies, including financials, funding rounds, and key personnel.
+
+Investor Insights: Track investor activities, portfolio companies, and investment trends.
+
+Market Trends: Analyze industry trends and emerging markets with aggregated data and news updates.
+
+Lead Generation: Identify potential clients, partners, and investment opportunities using advanced search filters.
+
+Competitive Analysis: Compare competitors’ profiles, growth metrics, and market strategies.",,,,,,,,
+Crunchbase ,https://www.crunchbase.com/,Crunchbase ,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Enterprise,,,,,,,,,,
+DealRoom ,https://dealroom.co/,DealRoom ,DW,Financial Services Software,M&A Software,Per Seat,Starter,https://dealroom.co/pricing,"Due Diligence: Streamline due diligence processes with centralized document management and collaboration tools.
+
+Project Management: Manage M&A transactions and projects with task assignments, timelines, and progress tracking.
+
+Secure File Sharing: Share sensitive documents securely with encrypted storage and access controls.
+
+Analytics and Reporting: Generate detailed reports on deal progress, activity logs, and team performance.
+
+Integration: Integrate with CRM systems, communication tools, and other apps for seamless workflows.",,,,,,,,
+DealRoom ,https://dealroom.co/,DealRoom ,DW,Financial Services Software,M&A Software,Per Seat,Team,,,,,,,,,,
+DealRoom ,https://dealroom.co/,DealRoom ,DW,Financial Services Software,M&A Software,Per Seat,Corporate,,,,,,,,,,
+Google Forms,https://www.google.com/forms,Google,SCS- CLM,Office Suites Software,,Per Seat,Business Standard,https://www.google.com/formspricing,"Survey Creation: Design and distribute surveys, quizzes, and feedback forms with customizable templates.
+
+Data Collection: Collect and organize responses in real-time with automatic aggregation in Google Sheets.
+
+Event Registration: Create registration forms for events, webinars, and workshops.
+
+Customer Feedback: Gather customer feedback and insights through structured forms.
+
+Quizzes and Assessments: Create educational quizzes and assessments with automated grading.",,,,,,,,
+Google Forms,https://www.google.com/forms,Google,SCS- CLM,Office Suites Software,,Per Seat,Free,,,,,,,,,,
+Zoho Projects,https://www.zoho.com/projects/,Zoho,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,FREE,https://www.zoho.com/projects/pricing,"Task Management: Plan, assign, and track tasks with customizable workflows and timelines.
+
+Collaboration: Enhance team collaboration with shared documents, forums, and real-time chat.
+
+Gantt Charts: Visualize project timelines and dependencies with interactive Gantt charts.
+
+Time Tracking: Track time spent on tasks and projects for accurate billing and productivity analysis.
+
+Reporting: Generate detailed reports on project progress, resource utilization, and team performance.",,,,,,,,
+Zoho Projects,https://www.zoho.com/projects/,Zoho,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,PREMIUM,,,,,,,,,,
+Zoho Projects,https://www.zoho.com/projects/,Zoho,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,ENTERPRISE,,,,,,,,,,
+Asana ,https://asana.com/,Asana ,DW- Productivity,"Project, Portfolio & Program Management Software",Project Collaboration Software,Per Seat,Personal,https://asana.com/pricing,"Task Management: Create and manage tasks, subtasks, and projects with customizable workflows.
+
+Project Tracking: Visualize project progress with timelines, boards, and calendars.
+
+Team Collaboration: Enhance team collaboration with shared projects, task comments, and real-time notifications.
+
+Automation: Automate repetitive tasks and workflows to improve efficiency and consistency.
+
+Reporting: Generate insights on project performance, task completion rates, and team productivity.",,,,,,,,
+Asana ,https://asana.com/,Asana ,DW- Productivity,"Project, Portfolio & Program Management Software",Project Collaboration Software,Per Seat,Starter,,,,,,,,,,
+Asana ,https://asana.com/,Asana ,DW- Productivity,"Project, Portfolio & Program Management Software",Project Collaboration Software,Per Seat,Advanced,,,,,,,,,,
+Monday.com,https://monday.com/,Monday.com,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Free,https://monday.com/pricing,"Work Management: Plan and manage tasks, projects, and workflows with customizable boards and templates.
+
+Collaboration: Foster team collaboration with shared boards, comments, and real-time updates.
+
+Automation: Automate routine tasks and workflows to increase efficiency and reduce manual effort.
+
+Dashboards: Create visual dashboards to track project progress, timelines, and performance metrics.
+
+Integration: Connect with other tools and apps to streamline workflows and data management.",,,,,,,,
+Monday.com,https://monday.com/,Monday.com,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Basic,,,,,,,,,,
+Monday.com,https://monday.com/,Monday.com,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Standard,,,,,,,,,,
+Monday.com,https://monday.com/,Monday.com,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Pro,,,,,,,,,,
+Monday.com,https://monday.com/,Monday.com,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Enterprise,,,,,,,,,,
+Smartsheet,https://www.smartsheet.com/,Smartsheet,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Pro,https://www.smartsheet.com/pricing,"Project Management: Manage projects and tasks with customizable sheets, templates, and workflows.
+
+Collaboration: Collaborate with team members through shared sheets, comments, and real-time updates.
+
+Automation: Automate repetitive tasks and workflows to improve efficiency and consistency.
+
+Dashboards: Create interactive dashboards to visualize project progress, timelines, and key metrics.
+
+Reporting: Generate detailed reports on project performance, resource utilization, and team productivity.",,,,,,,,
+Smartsheet,https://www.smartsheet.com/,Smartsheet,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Business ,,,,,,,,,,
+Smartsheet,https://www.smartsheet.com/,Smartsheet,DW- Productivity,"Project, Portfolio & Program Management Software",Project Management Software,Per Seat,Enterprise,,,,,,,,,,
+Power BI,https://www.microsoft.com/en-us/power-platform/products/power-bi,Microsoft,SCS- Analytics,Analytics Platforms,,Per Seat,Free,https://www.microsoft.com/en-us/power-platform/products/power-bipricing,"Data Visualization: Create interactive and customizable data visualizations with drag-and-drop functionality.
+
+Data Integration: Connect to various data sources, including databases, spreadsheets, and cloud services.
+
+Real-Time Analytics: Monitor real-time data and generate insights with live dashboards and reports.
+
+Collaboration: Share reports and dashboards with team members and stakeholders for collaborative analysis.
+
+Custom Reports: Generate detailed and custom reports for in-depth data analysis and decision-making",,,,,,,,
+Power BI,https://www.microsoft.com/en-us/power-platform/products/power-bi,Microsoft,SCS- Analytics,Analytics Platforms,,Per Seat,"Variable
+                             ",,,,,,,,,,
+Tableau ,https://www.tableau.com/,Salesforce,SCS- Analytics,Analytics Platforms,,Per Seat,Tableau Creator,https://www.tableau.com/pricing,"Data Visualization: Create interactive and dynamic data visualizations with an intuitive drag-and-drop interface.
+
+Data Integration: Connect to multiple data sources, including databases, spreadsheets, and cloud services.
+
+Real-Time Analytics: Monitor and analyze real-time data with live dashboards and visualizations.
+
+Collaboration: Share dashboards and reports with team members and stakeholders for collaborative analysis.
+
+Custom Reports: Generate detailed and custom reports for in-depth data analysis and insights.",,,,,,,,
+Tableau ,https://www.tableau.com/,Salesforce,SCS- Analytics,Analytics Platforms,,Per Seat,Tableau Explorer,,,,,,,,,,
+Tableau ,https://www.tableau.com/,Salesforce,SCS- Analytics,Analytics Platforms,,Per Seat,Tableau Viewer,,,,,,,,,,
+Productboard,https://www.productboard.com/,Productboard,DW- Productivity,Product Management Software,,Per Seat,Starter,https://www.productboard.com/pricing,"Product Roadmapping: Plan and visualize product roadmaps with customizable boards and timelines.
+
+Feature Prioritization: Prioritize features and initiatives based on customer feedback, business goals, and impact.
+
+Customer Feedback: Collect and organize customer feedback to inform product decisions and development.
+
+Collaboration: Enhance team collaboration with shared roadmaps, comments, and real-time updates.
+
+Reporting: Generate reports on product progress, feature development, and customer satisfaction.",,,,,,,,
+Productboard,https://www.productboard.com/,Productboard,DW- Productivity,Product Management Software,,Per Seat,Essentials,,,,,,,,,,
+Productboard,https://www.productboard.com/,Productboard,DW- Productivity,Product Management Software,,Per Seat,Pro,,,,,,,,,,
+Productboard,https://www.productboard.com/,Productboard,DW- Productivity,Product Management Software,,Per Seat,Enterprise,,,,,,,,,,
+BrowserStack,https://www.browserstack.com/,BrowserStack,DW- Productivity,Software Testing Tools,,Per Seat,Desktop,https://www.browserstack.com/pricing,"Cross-Browser Testing: Test websites and applications across multiple browsers and devices in real-time.
+
+Automated Testing: Automate functional and regression testing with integrated testing frameworks and tools.
+
+Visual Testing: Perform visual testing to ensure UI consistency and accuracy across different environments.
+
+Performance Testing: Test and analyze website performance across various browsers and devices.
+
+Integration: Integrate with CI/CD pipelines and testing tools for seamless workflows.",,,,,,,,
+BrowserStack,https://www.browserstack.com/,BrowserStack,DW- Productivity,Software Testing Tools,,Per Seat,Desktop & Mobile,,,,,,,,,,
+BrowserStack,https://www.browserstack.com/,BrowserStack,DW- Productivity,Software Testing Tools,,Per Seat,Team ,,,,,,,,,,
+BrowserStack,https://www.browserstack.com/,BrowserStack,DW- Productivity,Software Testing Tools,,Per Seat,Team Pro,,,,,,,,,,
+BrowserStack,https://www.browserstack.com/,BrowserStack,DW- Productivity,Software Testing Tools,,Per Seat,Enterprise,,,,,,,,,,
+Lambdatest,https://www.lambdatest.com/intl/en-in,Lambdatest,DW- Productivity,Software Testing Tools,,Usage Based,Free,https://www.lambdatest.com/intl/en-inpricing,"Cross-Browser Testing: Test websites and applications across multiple browsers, operating systems, and devices.
+
+Automated Testing: Automate functional and regression testing with integrated testing frameworks and tools.
+
+Visual Testing: Conduct visual testing to ensure UI consistency and accuracy across different environments.
+
+Real-Time Testing: Perform real-time testing to identify and fix issues quickly across various browsers and devices.
+
+Integration: Integrate with CI/CD pipelines and testing tools for streamlined testing workflows.",,,,,,,,
+Lambdatest,https://www.lambdatest.com/intl/en-in,Lambdatest,DW- Productivity,Software Testing Tools,,Usage Based,Live,,,,,,,,,,
+Lambdatest,https://www.lambdatest.com/intl/en-in,Lambdatest,DW- Productivity,Software Testing Tools,,Usage Based,Real Device,,,,,,,,,,
+Lambdatest,https://www.lambdatest.com/intl/en-in,Lambdatest,DW- Productivity,Software Testing Tools,,Usage Based,Enterprise,,,,,,,,,,
+HubSpot Sales,https://www.hubspot.in/pricing/sales/enterprise?term=annual,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat,"Professional",https://www.hubspot.in/pricing/sales/enterprise?term=annualpricing,"Lead Management: Capture, track, and nurture leads through the sales pipeline with automated workflows.
+
+Email Tracking: Track email opens, clicks, and replies to measure engagement and optimize follow-ups.
+
+Sales Automation: Automate sales tasks, such as follow-ups, task assignments, and approvals, to improve efficiency.
+
+Pipeline Management: Visualize and manage sales pipelines with customizable stages and reporting.
+
+Integration: Connect with CRM systems, marketing tools, and other apps for a unified sales ecosystem.",,,,,,,,
+HubSpot Sales,https://www.hubspot.in/pricing/sales/enterprise?term=annual,HubSpot,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,,,,,,,
+Pipedrive,https://www.pipedrive.com/,Pipedrive,SCS- Sales & Marketing,CRM Software,,Per Seat,Essentials,https://www.pipedrive.com/pricing,"Pipeline Management: Visualize and manage sales pipelines with customizable stages and workflows.
+
+Lead Management: Capture, track, and nurture leads through the sales process with automated workflows.
+
+Email Integration: Integrate with email systems to track communication and automate follow-ups.
+
+Sales Reporting: Generate detailed reports on sales performance, pipeline progress, and conversion rates.
+
+Automation: Automate repetitive sales tasks to improve efficiency and consistency.",,,,,,,,
+Pipedrive,https://www.pipedrive.com/,Pipedrive,SCS- Sales & Marketing,CRM Software,,Per Seat,Advanced,,,,,,,,,,
+Pipedrive,https://www.pipedrive.com/,Pipedrive,SCS- Sales & Marketing,CRM Software,,Per Seat,"Professional",,,,,,,,,,
+Pipedrive,https://www.pipedrive.com/,Pipedrive,SCS- Sales & Marketing,CRM Software,,Per Seat,Power,,,,,,,,,,
+Pipedrive,https://www.pipedrive.com/,Pipedrive,SCS- Sales & Marketing,CRM Software,,Per Seat,Enterprise,,,,,,,,,,
+Outreach,https://www.outreach.io/,Outreach,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Engage,https://www.outreach.io/pricing,"Sales Engagement: Automate and manage multi-channel sales outreach with personalized email sequences.
+
+Lead Management: Track and nurture leads through the sales pipeline with automated workflows.
+
+Email Tracking: Monitor email opens, clicks, and replies to measure engagement and optimize follow-ups.
+
+Reporting and Analytics: Generate detailed reports on sales activities, engagement metrics, and performance
+.
+Integration: Integrate with CRM systems, marketing tools, and other apps for a unified sales process.",,,,,,,,
+Outreach,https://www.outreach.io/,Outreach,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Call (Voice package),,,,,,,,,,
+Outreach,https://www.outreach.io/,Outreach,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Meet,,,,,,,,,,
+Outreach,https://www.outreach.io/,Outreach,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Deal,,,,,,,,,,
+Outreach,https://www.outreach.io/,Outreach,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Forecast,,,,,,,,,,
+Gong,https://www.gong.io/,Gong,SCS- Sales & Marketing,Sales Acceleration Software,Conversation Intelligence Software,,,https://www.gong.io/pricing,"Conversation Analytics: Analyze sales calls and meetings to gain insights into customer interactions and behavior.
+
+Performance Coaching: Identify coaching opportunities and provide feedback to improve sales team performance.
+
+Deal Intelligence: Track deal progress and identify risks or opportunities with AI-powered insights.
+
+Automated Note-Taking: Automatically capture and transcribe sales calls for accurate record-keeping.
+
+Integration: Integrate with CRM systems, communication tools, and other apps for seamless workflows.",,,,,,,,
+LinkedIn Sales Navigator,https://business.linkedin.com/sales-solutions/compare-plans-b?adobe_mc_sdid=SDID%3D72E6D5239261A82C-23D8ED4530030DC5%7CMCORGID%3D14215E3D5995C57C0A495C55%40AdobeOrg%7CTS%3D1720674501&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2F,LinkedIn ,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Core,https://business.linkedin.com/sales-solutions/compare-plans-b?adobe_mc_sdid=SDID%3D72E6D5239261A82C-23D8ED4530030DC5%7CMCORGID%3D14215E3D5995C57C0A495C55%40AdobeOrg%7CTS%3D1720674501&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2Fpricing,"Lead Generation: Identify and connect with potential leads using advanced search filters and recommendations.
+
+Account Insights: Gain insights into target accounts with detailed company profiles and activity updates.
+
+CRM Integration: Sync data with CRM systems to ensure accurate and up-to-date records.
+
+Sales Alerts: Receive alerts on key changes and activities within target accounts and leads.
+
+Team Collaboration: Collaborate with team members on lead generation and account management efforts.",,,,,,,,
+LinkedIn Sales Navigator,https://business.linkedin.com/sales-solutions/compare-plans-b?adobe_mc_sdid=SDID%3D72E6D5239261A82C-23D8ED4530030DC5%7CMCORGID%3D14215E3D5995C57C0A495C55%40AdobeOrg%7CTS%3D1720674501&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2F,LinkedIn ,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Advanced,,,,,,,,,,
+LinkedIn Sales Navigator,https://business.linkedin.com/sales-solutions/compare-plans-b?adobe_mc_sdid=SDID%3D72E6D5239261A82C-23D8ED4530030DC5%7CMCORGID%3D14215E3D5995C57C0A495C55%40AdobeOrg%7CTS%3D1720674501&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2F,LinkedIn ,SCS- Sales & Marketing,Sales Intelligence Software,,Per Seat,Advanced Plus,,,,,,,,,,
+Clearbit,https://clearbit.com/,Clearbit,SCS- Sales & Marketing,Sales Intelligence Software,,,,https://clearbit.com/pricing,"Data Enrichment: Enhance customer data with accurate and up-to-date information, including email addresses and phone numbers.
+
+Lead Generation: Identify and qualify potential leads using advanced search filters and data analytics.
+
+CRM Integration: Sync enriched data with CRM systems for accurate and comprehensive customer profiles.
+
+Real-Time API: Access real-time data and insights to support sales, marketing, and customer support efforts.
+
+Account-Based Marketing: Segment and target accounts with personalized marketing campaigns based on enriched data.
+",,,,,,,,
+Marketo,https://business.adobe.com/products/marketo/sales-connect.html,Adobe,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Growth,https://business.adobe.com/products/marketo/sales-connect.htmlpricing,"Email Marketing: Create and send personalized email campaigns with advanced segmentation and automation.
+
+Lead Nurturing: Automate lead nurturing workflows to engage prospects and move them through the sales funnel.
+
+Marketing Automation: Streamline marketing processes with automated workflows, triggers, and campaign management.
+
+Analytics and Reporting: Generate detailed reports on campaign performance, lead behavior, and ROI.
+
+Integration: Integrate with CRM systems, sales tools, and other marketing platforms for seamless workflows.",,,,,,,,
+Marketo,https://business.adobe.com/products/marketo/sales-connect.html,Adobe,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Select,,,,,,,,,,
+Marketo,https://business.adobe.com/products/marketo/sales-connect.html,Adobe,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Prime,,,,,,,,,,
+Marketo,https://business.adobe.com/products/marketo/sales-connect.html,Adobe,SCS- Sales & Marketing,Sales Acceleration Software,Sales Engagement Software,Per Seat,Ultimate,,,,,,,,,,
+ActiveCampaign,https://www.activecampaign.com/,ActiveCampaign,SCS- Sales & Marketing,Marketing Automation Software,,Usage Based,Starter,https://www.activecampaign.com/pricing,"Email Marketing: Create and send personalized email campaigns with advanced segmentation and automation.
+
+Marketing Automation: Automate marketing workflows, including lead nurturing, follow-ups, and campaign management.
+
+CRM Integration: Sync data with CRM systems to ensure accurate and up-to-date customer profiles.
+
+Sales Automation: Automate sales tasks, such as follow-ups, task assignments, and approvals, to improve efficiency.
+
+Analytics and Reporting: Generate detailed reports on campaign performance, lead behavior, and ROI.",,,,,,,,
+ActiveCampaign,https://www.activecampaign.com/,ActiveCampaign,SCS- Sales & Marketing,Marketing Automation Software,,Usage Based,Plus,,,,,,,,,,
+ActiveCampaign,https://www.activecampaign.com/,ActiveCampaign,SCS- Sales & Marketing,Marketing Automation Software,,Usage Based,Pro,,,,,,,,,,
+ActiveCampaign,https://www.activecampaign.com/,ActiveCampaign,SCS- Sales & Marketing,Marketing Automation Software,,Usage Based,Enterprise,,,,,,,,,,
+CleverTap,https://clevertap.com/,CleverTap,SCS- Sales & Marketing,Mobile Marketing Software,,Usage Based,Essentials,https://clevertap.com/pricing,"Customer Segmentation: Segment customers based on behavior, demographics, and engagement to target campaigns.
+
+Omnichannel Engagement: Engage customers across multiple channels, including email, push notifications, and in-app messaging.
+
+Marketing Automation: Automate marketing workflows, including lead nurturing, follow-ups, and campaign management.
+
+Real-Time Analytics: Monitor real-time data and generate insights on customer behavior and campaign performance.
+
+Retention Strategies: Implement and track retention strategies to improve customer loyalty and lifetime value.",,,,,,,,
+CleverTap,https://clevertap.com/,CleverTap,SCS- Sales & Marketing,Mobile Marketing Software,,Usage Based,Advanced ,,,,,,,,,,
+CleverTap,https://clevertap.com/,CleverTap,SCS- Sales & Marketing,Mobile Marketing Software,,Usage Based,Cutting Edge,,,,,,,,,,
+Contently,https://contently.com/,Contently,SCS- Sales & Marketing,Content Marketing Software,Content Creation Software,,,https://contently.com/pricing/,"Content Creation: Plan, create, and manage high-quality content with integrated workflow and collaboration tools.
+
+Content Distribution: Distribute content across various channels, including websites, social media, and email.
+
+Content Strategy: Develop and execute content strategies based on audience insights and market trends.
+
+Analytics and Reporting: Measure content performance and ROI with detailed analytics and reporting.
+
+Freelancer Management: Manage and collaborate with freelance writers, editors, and designers through a centralized platform.",,,,,,,,
+CoSchedule,https://coschedule.com/,CoSchedule,SCS- Sales & Marketing,Other Product Suites Software,,Per Seat,Free Calendar,https://coschedule.com/pricing,"Marketing Calendar: Plan, schedule, and manage marketing campaigns with a centralized calendar.
+
+Content Marketing: Create, organize, and distribute content across various channels with integrated workflows.
+
+Social Media Management: Schedule and publish social media posts with automated workflows and analytics.
+
+Team Collaboration: Enhance team collaboration with shared calendars, task assignments, and real-time updates.
+
+Analytics and Reporting: Generate detailed reports on campaign performance, content engagement, and ROI.",,,,,,,,
+CoSchedule,https://coschedule.com/,CoSchedule,SCS- Sales & Marketing,Other Product Suites Software,,Per Seat,Social Calendar,,,,,,,,,,
+CoSchedule,https://coschedule.com/,CoSchedule,SCS- Sales & Marketing,Other Product Suites Software,,Per Seat,Agency Calendar,,,,,,,,,,
+CoSchedule,https://coschedule.com/,CoSchedule,SCS- Sales & Marketing,Other Product Suites Software,,Per Seat,Content Calendar,,,,,,,,,,
+CoSchedule,https://coschedule.com/,CoSchedule,SCS- Sales & Marketing,Other Product Suites Software,,Per Seat,Marketing Suite,,,,,,,,,,
+BuzzSumo,https://buzzsumo.com/,Cision,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Analytics Software,Per Seat,Content Creation,https://buzzsumo.com/pricing/,"Content Discovery: Discover trending content and topics across various platforms to inform content strategy.
+
+Competitor Analysis: Analyze competitors’ content performance, engagement metrics, and strategies.
+
+Influencer Identification: Identify and connect with influencers in your industry for collaboration and outreach.
+
+Content Research: Conduct in-depth research on content performance, audience behavior, and market trends.
+
+Alerts and Notifications: Receive alerts on new content, mentions, and industry updates to stay informed.",,,,,,,,
+BuzzSumo,https://buzzsumo.com/,Cision,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Analytics Software,Per Seat,"PR & Comms
+",,,,,,,,,,
+BuzzSumo,https://buzzsumo.com/,Cision,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Analytics Software,Per Seat,Suite,,,,,,,,,,
+BuzzSumo,https://buzzsumo.com/,Cision,SCS- Sales & Marketing,Social Media Marketing Software,Social Media Analytics Software,Per Seat,Enterprise,,,,,,,,,,
+Ahrefs,https://ahrefs.com/,Ahrefs,SCS- Sales & Marketing,SEO Tools,,Hybrid,Lite,https://ahrefs.com/pricing,"SEO Analysis: Analyze website performance, backlinks, and keyword rankings to improve SEO strategies.
+
+Keyword Research: Discover and analyze keywords for content optimization and PPC campaigns.
+
+Competitor Analysis: Monitor competitors’ SEO performance, backlinks, and content strategies.
+
+Content Research: Identify high-performing content and topics to inform content creation and marketing efforts.
+
+Site Audits: Conduct site audits to identify and fix technical SEO issues and improve site performance.",,,,,,,,
+Ahrefs,https://ahrefs.com/,Ahrefs,SCS- Sales & Marketing,SEO Tools,,Hybrid,Standard,,,,,,,,,,
+Ahrefs,https://ahrefs.com/,Ahrefs,SCS- Sales & Marketing,SEO Tools,,Hybrid,Advanced,,,,,,,,,,
+Ahrefs,https://ahrefs.com/,Ahrefs,SCS- Sales & Marketing,SEO Tools,,Hybrid,Enterprise,,,,,,,,,,
+Gainsight,https://www.gainsight.com/,Gainsight,SCS- Customer Service,Customer Success Software,,Per Seat,Essentials,https://www.gainsight.com/pricing/,"Customer Success Management: Manage and track customer success activities, including onboarding, support, and renewals.
+
+Health Scoring: Monitor customer health scores with data-driven metrics and insights.
+
+Renewal Management: Track and manage renewals, upsells, and churn risk with automated workflows.
+
+Customer Feedback: Collect and analyze customer feedback to improve satisfaction and retention.
+
+Reporting and Analytics: Generate detailed reports on customer success metrics, health scores, and engagement.",,,,,,,,
+Gainsight,https://www.gainsight.com/,Gainsight,SCS- Customer Service,Customer Success Software,,Per Seat,Enterprise,,,,,,,,,,
+Totango,https://www.totango.com/,Totango,SCS- Customer Service,Customer Success Software,,Hybrid,Starter,https://www.totango.com/packages?,"Customer Success Management: Track and manage customer success activities, including onboarding, support, and renewals.
+
+Health Scoring: Monitor customer health scores with data-driven metrics and insights.
+
+Renewal Management: Manage renewals, upsells, and churn risk with automated workflows and alerts.
+
+Customer Feedback: Collect and analyze customer feedback to improve satisfaction and retention.
+
+Reporting and Analytics: Generate detailed reports on customer success metrics, health scores, and engagement.",,,,,,,,
+Totango,https://www.totango.com/,Totango,SCS- Customer Service,Customer Success Software,,Hybrid,Enterprise,,,,,,,,,,
+Totango,https://www.totango.com/,Totango,SCS- Customer Service,Customer Success Software,,Hybrid,Premier,,,,,,,,,,
+ChurnZero,https://churnzero.com/?nab=0,ChurnZero,SCS- Customer Service,Customer Success Software,,,,,"Customer Success Management: Manage and track customer success activities, including onboarding, support, and renewals.
+
+Health Scoring: Monitor customer health scores with real-time data and predictive analytics.
+
+Churn Prediction: Identify and mitigate churn risk with data-driven insights and proactive interventions.
+
+Customer Engagement: Engage customers with personalized communication, surveys, and feedback collection.
+
+Reporting and Analytics: Generate detailed reports on customer success metrics, health scores, and engagement.",,,,,,,,
+Yellow.ai,https://yellow.ai/,Yellow.ai,SCS- Customer Service,Conversational Intelligence Software,Bot Platforms Software,Usage Based,Free,https://yellow.ai/pricing/,"Conversational AI: Deploy AI-powered chatbots and virtual assistants for customer support and engagement.
+
+Omnichannel Engagement: Engage customers across multiple channels, including web, mobile, social media, and messaging apps.
+
+Automated Workflows: Automate customer interactions, workflows, and processes to improve efficiency.
+
+Natural Language Processing: Leverage NLP to understand and respond to customer queries accurately.
+
+Analytics and Reporting: Monitor chatbot performance and customer interactions with detailed analytics and reporting.",,,,,,,,
+Yellow.ai,https://yellow.ai/,Yellow.ai,SCS- Customer Service,Conversational Intelligence Software,Bot Platforms Software,Usage Based,Enterprise,,,,,,,,,,
+BambooHR,https://www.bamboohr.com/g2/,BambooHR,SCS- Customer Service,HRMS & HCM Software,,Per Seat,"Core",https://www.bamboohr.com/pricing/,"HR Management: Manage employee records, profiles, and documents in a centralized system.
+
+Recruitment: Streamline recruitment processes with applicant tracking, job postings, and interview scheduling.
+
+Onboarding: Automate employee onboarding with customizable workflows and checklists.
+
+Performance Management: Conduct performance reviews, set goals, and track employee performance.
+
+Payroll Integration: Integrate with payroll systems for seamless payroll processing and management.",,,,,,,,
+BambooHR,https://www.bamboohr.com/g2/,BambooHR,DW- HRMS,HRMS & HCM Software,,Per Seat,"Pro",,,,,,,,,,
+Gusto,https://gusto.com/,Gusto,DW- HRMS,Payroll Software,,Per Seat,Simple,https://gusto.com/product/pricing,"Payroll Management: Automate payroll processing, tax calculations, and compliance management.
+
+Benefits Administration: Manage employee benefits, including health insurance, retirement plans, and more.
+
+HR Management: Track employee records, profiles, and documents in a centralized system.
+
+Onboarding: Simplify employee onboarding with customizable workflows and document management.
+
+Time Tracking: Track employee attendance, hours worked, and time off requests.",,,,,,,,
+Gusto,https://gusto.com/,Gusto,DW- HRMS,Payroll Software,,Per Seat,Plus,,,,,,,,,,
+Gusto,https://gusto.com/,Gusto,DW- HRMS,Payroll Software,,Per Seat,Premium,,,,,,,,,,
+Freshservice ,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Starter,https://www.freshworks.com/freshservice/pricing/,"IT Service Management: Manage IT service requests, incidents, and problems with a comprehensive ticketing system.
+
+Asset Management: Track and manage IT assets, including hardware, software, and licenses.
+
+Change Management: Plan, approve, and implement changes to IT infrastructure with change management workflows.
+
+Automation: Automate repetitive tasks and workflows to improve efficiency and reduce manual effort.
+
+Reporting and Analytics: Generate detailed reports on service performance, asset utilization, and incident trends.",,,,,,,,
+Freshservice ,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Growth,,,,,,,,,,
+Freshservice ,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,"Pro",,,,,,,,,,
+Freshservice ,https://www.freshworks.com/freshservice/,Freshworks,DPDT,IT Service Management Tools,,Per Seat,Enterprise,,,,,,,,,,
+Robin ,https://robinpowered.com/,Robin ,DW,Space Management Software,,,,,"Workspace Management: Manage office spaces, meeting rooms, and desk reservations with a centralized platform.
+
+Employee Sign-In: Track employee attendance and manage workplace access with touchless sign-in options.
+
+Room Scheduling: Enable employees to book meeting rooms and resources through an integrated booking system.
+
+Workplace Analytics: Analyze workspace utilization and occupancy trends to optimize office layout and resource allocation.
+
+Integration: Integrate with calendar systems, communication tools, and other apps for seamless workflows.",,,,,,,,
+Anaplan,https://www.anaplan.com/,Anaplan,DW,Accounting & Finance Software,Corporate Performance Management (CPM) Software,Per Seat,Basic,https://www.anaplan.com/pricing/,"Financial Planning: Conduct financial planning, budgeting, and forecasting with integrated models and scenarios.
+
+Sales Planning: Manage sales performance, quotas, and territory planning with real-time data and analytics.
+
+Operational Planning: Optimize operational planning across supply chain, workforce, and other business functions.
+
+Collaboration: Enhance team collaboration with shared models, data, and real-time updates.
+
+Analytics and Reporting: Generate detailed reports and dashboards for informed decision-making and performance tracking.",,,,,,,,
+Anaplan,https://www.anaplan.com/,Anaplan,DW,Accounting & Finance Software,Corporate Performance Management (CPM) Software,Per Seat,Professional,,,,,,,,,,
+Anaplan,https://www.anaplan.com/,Anaplan,,Accounting & Finance Software,Corporate Performance Management (CPM) Software,Per Seat,Enterprise,,,,,,,,,,
+Planful,https://planful.com/,Planful,DW,Accounting & Finance Software,Financial Close Software,,,,"Financial Planning: Conduct financial planning, budgeting, and forecasting with integrated models and scenarios.
+
+Performance Management: Monitor and analyze financial performance with real-time data and dashboards.
+
+Scenario Planning: Create and analyze multiple scenarios to assess the impact of business decisions.
+
+Collaboration: Enhance team collaboration with shared models, data, and real-time updates.
+
+Reporting and Analytics: Generate detailed reports and dashboards for informed decision-making and performance tracking.",,,,,,,,
+NetSuite,https://www.netsuite.com/portal/in/home.shtml,Oracle,DPDT,ERP Systems,,,,,"ERP: Manage financials, inventory, order management, and business operations with an integrated ERP system.
+
+CRM: Track customer interactions, sales, and support activities with a comprehensive CRM module.
+
+E-commerce: Manage online sales and customer experience with integrated e-commerce solutions.
+
+HR Management: Track employee records, profiles, and performance with integrated HR tools.
+
+Financial Reporting: Generate detailed financial reports, including profit and loss, balance sheets, and cash flow statements.",,,,,,,,
+ContractWorks,https://www.contractworks.com/,Onit,SCS- CLM,Contract Management Software,,Per Seat,Standard,https://www.contractworks.com/contract-management-software-pricing,"Contract Management: Store, manage, and organize contracts with centralized document management.
+
+Electronic Signatures: Obtain legally binding electronic signatures for contracts and agreements.
+
+Workflow Automation: Automate contract workflows, including approvals, notifications, and renewals.
+
+Reporting and Analytics: Generate detailed reports on contract status, renewals, and compliance.
+
+Integration: Integrate with CRM systems, productivity tools, and other apps for seamless contract management.",,,,,,,,
+ContractWorks,https://www.contractworks.com/,Onit,SCS- CLM,Contract Management Software,,Per Seat,Professional,,,,,,,,,,
+ContractWorks,https://www.contractworks.com/,Onit,SCS- CLM,Contract Management Software,,Per Seat,Premium,,,,,,,,,,
+Ironclad,https://ironcladapp.com/,Ironclad,SCS- CLM,Contract Lifecycle Management (CLM) Software,,,,https://ironcladapp.com/lp/pricing/,"Contract Lifecycle Management: Manage the entire contract lifecycle from creation to renewal with automated workflows.
+
+Collaboration: Enhance team collaboration with shared contract workspaces, comments, and version control.
+
+Document Automation: Automate contract generation with templates, clause libraries, and conditional logic.
+
+Compliance: Ensure compliance with industry standards and regulations with audit trails and reporting.
+
+Integration: Integrate with CRM systems, productivity tools, and other apps for seamless contract management.",,,,,,,,
+Crossbeam,https://www.crossbeam.com/,Crossbeam,SCS- CLM,Partnerships Management,Partner Ecosystem Platforms Software,Per Seat,Explorer,https://www.crossbeam.com/pricing/,"Partner Ecosystem: Manage and track partner relationships, including onboarding, training, and performance.
+
+Data Sharing: Share data securely with partners to identify mutual opportunities and collaboration areas.
+
+Account Mapping: Map and visualize overlapping accounts and opportunities with partners.
+
+Collaboration: Enhance collaboration with partners through shared insights and real-time updates.
+
+Integration: Integrate with CRM systems, sales tools, and other apps for a unified partner ecosystem.",,,,,,,,
+Crossbeam,https://www.crossbeam.com/,Crossbeam,SCS- CLM,Partnerships Management,Partner Ecosystem Platforms Software,Per Seat,Connector,,,,,,,,,,
+Crossbeam,https://www.crossbeam.com/,Crossbeam,SCS- CLM,Partnerships Management,Partner Ecosystem Platforms Software,Per Seat,Supernode,,,,,,,,,,
+Impact,https://impact.com/,Impact,SCS- CLM,Partnerships Management,Partner Relationship Management (PRM) Software,,,,"Partnership Management: Manage and track partnerships, including onboarding, training, and performance.
+
+Affiliate Marketing: Automate and optimize affiliate marketing programs with tracking, reporting, and payouts.
+
+Performance Marketing: Monitor and analyze the performance of marketing campaigns and partnerships.
+
+Compliance: Ensure compliance with industry standards and regulations for partnership and marketing activities.
+
+Integration: Integrate with CRM systems, marketing tools, and other apps for seamless partnership management.",,,,,,,,
+IdeaScale,https://ideascale.com/,IdeaScale,DW,Idea Management Software,,,,https://ideascale.com/pricing/,"Idea Generation: Collect and organize ideas from employees, customers, and stakeholders for innovation.
+
+Crowdsourcing: Engage a community in crowdsourcing ideas and solutions to business challenges.
+
+Idea Evaluation: Evaluate and prioritize ideas based on criteria such as impact, feasibility, and cost.
+
+Collaboration: Enhance collaboration on idea development with comments, voting, and real-time updates.
+
+Reporting and Analytics: Generate detailed reports on idea submissions, evaluation results, and implementation progress.",,,,,,,,
+ Brightidea,https://www.brightidea.com/, Brightidea,DW,Idea Management Software,,,,,"Idea Management: Collect, organize, and evaluate ideas from employees, customers, and stakeholders.
+
+Innovation Programs: Manage and track innovation programs, including challenges, hackathons, and incubators.
+
+Collaboration: Enhance collaboration on idea development with comments, voting, and real-time updates.
+
+Workflow Automation: Automate workflows for idea evaluation, approval, and implementation.
+
+Reporting and Analytics: Generate detailed reports on idea submissions, evaluation results, and innovation program performance.",,,,,,,,
+SurveyMonkey,https://www.surveymonkey.com/,SurveyMonkey,SCS- CLM,Survey Software,,Per Seat,Team Advantage ,https://www.surveymonkey.com/pricing/?ut_source=homepage&ut_source3=desktop-standalone-link,"Survey Creation: Design and distribute surveys, quizzes, and feedback forms with customizable templates.
+
+Data Collection: Collect and organize responses in real-time with automatic aggregation and analysis.
+
+Customer Feedback: Gather customer feedback and insights to inform product and service improvements.
+
+Market Research: Conduct market research and gather data on consumer preferences, trends, and behaviors.
+
+Reporting and Analytics: Generate detailed reports and analytics on survey responses and feedback.",,,,,,,,
+SurveyMonkey,https://www.surveymonkey.com/,SurveyMonkey,SCS- CLM,Survey Software,,Per Seat,Team Premier,,,,,,,,,,
+SurveyMonkey,https://www.surveymonkey.com/,SurveyMonkey,SCS- CLM,Survey Software,,Per Seat,Team Enterprise ,,,,,,,,,,
+SurveySparrow,https://surveysparrow.com/,SurveySparrow,SCS- CLM,Survey Software,,Usage Based,Individuals,https://surveysparrow.com/pricing-get-quote/,"Survey Creation: Design and distribute surveys, quizzes, and feedback forms with customizable templates.
+
+Conversational Surveys: Engage respondents with conversational surveys for higher response rates and engagement.
+
+Customer Feedback: Gather customer feedback and insights to inform product and service improvements.
+
+Employee Feedback: Collect employee feedback and conduct pulse surveys to improve workplace satisfaction.
+
+Reporting and Analytics: Generate detailed reports and analytics on survey responses and feedback.",,,,,,,,
+SurveySparrow,https://surveysparrow.com/,SurveySparrow,SCS- CLM,Survey Software,,Usage Based,Teams,,,,,,,,,,
+"
+Salesforce Sales Cloud",https://www.salesforce.com/in/sales/cloud/,Salesforce,SCS- Sales and Marketing,CRM Software,,Per Seat,Enterprise,https://www.salesforce.com/in/sales/pricing/,"Lead Management: Capture, track, and nurture leads through the sales pipeline with automated workflows.
+
+Opportunity Management: Manage and track sales opportunities with customizable stages and reporting.
+
+Sales Forecasting: Generate accurate sales forecasts with real-time data and predictive analytics.
+
+Collaboration: Enhance team collaboration with shared records, tasks, and real-time updates.
+
+Integration: Integrate with other Salesforce products and third-party apps for a unified sales ecosystem.",,,,,,,,
+"
+Salesforce Sales Cloud",https://www.salesforce.com/in/sales/cloud/,Salesforce,SCS- Sales and Marketing,CRM Software,,Per Seat,Unlimited,,,,,,,,,,
+"
+Salesforce Sales Cloud",https://www.salesforce.com/in/sales/cloud/,Salesforce,SCS- Sales and Marketing,CRM Software,,Per Seat,Einstein 1 Sales,,,,,,,,,,
+Mixpanel,https://mixpanel.com/,Mixpanel,SCS- Sales and Marketing,Conversion Rate Optimization Tools,Product Analytics Software,Usage Based,FREE,https://mixpanel.com/pricing,"Product Analytics: Track and analyze user interactions with your product to gain insights into behavior and usage.
+
+Segmentation: Segment users based on behavior, demographics, and engagement for targeted analysis.
+
+Retention Analysis: Monitor and analyze user retention to identify factors driving engagement and churn.
+
+A/B Testing: Conduct A/B tests to evaluate the impact of changes and optimize product features.
+
+Reporting and Dashboards: Create custom reports and dashboards for detailed insights and performance tracking.",,,,,,,,
+Mixpanel,https://mixpanel.com/,Mixpanel,SCS- Sales and Marketing,Conversion Rate Optimization Tools,Product Analytics Software,Usage Based,GROWTH,,,,,,,,,,
+Mixpanel,https://mixpanel.com/,Mixpanel,SCS- Sales and Marketing,Conversion Rate Optimization Tools,Product Analytics Software,Usage Based,ENTERPRISE,,,,,,,,,,
+Gupshup,https://www.gupshup.io/,Gupshup,DW- Productivity,Conversational Intelligence Software,Bot Platforms Software,,,,"Conversational AI: Deploy AI-powered chatbots and virtual assistants for customer support and engagement.
+
+Omnichannel Messaging: Engage customers across multiple channels, including web, mobile, social media, and messaging apps.
+
+Workflow Automation: Automate customer interactions, workflows, and processes to improve efficiency.
+
+Natural Language Processing: Leverage NLP to understand and respond to customer queries accurately.
+
+Analytics and Reporting: Monitor chatbot performance and customer interactions with detailed analytics and reporting.",,,,,,,,
+DiscoverOrg,https://discoverorg.com/,DiscoverOrg,SCS- Sales and Marketing,,,,,https://discoverorg.com/pricing/,"Lead Generation: Identify and qualify potential leads with accurate and up-to-date contact information.
+
+Account Insights: Gain insights into target accounts with detailed company profiles and activity updates.
+
+Data Enrichment: Enhance customer data with accurate and up-to-date information, including email addresses and phone numbers.
+
+Sales Intelligence: Monitor and analyze sales opportunities, trends, and competitive intelligence.
+
+Integration: Integrate with CRM systems, marketing tools, and other apps for a unified sales ecosystem.",,,,,,,,
+Pardot,https://www.salesforce.com/in/marketing/b2b-automation/,Salesforce,SCS- Sales and Marketing,Marketing Automation Software,Salesforce Marketing Cloud Account Engagement,Usage Based,Growth,https://www.salesforce.com/in/marketing/b2b-automation/,"Lead Generation: Capture and nurture leads with automated workflows and personalized campaigns.
+
+Email Marketing: Create and send personalized email campaigns with advanced segmentation and automation.
+
+Lead Scoring: Score leads based on engagement and behavior to prioritize sales efforts.
+
+Analytics and Reporting: Generate detailed reports on campaign performance, lead behavior, and ROI.
+
+Integration: Integrate with Salesforce and other CRM systems for seamless lead management.",,,,,,,,
+Pardot,https://www.salesforce.com/in/marketing/b2b-automation/,Salesforce,SCS- Sales and Marketing,Marketing Automation Software,Salesforce Marketing Cloud Account Engagement,Usage Based,Plus,,,,,,,,,,
+Pardot,https://www.salesforce.com/in/marketing/b2b-automation/,Salesforce,SCS- Sales and Marketing,Marketing Automation Software,Salesforce Marketing Cloud Account Engagement,Usage Based,Advanced,,,,,,,,,,
+Pardot,https://www.salesforce.com/in/marketing/b2b-automation/,Salesforce,SCS- Sales and Marketing,Marketing Automation Software,Salesforce Marketing Cloud Account Engagement,Usage Based,Premium,,,,,,,,,,
+Percolate,https://percolate.com/,Seismic,SCS- Sales and Marketing,Content Marketing Software,Content Experience Platforms,,,,"Content Management: Plan, create, and manage content with integrated workflow and collaboration tools.
+
+Campaign Planning: Plan and execute marketing campaigns with a centralized calendar and task management.
+
+Content Distribution: Distribute content across various channels, including websites, social media, and email.
+
+Analytics and Reporting: Generate detailed reports on campaign performance, content engagement, and ROI.
+
+Collaboration: Enhance team collaboration with shared calendars, task assignments, and real-time updates.",,,,,,,,
+Skyword,https://www.skyword.com/,Skyword,SCS- Sales and Marketing,Content Marketing Software,Content Creation Software,,,,"Content Creation: Plan, create, and manage high-quality content with integrated workflow and collaboration tools.
+
+Content Distribution: Distribute content across various channels, including websites, social media, and email.
+
+Content Strategy: Develop and execute content strategies based on audience insights and market trends.
+
+Analytics and Reporting: Measure content performance and ROI with detailed analytics and reporting.
+
+Freelancer Management: Manage and collaborate with freelance writers, editors, and designers through a centralized platform.",,,,,,,,
+SAP SuccessFactors,https://www.sap.com/india/products/hcm.html,Salesforce,DW- HRMS,HRMS & HCM Software,,,,https://www.sap.com/india/products/hcm/recruiting-software/pricing.html,"HR Management: Manage employee records, profiles, and documents in a centralized system.
+
+Recruitment: Streamline recruitment processes with applicant tracking, job postings, and interview scheduling.
+
+Performance Management: Conduct performance reviews, set goals, and track employee performance.
+
+Learning and Development: Manage employee training and development programs with customizable workflows.
+
+Payroll Integration: Integrate with payroll systems for seamless payroll processing and management.",,,,,,,,
+Sage Intacct,https://www.sage.com/en-us/sage-business-cloud/intacct/,Sage,DPDT- Cloud,Accounting & Finance Software,Accounting Software,,,,"Financial Management: Manage financials, including general ledger, accounts payable, and accounts receivable.
+
+Budgeting and Planning: Conduct budgeting and financial planning with integrated models and scenarios.
+
+Reporting and Dashboards: Generate detailed financial reports and dashboards for performance tracking.
+
+Expense Management: Track and manage employee expenses with automated workflows and approval processes.
+
+Integration: Integrate with CRM systems, ERP solutions, and other apps for a unified financial ecosystem.",,,,,,,,
+ContractPodAi,https://contractpodai.com/,ContractPodAi,SCS- CLM,Contract Lifecycle Management (CLM) Software,,,,,"Contract Lifecycle Management: Manage the entire contract lifecycle from creation to renewal with automated workflows.
+
+Collaboration: Enhance team collaboration with shared contract workspaces, comments, and version control.
+
+Document Automation: Automate contract generation with templates, clause libraries, and conditional logic.
+
+Compliance: Ensure compliance with industry standards and regulations with audit trails and reporting.
+
+Integration: Integrate with CRM systems, productivity tools, and other apps for seamless contract management.",,,,,,,,
+Hype Innovation,https://www.hypeinnovation.com/,Hype Innovation,DPDT- Productivity ,Idea Management Software,,,,,"Idea Management: Collect, organize, and evaluate ideas from employees, customers, and stakeholders.
+
+Innovation Programs: Manage and track innovation programs, including challenges, hackathons, and incubators.
+
+Collaboration: Enhance collaboration on idea development with comments, voting, and real-time updates.
+
+Workflow Automation: Automate workflows for idea evaluation, approval, and implementation.
+
+Reporting and Analytics: Generate detailed reports on idea submissions, evaluation results, and innovation program performance.",,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Phone Connector,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Ads,,,,,,,,,,,,,,,,,
+Ads,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Converational Intelligence Tool,,,,,,,,,,,,,,,,,
