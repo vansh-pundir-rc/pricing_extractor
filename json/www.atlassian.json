@@ -1,0 +1,141 @@
+```python
+pricing_info = {
+    "plans": {
+        "Free": {
+            "Core Features": {
+                "User limit per instance": "Up to 5 users",
+                "Build minutes": "50 minutes per month",
+                "Additional build minutes": "$10 per 1,000 additional build minutes, per month",
+                "Git LFS (Large File Storage)": "1 GB",
+                "Code insights": "Three integrations",
+                "Deployment environments": "10",
+                "Unlimited private repositories": True,
+                "Jira integration": True,
+                "CI/CD (continuous integration and continuous delivery)": True,
+                "Unlimited pull request reviewers": True,
+                "Merge checks": True,
+                "AI-powered pull request descriptions": False,
+                "AI-enhanced summaries in editor prompts": False,
+                "AI-driven pull request comment creation with custom prompts": False,
+                "AI-enabled spelling, grammar, and tone editing in pull requests": False,
+                "Dynamic CI/CD pipelines": False
+            },
+            "Security & Compliance": {
+                "Atlassian Guard (SSO, audit logs)": "Requires Atlassian Guard subscription",
+                "Resource-scoped Access Tokens": "Repository level",
+                "Encryption in transit and at rest": True,
+                "Business continuity and disaster recovery": True,
+                "IP allowlisting": False,
+                "Enforced merge checks": False,
+                "Required two-step verification": False,
+                "Scale CI workflows": False,
+                "Deployment permissions": False
+            },
+            "Support": {
+                "Support": "Community only",
+                "Guaranteed uptime SLA": False
+            }
+        },
+        "Standard": {
+            "Core Features": {
+                "User limit per instance": "Unlimited",
+                "Build minutes": "2,500 minutes per month",
+                "Additional build minutes": "$10 per 1,000 additional build minutes, per month",
+                "Git LFS (Large File Storage)": "5 GB",
+                "Code insights": "Three integrations",
+                "Deployment environments": "100",
+                "Unlimited private repositories": True,
+                "Jira integration": True,
+                "CI/CD (continuous integration and continuous delivery)": True,
+                "Unlimited pull request reviewers": True,
+                "Merge checks": True,
+                "AI-powered pull request descriptions": False,
+                "AI-enhanced summaries in editor prompts": False,
+                "AI-driven pull request comment creation with custom prompts": False,
+                "AI-enabled spelling, grammar, and tone editing in pull requests": False,
+                "Dynamic CI/CD pipelines": False
+            },
+            "Security & Compliance": {
+                "Atlassian Guard (SSO, audit logs)": "Requires Atlassian Guard subscription",
+                "Resource-scoped Access Tokens": "Repository level",
+                "Encryption in transit and at rest": True,
+                "Business continuity and disaster recovery": True,
+                "IP allowlisting": False,
+                "Enforced merge checks": False,
+                "Required two-step verification": False,
+                "Scale CI workflows": False,
+                "Deployment permissions": False
+            },
+            "Support": {
+                "Support": "Standard",
+                "Guaranteed uptime SLA": False
+            }
+        },
+        "Premium": {
+            "Core Features": {
+                "User limit per instance": "Unlimited",
+                "Build minutes": "3,500 minutes per month",
+                "Additional build minutes": "$10 per 1,000 additional build minutes, per month",
+                "Git LFS (Large File Storage)": "10 GB",
+                "Code insights": "Unlimited",
+                "Deployment environments": "100",
+                "Unlimited private repositories": True,
+                "Jira integration": True,
+                "CI/CD (continuous integration and continuous delivery)": True,
+                "Unlimited pull request reviewers": True,
+                "Merge checks": True,
+                "AI-powered pull request descriptions": True,
+                "AI-enhanced summaries in editor prompts": True,
+                "AI-driven pull request comment creation with custom prompts": True,
+                "AI-enabled spelling, grammar, and tone editing in pull requests": True,
+                "Dynamic CI/CD pipelines": True
+            },
+            "Security & Compliance": {
+                "Atlassian Guard (SSO, audit logs)": "Requires Atlassian Guard subscription",
+                "Resource-scoped Access Tokens": "Repository, project, and workspace",
+                "Encryption in transit and at rest": True,
+                "Business continuity and disaster recovery": True,
+                "IP allowlisting": True,
+                "Enforced merge checks": True,
+                "Required two-step verification": True,
+                "Scale CI workflows": True,
+                "Deployment permissions": True
+            },
+            "Support": {
+                "Support": "Premium",
+                "Guaranteed uptime SLA": "99.9%"
+            }
+        }
+    },
+    "additional_info": {
+        "Payment methods": "Credit cards (MasterCard, Visa, American Express)",
+        "Free, Standard, and Premium plan details": {
+            "Free": {
+                "User limit": "Up to 5 users",
+                "File storage": "1 GB for LFS",
+                "Build minutes": "50 build minutes per month"
+            },
+            "Standard": {
+                "User limit": "Unlimited",
+                "File storage": "5 GB for LFS",
+                "Build minutes": "2,500 build minutes per month"
+            },
+            "Premium": {
+                "User limit": "Unlimited",
+                "File storage": "10 GB for LFS",
+                "Build minutes": "3,500 build minutes per month"
+            }
+        },
+        "Additional build minutes pricing": "$10 per 1,000 minutes",
+        "Additional Git LFS pricing": "$10 per 100 GB",
+        "Data Center": {
+            "Pricing": "USD X per year",
+            "Free trial": "30 days",
+            "Discounts": {
+                "Academic": "50% discount",
+                "Community": "Free"
+            }
+        }
+    }
+}
+```

@@ -1,0 +1,56 @@
+{
+    "plans": {
+        "pro": {
+            "monthly_price": 139.95,
+            "annual_price": 139.95 * 12 * 0.83,  // 17% discount
+            "features": {
+                "projects": 5,
+                "keywords_to_track": 500,
+                "results_per_report": 10000,
+                "SEO_tools": ["Competitor analysis", "keyword research", "website audit", "backlink analysis", "advertising tools"]
+            }
+        },
+        "guru": {
+            "monthly_price": 249.95,
+            "annual_price": 249.95 * 12 * 0.83,
+            "features": {
+                "projects": 15,
+                "keywords_to_track": 1500,
+                "results_per_report": 30000,
+                "all_pro_features": true,
+                "additional_features": ["Content Marketing Toolkit", "historical data", "multi-location and device tracking", "Looker Studio integration"]
+            }
+        },
+        "business": {
+            "monthly_price": 499.95,
+            "annual_price": 499.95 * 12 * 0.83,
+            "features": {
+                "projects": 40,
+                "keywords_to_track": 5000,
+                "results_per_report": 50000,
+                "all_guru_features": true,
+                "additional_features": ["Share of Voice", "extended limits", "API access", "PLA analytics", "free migration from third-party tools"]
+            }
+        }
+    },
+    "additional_users": {
+        "pro": 45,
+        "guru": 80,
+        "business": 100
+    },
+    "local_marketing": {
+        "basic_plan": 20,
+        "premium_plan": 40
+    },
+    "trends": 289,
+    "social": {
+        "social_management": 29.99,
+        "social_content_ai": 29.99
+    },
+    "agency_growth_kit": {
+        "start": 69,
+        "scale": 149,
+        "advanced": 249
+    },
+    "impacthero": 200
+}

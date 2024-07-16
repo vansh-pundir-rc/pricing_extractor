@@ -1,0 +1,162 @@
+```python
+pricing_plans = {
+    "Starter": {
+        "price": "Free",
+        "description": "Get started building better products",
+        "includes": [
+            "50 feedback notes",
+            "1 Teamspace",
+            "1 Objective",
+            "1 Product Portal",
+            "20+ integrations"
+        ]
+    },
+    "Essentials": {
+        "price": "$19 maker/month (billed annually) or $25 billed monthly, starting with 1 maker",
+        "description": "Prioritize what your customers need and make what matters",
+        "includes": [
+            "Everything in Starter, plus",
+            "250 feedback notes",
+            "2 Insights automations",
+            "Portal moderation",
+            "Feedback loop closing",
+            "Release planning",
+            "Usage reporting",
+            "Email support"
+        ]
+    },
+    "Pro": {
+        "price": "$59 maker/month (billed annually) or $75 billed monthly, starting with 2 makers",
+        "description": "Align teams to drive real business outcomes",
+        "includes": [
+            "Everything in Essentials, plus",
+            "Unlimited feedback notes",
+            "3 Teamspaces",
+            "10 Objectives",
+            "10 Insights automations",
+            "Manual customer segments",
+            "Customizable feature statuses, color scales, and data fields",
+            "Trended reporting",
+            "Prioritized email support"
+        ]
+    },
+    "Enterprise": {
+        "price": "Contact Sales (starts with 5 makers)",
+        "description": "For organizations to securely and scalably uplevel their entire product management processes",
+        "includes": [
+            "Everything in Pro, plus",
+            "Unlimited Teamspaces",
+            "Unlimited Objectives",
+            "Strategic planning",
+            "3+ Product Portals",
+            "SAML SSO & Google SSO",
+            "Salesforce integration",
+            "Efficiency & allocation reporting and audit logs",
+            "SCIM provisioning & granular permissions",
+            "Live onboarding & customer success support"
+        ]
+    },
+    "Productboard AI": {
+        "price": "$20 maker/month (billed annually)",
+        "description": "Available on Pro and higher",
+        "includes": [
+            "Aggregate relevant feedback for features",
+            "Create summaries of customer feedback",
+            "Identify patterns in customer feedback",
+            "Use feedback to draft product specs",
+            "Categorize feedback as positive or negative",
+            "Write product specs at lightning speed"
+        ]
+    }
+}
+
+feature_comparison = {
+    "Customer Feedback & Insights": {
+        "Customer insights repository": ["50 Notes", "250 Notes", "Unlimited Notes", "Unlimited Notes"],
+        "Product Portal": ["1", "1", "1", "3+"],
+        "Feedback forms": ["Coming soon", "Coming soon", "Coming soon", "Coming soon"],
+        "Export list of feature requesters": ["-", "-", "-", "-"],
+        "Portal moderation": ["-", "Available", "Available", "Available"],
+        "Custom voting questions & scale": ["-", "Available", "Available", "Available"],
+        "Embedded Portal": ["-", "Available", "Available", "Available"],
+        "Portal SSO": ["-", "-", "-", "Available"]
+    },
+    "Roadmaps": {
+        "Timeline & column-based roadmaps": ["Available", "Available", "Available", "Available"],
+        "Release planning": ["Available", "Available", "Available", "Available"],
+        "Multiple release groups": ["-", "Available", "Available", "Available"]
+    },
+    "AI": {
+        "Price": ["-", "$20 / maker / month", "$20 / maker / month", "$20 / maker / month"],
+        "AI sentiment analysis": ["-", "Included with Add-on", "Included with Add-on", "Included with Add-on"],
+        "AI feedback notes summaries": ["-", "Included with Add-on", "Included with Add-on", "Included with Add-on"],
+        "AI trending feedback topics & summaries": ["-", "Included with Add-on", "Included with Add-on", "Included with Add-on"],
+        "AI-generated product specs": ["-", "Included with Add-on", "Included with Add-on", "Included with Add-on"],
+        "AI discovery of related feedback": ["-", "Included with Add-on", "Included with Add-on", "Included with Add-on"]
+    },
+    "Prioritization & Planning": {
+        "Feature idea hierarchy": ["Available", "Available", "Available", "Available"],
+        "Objectives": ["1", "1", "10", "Unlimited"],
+        "Customizable feature statuses": ["-", "Available", "Available", "Available"],
+        "Custom fields": ["-", "Available", "Available", "Available"],
+        "Objective hierarchy": ["Coming soon", "Coming soon", "Coming soon", "Coming soon"],
+        "Initiatives": ["Coming soon", "Coming soon", "Coming soon", "Coming soon"],
+        "Key results": ["Coming soon", "Coming soon", "Coming soon", "Coming soon"]
+    },
+    "Monitoring & Product Success": {
+        "Manual customer segments": ["-", "Available", "Available", "Available"],
+        "Dynamic customer segments": ["-", "-", "Available", "Available"]
+    },
+    "Collaboration & Sharing": {
+        "Contributors": ["Unlimited", "Unlimited", "Unlimited", "Unlimited"],
+        "Viewers": ["Unlimited", "Unlimited", "Unlimited", "Unlimited"],
+        "Teamspaces": ["1", "1", "3", "Unlimited"],
+        "Collaborative Docs": ["Coming soon", "Coming soon", "Coming soon", "Coming soon"],
+        "Notify idea & feedback contributors": ["Available", "Available", "Available", "Available"],
+        "Closed/Private Teamspaces": ["Coming soon", "Coming soon", "Available", "Available"],
+        "Enhanced Data Governance": ["Coming soon", "Coming soon", "Coming soon", "Available"],
+        "Custom roles": ["Coming soon", "Coming soon", "Available", "Available"],
+        "Fully whitelabeled shared content": ["Available", "Available", "Available", "Available"]
+    },
+    "Reporting": {
+        "Usage reports": ["Available", "Available", "Available", "Available"],
+        "Trended usage reports": ["-", "-", "Available", "Available"],
+        "Efficiency reports": ["-", "-", "-", "Available"],
+        "Allocation reports": ["-", "-", "-", "Available"]
+    },
+    "Customer Success & Support": {
+        "Productboard Community": ["Available", "Available", "Available", "Available"],
+        "Email support": ["-", "Available", "Available", "Available"],
+        "Prioritized email support": ["-", "-", "Available", "Available"],
+        "Onboarding support": ["-", "-", "-", "Available"],
+        "Named CSM": ["-", "-", "-", "Available"],
+        "Professional services support": ["-", "-", "-", "Available"]
+    },
+    "Security & Privacy": {
+        "Google App sign-in": ["Available", "Available", "Available", "Available"],
+        "Personal Teamspace": ["Available", "Available", "Available", "Available"],
+        "SAML SSO": ["-", "-", "-", "Available"],
+        "Google SSO enforcement": ["-", "-", "-", "Available"],
+        "SCIM user provisioning": ["-", "-", "-", "Available"],
+        "Multiple workspaces": ["-", "-", "-", "2+"],
+        "IP address whitelisting": ["-", "-", "-", "Available"],
+        "Audit logs": ["-", "-", "-", "Available"],
+        "Custom Terms of Service for Portal": ["Available", "Available", "Available", "Available"]
+    },
+    "Integrations & Automations": {
+        "Insights automation": ["-", "2 rules", "10 rules", "Unlimited"],
+        "Jira integration": ["1", "1", "5", "Unlimited"],
+        "Azure DevOps integration": ["1", "1", "5", "Unlimited"],
+        "On-prem Jira or Azure DevOps integration": ["-", "-", "-", "Available"],
+        "API access": ["Available", "Available", "Available", "Available"],
+        "CRM CSV importer": ["Available", "Available", "Available", "Available"],
+        "Salesforce integration": ["-", "-", "-", "Available"],
+        "Product usage integrations": ["Available", "Available", "Available", "Available"],
+        "Embedded collaborative media": ["Available", "Available", "Available", "Available"],
+        "Email integration": ["Available", "Available", "Available", "Available"],
+        "Chrome extension": ["Available", "Available", "Available", "Available"],
+        "Workplace collaboration": ["Available", "Available", "Available", "Available"],
+        "Customer feedback integrations": ["Available", "Available", "Available", "Available"]
+    }
+}
+```

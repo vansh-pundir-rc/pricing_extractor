@@ -1,0 +1,60 @@
+```python
+outreach_pricing = {
+    "Engage": {
+        "description": "Use Outreach’s sales engagement capabilities to manage and execute activities to drive efficiency and effectiveness in their roles.",
+        "pricing": "Request pricing",
+        "key_features": [
+            "Smart Account Plan",
+            "Templates & Snippets",
+            "Sequences",
+            "...and more"
+        ]
+    },
+    "Call (Voice package)": {
+        "description": "Purchase voice calling plans and phone numbers for our outbound motions with Call. Call packages purchased are applied to the organization and are usage/consumption-based",
+        "pricing": "Request pricing",
+        "key_features": [
+            "Integrated Sales Dialer",
+            "Live Call Monitoring",
+            "Custom Call Dispositions",
+            "AI-Powered Call Summary + Q&A",
+            "...and more"
+        ]
+    },
+    "Meet": {
+        "description": "Help reps and managers gain access to Outreach’s AI-powered conversation intelligence solution, Kaia, for real-time assists, post-meeting insights, coaching, and rich signals embedded across the platform.",
+        "pricing": "Request pricing",
+        "key_features": [
+            "Real-Time Call Recording + Transcription",
+            "AI-Powered Smart Meeting Assist",
+            "Automated Summary + Action Items",
+            "Comprehensive Search, Playlists + Clips",
+            "...and more"
+        ]
+    },
+    "Deal": {
+        "description": "Get a unified view of all deals to improve the ability to identify risk, understand pipeline movement, and move deals forward.",
+        "pricing": "Request pricing",
+        "key_features": [
+            "AI-Powered Smart Deal Assist",
+            "Deal Health Score",
+            "Deal Grid",
+            "Deal Overview with Activity History",
+            "...and more"
+        ]
+    },
+    "Forecast": {
+        "description": "Access automated roll-ups and built-in scenario modeling to help teams forecast accurately and predictably deliver results.",
+        "pricing": "Request pricing",
+        "key_features": [
+            "Pipeline Dashboard",
+            "Forecast Rollup",
+            "AI-Projection",
+            "Scenario Planning",
+            "...and more"
+        ]
+    }
+}
+
+print(outreach_pricing)
+```

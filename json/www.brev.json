@@ -1,0 +1,116 @@
+```python
+brevo_pricing_info = {
+    "Marketing Platform": {
+        "Description": "Increase conversions with email, SMS, WhatsApp and marketing automation",
+        "Components": [
+            "Email marketing",
+            "SMS marketing",
+            "WhatsApp",
+            "Web & mobile push",
+            "Automation",
+            "Forms"
+        ]
+    },
+    "Sales Platform": {
+        "Description": "Easily manage your pipeline and accelerate revenue growth across the entire sales cycle",
+        "Components": [
+            "Sales pipelines",
+            "360 customer view",
+            "Inbox",
+            "Meetings",
+            "Phone"
+        ]
+    },
+    "Conversations Platform": {
+        "Description": "Offer superb customer service with our multi-channel communication solution",
+        "Components": [
+            "Live chat",
+            "Chatbot",
+            "WhatsApp",
+            "Inbox",
+            "Visitor insights"
+        ]
+    },
+    "Messaging API": {
+        "Description": "Deliver individual messages at scale and on time with our powerful API",
+        "Components": [
+            "Email API",
+            "SMS API",
+            "WhatsApp API"
+        ]
+    },
+    "Customer Data Platform": {
+        "Description": "Unify, manage and sync customer data to accelerate your time-to-value",
+        "Components": [
+            "Brevo AI",
+            "Integrations",
+            "Developers",
+            "Enterprise"
+        ]
+    },
+    "Pricing": [
+        {
+            "Plan": "Free",
+            "Description": "Discover Brevo",
+            "Price": "₹0/month",
+            "Includes": [
+                "300 emails/day",
+                "Customizable email templates",
+                "Drag & drop editor",
+                "Transactional emails",
+                "SMS & WhatsApp campaigns"
+            ]
+        },
+        {
+            "Plan": "Starter",
+            "Description": "Ideal for growing businesses",
+            "Price": "Starting from ₹625/month",
+            "Includes": [
+                "Everything in Free",
+                "From 5,000 emails/month",
+                "No daily sending limit",
+                "No Brevo logo (add-on)",
+                "Basic reporting & analytics",
+                "24/7 email support"
+            ]
+        },
+        {
+            "Plan": "Business",
+            "Description": "Built for marketing managers and ecommerce pros",
+            "Price": "Starting from ₹1,345/month",
+            "Includes": [
+                "Everything in Starter",
+                "From 5,000 emails/month",
+                "Marketing automation",
+                "Predictive sending AI",
+                "Multi-user access",
+                "Landing pages",
+                "A/B testing",
+                "Advanced statistics",
+                "Phone support"
+            ]
+        },
+        {
+            "Plan": "Enterprise",
+            "Description": "Tailored solutions to fit your needs",
+            "Price": "Custom price",
+            "Includes": [
+                "Everything in Business",
+                "Unlimited contacts",
+                "Sub-account management",
+                "Advanced integrations",
+                "Exclusive features",
+                "Tailored onboarding",
+                "Personalized support",
+                "Enterprise-grade security"
+            ]
+        }
+    ],
+    "Customizations": {
+        "Remove Brevo branding": "₹750.00/month",
+        "SMS & WhatsApp campaigns": "Price based on volume and destination of messages",
+        "Email credits": "Price based on monthly email volume",
+        "Dedicated IP": "Billed annually"
+    }
+}
+```

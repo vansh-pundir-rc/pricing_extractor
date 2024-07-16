@@ -1,0 +1,13 @@
+```python
+{
+    "error": {
+        "code": 404,
+        "message": "Not Found",
+        "details": {
+            "error_code": 54113,
+            "description": "cache-iad-kcgs7200038-IAD 1721038993 2558925974",
+            "server": "Varnish cache server"
+        }
+    }
+}
+```

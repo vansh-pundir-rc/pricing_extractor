@@ -1,0 +1,30 @@
+```python
+{
+    "Pricing Overview": {
+        "Free Credits": "$300 in free credits for new customers",
+        "Free Products": "20+ free products up to monthly usage limits",
+        "Pay-as-you-go": "Only pay for the services you use, no up-front fees, no termination charges",
+        "Automatic Savings": "Save up to 57% with committed use discounts on Compute Engine resources",
+        "Cost Management": [
+            "budgets",
+            "alerts",
+            "quota limits",
+            "AI-powered intelligent recommendations",
+            "custom dashboards"
+        ],
+        "Billing Support": "Free 24/7 billing support"
+    },
+    "Pricing Tools": {
+        "Pricing Calculator": "Estimate your costs with the pricing calculator",
+        "Custom Quote": "Get a custom quote by contacting a sales representative"
+    },
+    "Cost Optimization": {
+        "Migration Assessment": "Estimate the cost of migration and get an end-to-end plan",
+        "Cost Optimization Strategy": "Discover five ways to reduce overall cloud spend",
+        "Consulting Services": "Partner with trained consultants for help with implementation, migration, and more"
+    },
+    "Comparisons": {
+        "Savings Compared to Other Providers": "Google Cloud offers automatic savings and discounts, such as up to 57% savings with committed use discounts on Compute Engine resources"
+    }
+}
+```

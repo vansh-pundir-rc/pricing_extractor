@@ -1,0 +1,115 @@
+{
+  "Freshservice Pricing": {
+    "Starter": {
+      "Price": "₹1,399/agent/month, billed annually",
+      "Features": [
+        "Workspaces",
+        "Incident Management",
+        "Knowledge Base",
+        "Self Service Portal",
+        "SLA Management",
+        "Workflow Automator",
+        "Orchestration",
+        "ServiceBot on Microsoft Teams and Slack",
+        "Access Controls",
+        "Analytics Starter",
+        "Multiple Portal Languages",
+        "Custom SSL",
+        "Marketplace Apps",
+        "Mobile Apps",
+        "1000 Orchestration transactions/mo/account"
+      ]
+    },
+    "Growth": {
+      "Price": "₹3,599/agent/month, billed annually",
+      "Features": [
+        "Everything in Starter and...",
+        "Service Catalog",
+        "Asset Management - Includes 100 managed assets",
+        "Purchase Order Management",
+        "Employee Onboarding",
+        "On-call Management",
+        "Portal Customization",
+        "MSP Mode",
+        "Multiple SLAs",
+        "Business Rules",
+        "Approval Workflows",
+        "Business Hours",
+        "Cloud Management",
+        "2000 Orchestration transactions/mo/account"
+      ]
+    },
+    "Pro": {
+      "Price": "₹6,999/agent/month, billed annually",
+      "Features": [
+        "Everything in Growth and...",
+        "Problem Management",
+        "Change Management",
+        "Release Management",
+        "Project Management",
+        "Software License Management",
+        "Contract Management",
+        "Major Incident Management",
+        "Status Page",
+        "Alert Management",
+        "Service Health Monitoring",
+        "Analytics Pro",
+        "Team Dashboards",
+        "IP Range Restrictions",
+        "5000 Orchestration transactions/mo/account",
+        "Workload Management",
+        "Custom Objects"
+      ]
+    },
+    "Enterprise": {
+      "Price": "₹8,799/agent/month, billed annually",
+      "Features": [
+        "Everything in Pro and...",
+        "Sandbox",
+        "Audit Logs",
+        "20000 Orchestration transactions/mo/account",
+        "ServiceBot With Virtual Agent on Microsoft Teams and Slack (BETA)"
+      ]
+    }
+  },
+  "Add-ons": {
+    "Freddy Copilot": {
+      "Price": "₹2,399/agent/month, billed annually",
+      "Availability": "Pro and Enterprise"
+    },
+    "Freddy Insights": {
+      "Price": "Complimentary with Freddy Copilot",
+      "Availability": "Pro and Enterprise"
+    },
+    "Orchestration Transaction Pack": {
+      "Price": "₹16,590",
+      "Details": "1000 Transactions per pack",
+      "Availability": "Starter, Growth, Pro, Enterprise"
+    },
+    "Advanced Discovery and Dependency Mapping": {
+      "Availability": "Growth, Pro, Enterprise"
+    },
+    "Assets Pack": {
+      "Price": "₹4,999/mo",
+      "Details": "Pack of 500 assets",
+      "Availability": "Growth, Pro, Enterprise"
+    },
+    "Additional Project Management Licenses": {
+      "Price": "₹995/user/mo",
+      "Availability": "Pro, Enterprise"
+    },
+    "SaaS Management": {
+      "Price": "₹65/employee/month",
+      "Availability": "Pro, Enterprise"
+    },
+    "Business Agents": {
+      "Price": "₹3,099/agent/mo",
+      "Availability": "Pro, Enterprise"
+    },
+    "Connector App Tasks": {
+      "Price": "₹6,640",
+      "Details": "One time free credit of 500 tasks; 5k tasks per pack valid till billing cycle",
+      "Availability": "Pro, Enterprise"
+    }
+  }
+}

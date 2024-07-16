@@ -1,0 +1,102 @@
+```python
+pricing_info = {
+    "Free": {
+        "price": "$0",
+        "billing": "free forever",
+        "seats": "Up to 2 seats",
+        "features": [
+            "Up to 3 boards",
+            "Unlimited docs",
+            "200+ templates",
+            "8 column types",
+            "iOS and Android apps"
+        ]
+    },
+    "Basic": {
+        "price": "$9",
+        "billing": "Total $27/ month billed annually",
+        "seats": "3 seats",
+        "features": [
+            "Includes free, plus:",
+            "Unlimited free viewers",
+            "Unlimited items",
+            "5GB file storage",
+            "Prioritised customer support",
+            "Create a dashboard based on 1 board"
+        ]
+    },
+    "Standard": {
+        "price": "$12",
+        "billing": "Total $36/ month billed annually",
+        "seats": "3 seats",
+        "features": [
+            "Includes basic, plus:",
+            "Timeline & Gantt views",
+            "Calendar View",
+            "Guest access",
+            "Automations (250 actions per month)",
+            "Integrations (250 actions per month)",
+            "Create a dashboard that combines 5 boards"
+        ]
+    },
+    "Pro": {
+        "price": "$19",
+        "billing": "Total $57/ month billed annually",
+        "seats": "3 seats",
+        "features": [
+            "Includes standard, plus:",
+            "Private boards",
+            "Chart View",
+            "Time tracking",
+            "Formula Column",
+            "Automations (25K actions per month)",
+            "Integrations (25K actions per month)",
+            "Create a dashboard that combines 10 boards"
+        ]
+    },
+    "Enterprise": {
+        "price": "Contact sales",
+        "billing": "",
+        "seats": "",
+        "features": [
+            "Includes pro, plus:",
+            "Enterprise-scale automations & integrations",
+            "Multi-level permissions",
+            "Enterprise-grade security & governance",
+            "Advanced reporting & analytics",
+            "Tailored onboarding *",
+            "Enterprise support",
+            "Create a dashboard that combines 50 boards"
+        ]
+    }
+}
+
+comparisons = {
+    "Free vs Basic": [
+        "Basic includes all features of Free",
+        "Basic offers Unlimited free viewers, Unlimited items, and 5GB file storage",
+        "Basic provides Prioritised customer support",
+        "Basic allows creation of a dashboard based on 1 board"
+    ],
+    "Basic vs Standard": [
+        "Standard includes all features of Basic",
+        "Standard offers Timeline & Gantt views, Calendar View, and Guest access",
+        "Standard allows 250 Automations and Integrations actions per month",
+        "Standard allows creation of a dashboard that combines 5 boards"
+    ],
+    "Standard vs Pro": [
+        "Pro includes all features of Standard",
+        "Pro offers Private boards, Chart View, Time tracking, and Formula Column",
+        "Pro increases Automations and Integrations actions to 25K per month",
+        "Pro allows creation of a dashboard that combines 10 boards"
+    ],
+    "Pro vs Enterprise": [
+        "Enterprise includes all features of Pro",
+        "Enterprise offers Enterprise-scale automations & integrations (250K actions per month)",
+        "Enterprise provides Multi-level permissions and Enterprise-grade security & governance",
+        "Enterprise offers Advanced reporting & analytics",
+        "Enterprise includes Tailored onboarding and 24/7 quality support with a priority queue",
+        "Enterprise allows creation of a dashboard that combines 50 boards"
+    ]
+}
+```

@@ -1,0 +1,501 @@
+```python
+{
+    "Professional": {
+        "price_per_month": "₹1,915",
+        "users": 1,
+        "social_accounts": 10,
+        "features": [
+            "Unlimited post scheduling",
+            "Best time to post recommendations",
+            "Custom analytics and reports",
+            "Competitive benchmarking tool",
+            "One inbox for all social accounts",
+            "Listening Basics",
+            "Canva integration",
+            "Hashtag generator",
+            "Unlimited post boosting"
+        ]
+    },
+    "Team": {
+        "price_per_month": "₹7,540",
+        "users": 3,
+        "social_accounts": 20,
+        "features": [
+            "Everything in PROFESSIONAL",
+            "Link in bio tool",
+            "Suspend scheduled posts",
+            "Team roles and permissions",
+            "Assign DMs to teammates",
+            "One custom-branded URL",
+            "Automatic link tracking"
+        ]
+    },
+    "Enterprise": {
+        "price_per_month": "Custom",
+        "users": 5,
+        "social_accounts": 50,
+        "features": [
+            "Everything in TEAM",
+            "Approval workflow and asset mgmt.",
+            "Content library",
+            "Automated engagement tools",
+            "Single sign-on (SSO)",
+            "Unlimited ad spend",
+            "Free Hootsuite Academy training"
+        ],
+        "add_ons": [
+            "Advanced social listening",
+            "Advanced analytics",
+            "Advanced inbox",
+            "Employee advocacy"
+        ]
+    },
+    "comparison": {
+        "Social Accounts": {
+            "Professional": 10,
+            "Team": 20,
+            "Enterprise": 50
+        },
+        "Users": {
+            "Professional": 1,
+            "Team": 3,
+            "Enterprise": 5
+        },
+        "Additional users": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on (per user pricing)"
+        },
+        "Additional social accounts": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on (per social account pricing)"
+        },
+        "Departmental organization": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Unlimited posts": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Draft, schedule, and publish": {
+            "Professional": "Unlimited",
+            "Team": "Unlimited",
+            "Enterprise": "Unlimited"
+        },
+        "Multi-profile scheduling": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Social content calendar": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Social content calendar sharing": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Approval workflows": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Recommended times to publish": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Hootbio": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Bulk scheduling": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Link shortening and tracking": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Custom branded URL (Vanity URL)": {
+            "Professional": "Not included",
+            "Team": "1",
+            "Enterprise": "Unlimited"
+        },
+        "Automated link tracking": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Integrate with bit.ly": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Linkedin Page target audience": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Suspend scheduled posts": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Content discovery streams": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Content apps": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Outgoing message content tagging": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Hashtag suggestions": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Stock photo library": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Digital media editing": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Asset and content library": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Design with Canva": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "All-in-one centralized inbox": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Contact management": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Team assignments": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Agent collision": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Dashboard notifications": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Tags and tag automations": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Configurable auto-resolve conversations": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Saved and suggested replies": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Business hours": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Build complete contact profiles": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Auto-responder": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Skill based routing": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "CSAT surveys and notifications": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Advanced Inbox": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Heyday FAQ Conversational AI chatbot": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Report templates": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Customizable reports": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Post performance": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Best time to publish": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Report export - basic": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Report export - advanced": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Multiple networks reporting": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Performance by goal reports": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Industry benchmarking": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Competitive benchmarking": {
+            "Professional": 2,
+            "Team": 2,
+            "Enterprise": 20
+        },
+        "Report export scheduling": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Team productivity reporting": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Advanced report customizations": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Paid and organic ROI reporting": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Social listening": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Quick Search (7 days)": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Quick Search (30 days)": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Basic data sources": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Advanced data sources": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Historical data (7 days)": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Historical data (13+ months)": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Sentiment analysis": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Blue Silk AI™ summaries": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Image recognition": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Peak detection": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Forecasting": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Results exporting": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Scheduled reports and alerts": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Multiple channels post boosting": {
+            "Professional": "Unlimited",
+            "Team": "Unlimited",
+            "Enterprise": "Unlimited"
+        },
+        "Social ads campaign management": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Social ads analytics & reporting": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Campaign planning": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Campaign tagging and reporting": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "User access permissions": {
+            "Professional": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Compliance integrations": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Custom user access permissions": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Single sign-on (SSO)": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Standard service": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        },
+        "Premier service": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Customized consulting and training": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Access to free apps": {
+            "Professional": "Included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Access to premium apps": {
+            "Professional": "Paid",
+            "Team": "Paid",
+            "Enterprise": "Included"
+        },
+        "Employee advocacy": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Social selling": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Social customer care": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        },
+        "Review management": {
+            "Professional": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Add-on"
+        }
+    }
+}
+```

@@ -1,0 +1,58 @@
+```python
+{
+    "plans": {
+        "STARTUP": {
+            "price": "FREE Forever",
+            "features": {
+                "supports_single_user": True,
+                "create_upto_25_invoices_per_month": True,
+                "manage_upto_100_customers": True,
+                "track_upto_25_products_or_services": True
+            }
+        },
+        "SMB": {
+            "price": "$20/month OR Rs.749/month",
+            "features": {
+                "supports_unlimited_users": True,
+                "create_unlimited_invoices": True,
+                "manage_unlimited_customers": True,
+                "track_unlimited_products_or_services": True
+            }
+        }
+    },
+    "common_features": [
+        "Create Products",
+        "Create Customers",
+        "Manage Suppliers",
+        "Create Sales Orders",
+        "Accept Online Payments",
+        "Deal In Multiple Currencies",
+        "Manage Inventory",
+        "Track Payables & Receivables",
+        "Manage Taxes",
+        "Get 40+ Financial Reports"
+    ],
+    "comparisons": [
+        {
+            "feature": "Supports Users",
+            "STARTUP": "Single User",
+            "SMB": "Unlimited Users"
+        },
+        {
+            "feature": "Create Invoices",
+            "STARTUP": "Upto 25 Invoices Per Month",
+            "SMB": "Unlimited Invoices"
+        },
+        {
+            "feature": "Manage Customers",
+            "STARTUP": "Upto 100 Customers",
+            "SMB": "Unlimited Customers"
+        },
+        {
+            "feature": "Track Products or Services",
+            "STARTUP": "Upto 25 Products or Services",
+            "SMB": "Unlimited Products or Services"
+        }
+    ]
+}
+```

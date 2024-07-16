@@ -1,0 +1,30 @@
+```python
+{
+    "page": "Homepage",
+    "status": "404 - Page Not Found",
+    "message": "Out of nothing, something. You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?",
+    "recommendations": [
+        {
+            "title": "Getting Lost in Canada",
+            "author": "John Francis Peters",
+            "date": "Aug 9, 2018",
+            "image_url": "https://cdn-images-1.medium.com/fit/c/36/36/1*n9qO_wvh3fedEDcneQ-eyg.jpeg",
+            "applause": "Applause from Medium Staff"
+        },
+        {
+            "title": "To Anyone Who Has Lost Themselves",
+            "author": "Jamie Varon",
+            "date": "Jan 4, 2016",
+            "image_url": "https://cdn-images-1.medium.com/fit/c/36/36/1*Q2D5Yg2KSzuGTngtMSLKnw.jpeg",
+            "applause": "Applause from Medium Staff"
+        },
+        {
+            "title": "Three Things I Lost",
+            "author": "Priya",
+            "date": "Apr 27, 2017",
+            "image_url": "https://cdn-images-1.medium.com/fit/c/36/36/0*E7TD4xieWUQBhHhr.jpeg",
+            "applause": "Applause from Medium Staff"
+        }
+    ]
+}
+```

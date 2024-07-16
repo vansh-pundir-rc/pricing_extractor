@@ -1,0 +1,85 @@
+```python
+pricing_info = {
+    "plans": {
+        "Starter": {
+            "regular_price": 29,
+            "discounted_price": 14.50,
+            "discount_savings": 87,
+            "features": {
+                "Send invoices and quotes": "Send quotes and 20 invoices†",
+                "Enter bills": "Enter 5 bills",
+                "Reconcile bank transactions": "Included",
+                "Capture bills and receipts with Hubdoc": "Included",
+                "Short-term cash flow and business snapshot": "Included",
+                "Bulk reconcile transactions": "Excluded",
+                "Use multiple currencies": "Excluded",
+                "Claim expenses": "OptionalFrom $4 per month",
+                "Track projects": "OptionalFrom $7 per month",
+                "Analytics Plus": "OptionalTry free for 4 months^"
+            }
+        },
+        "Standard": {
+            "regular_price": 46,
+            "discounted_price": 23,
+            "discount_savings": 138,
+            "features": {
+                "Send invoices and quotes": "Included",
+                "Enter bills": "Included",
+                "Reconcile bank transactions": "Included",
+                "Capture bills and receipts with Hubdoc": "Included",
+                "Short-term cash flow and business snapshot": "Included",
+                "Bulk reconcile transactions": "Included",
+                "Use multiple currencies": "Excluded",
+                "Claim expenses": "OptionalFrom $4 per month",
+                "Track projects": "OptionalFrom $7 per month",
+                "Analytics Plus": "OptionalTry free for 4 months^"
+            }
+        },
+        "Premium": {
+            "regular_price": 62,
+            "discounted_price": 31,
+            "discount_savings": 186,
+            "features": {
+                "Send invoices and quotes": "Included",
+                "Enter bills": "Included",
+                "Reconcile bank transactions": "Included",
+                "Capture bills and receipts with Hubdoc": "Included",
+                "Short-term cash flow and business snapshot": "Included",
+                "Bulk reconcile transactions": "Included",
+                "Use multiple currencies": "Included",
+                "Claim expenses": "OptionalFrom $4 per month",
+                "Track projects": "OptionalFrom $7 per month",
+                "Analytics Plus": "OptionalTry free for 4 months^"
+            }
+        }
+    },
+    "additional_info": {
+        "offer_terms": {
+            "validity": "Until 11:59pm on 31st July 2024",
+            "applicable_for": "Organisations new to Xero",
+            "discount_applies_to": "Base Starter, Standard or Premium plan subscriptions only",
+            "standard_rates_post_offer": "Plans will be charged at Xero’s standard rates after the offer period"
+        },
+        "analytics_plus_offer_terms": {
+            "validity": "Until 31st July 2024",
+            "price_post_offer": 7,
+            "applicable_for": "New Analytics Plus customers on paid Starter, Standard and Premium plan subscriptions"
+        },
+        "hubdoc_inclusion": "Included in Xero Starter, Standard and Premium plans as long as it’s connected to your Xero subscription",
+        "invoice_limits_for_starter_plan": "Invoice limits for the Starter plan apply to both approving and sending invoices. Transactions initiated by app partners may automatically contribute to your invoice limit",
+        "additional_fees_notice": "Additional fees may be charged to Xero customers whose Stripe account is managed by Xero for online payments"
+    },
+    "faq": {
+        "multiple_companies": {
+            "info": "You can add as many Xero organisations as you like, choose a pricing plan for each one, or set up a free 30 day trial.",
+            "discount_info": "Xero offers a discount for multiple organisations when you subscribe to more than one Business Edition organisation. To qualify for the discount, the organisations need to use the same subscriber email address and country edition."
+        },
+        "annual_subscription": {
+            "info": "You'll receive your invoice at the end of your monthly billing period. Payment will be taken on the date shown on your invoice using the payment details entered when you purchased your subscription."
+        },
+        "data_security": {
+            "info": "We're committed to the security of your data and provide multiple layers of protection for the personal and financial information you trust to Xero. Find out more about Xero’s commitments to data protection and data security."
+        }
+    }
+}
+```

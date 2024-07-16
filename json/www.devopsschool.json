@@ -1,0 +1,53 @@
+```python
+{
+    "certifications": [
+        {
+            "name": "DevOps Certified Professional (DCP)",
+            "start_date": "1st of Every Month",
+            "contact": "+91 8409492687",
+            "email": "Contact@DevOpsSchool.com"
+        },
+        {
+            "name": "DevSecOps Certified Professional (DSOCP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/2-devsecops-certified-professionals-dsocp.png"
+        },
+        {
+            "name": "Site Reliability Engineering Certified Professionals (SRECP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/3-site-reliability-engineering-certified-professionals-srecp.png"
+        },
+        {
+            "name": "Master in DevOps Engineering (MDE)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/4-master-in-devops-engineering-mde.png"
+        },
+        {
+            "name": "Kubernetes Certified Administrator/Developer (KCAD)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/5-kubernetes-certified-administrator-developer-kcad.png"
+        },
+        {
+            "name": "AIOps Certified Professional (AIOCP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/6-aiops-certified-professional-aiocp.png"
+        },
+        {
+            "name": "DataOps Certified Professional (DOCP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/7-dataops-certified-professional-docp.png"
+        },
+        {
+            "name": "GitOps Certified Professional (GOCP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/8-gitops-certified-professional-gocp.png"
+        },
+        {
+            "name": "MLOps Certified Professional (MLOCP)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/9-mlops-certified-professional-mlocp.png"
+        },
+        {
+            "name": "Master in Observability Engineering (MOE)",
+            "image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/06/10-master-in-observability-engineering-moe.png"
+        }
+    ],
+    "pricing": {
+        "DCP": {
+            "start_date": "1st of Every Month"
+        }
+    }
+}
+```

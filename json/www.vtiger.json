@@ -1,0 +1,88 @@
+```python
+pricing_info = {
+    "plans": {
+        "One Pilot": {
+            "price": "INR 0",
+            "per_user": True,
+            "max_users": 10,
+            "max_records": 3000,
+            "features": [
+                "Contact Management: One View, Idle Alerts",
+                "Contact Engagement: Emails & Phone Integration, Document Engagement, Zoom & Google Meet",
+                "Internal Collaboration: Meeting Aide in Vtiger Buzz, Actions Page, Comments",
+                "Marketing: Lists and Segments, Profile Scoring, 1000 Emails/month, Autoresponders, Consents for compliance, Web to Lead Forms, Email Template Builder, List Reports, Email Campaign Reports",
+                "Project Management: Tasks & Milestones, Subtasks, Gantt View, Kanban Board",
+                "Sales Pipeline: Customize Sales Stages, Deal Kanban View, Idle Deal Alerts, Time Spent in every Stage",
+                "Sales Enablement: Email Sequences, Google + O365 Add-ins, Enrich LinkedIn Extension, Appointment Pages, Workflows",
+                "Help Desk: Email to Case, First Response SLA, Resolution SLA, Business Hours",
+                "Mobile App: Real-time Notifications, Actions Page, Business Card Scanner, Leads, Contacts, Deals, Quotes, Cases, Voice Notes",
+                "Storage: 3 GB"
+            ]
+        },
+        "One Growth": {
+            "price": "INR 840",
+            "per_user_per_month": True,
+            "max_users": 15,
+            "max_records": 100,000,
+            "features": [
+                "Everything in One Pilot plus:",
+                "Lead Management: Lead Auto-assignment & Routing",
+                "Action Center: Email tracking & real time notifications",
+                "Salesforce Automation: Multiple pipelines",
+                "Help Desk: Organization matching with Email domain, Agent level business hours, Case satisfaction survey",
+                "Inventory Management: Invoicing, Sales Order",
+                "Reports & Analytics: Customizable dashboards, Custom schedule reports",
+                "Automation: Opportunity creation from Email, Organization creation from Email"
+            ]
+        },
+        "One Professional": {
+            "price": "INR 2,100",
+            "per_user_per_month": True,
+            "single_app_price": "INR 1,400",
+            "features": [
+                "Everything in One Growth plus:",
+                "Salesforce Automation: Multiple Pipelines, Profile & Engagement Scoring, Lead Scoring",
+                "Help Desk: Social Ticketing, Round Robin Ticket Assignment, Least Loaded Ticket Assignment, Agent Level Business Hours",
+                "Conversations: Internal Team Collaboration, Live Web Chat",
+                "Dashboards: Sales Insights, Support Insights, Customizable Reports & Dashboards",
+                "Inventory Management: Invoicing, Vendor Management, Purchase Order Management, Subscriptions, Payment Tracking, Sales Order",
+                "Project Management: Task dependencies (Finish to Start), Automated task end times (User business hours)",
+                "LMS Portal: Courses, Concepts, Exercises, Quiz, Questions",
+                "Process Designer: Business Process Automation, Rules, Conditions, and Actions, Workflows and Approvals, Flowcharts, Tasks"
+            ]
+        },
+        "One Enterprise": {
+            "price": "INR 2,940",
+            "per_user_per_month": True,
+            "single_app_price": "INR 2,100",
+            "features": [
+                "Everything in One Professional plus:",
+                "Contact Engagement: Best Time to Contact",
+                "Salesforce Automation: Multi Currencies",
+                "Internal Ticketing: Internal Ticketing system for employees, Internal ticket Insights",
+                "Help Desk: Work order management",
+                "Project Management: Automated Time Tracking and Billing"
+            ]
+        },
+        "One AI": {
+            "price": "INR 3,500",
+            "per_user_per_month": True,
+            "single_app_price": "INR 2,660",
+            "features": [
+                "Everything in One Enterprise plus:",
+                "Predictive AI",
+                "Generative AI capabilities",
+                "Natural Language Querying",
+                "Voice Assistants Integration",
+                "AI Prompt Builder",
+                "AI Query Analytics",
+                "AI Bot Management"
+            ]
+        }
+    },
+    "comparisons": {
+        "Standard User": "Person with full access to all business functions available in the edition across all apps in Vtiger",
+        "Single App User": "Person with Read/Write access to one of the 5 apps (Sales / Marketing / Help Desk / Projects / Inventory), and Read-only access to the modules in other 4 apps to get 360 degree view"
+    }
+}
+```

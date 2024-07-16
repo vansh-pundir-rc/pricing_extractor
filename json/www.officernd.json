@@ -1,0 +1,54 @@
+```python
+{
+    "Products": {
+        "API & Extensibility": "Developer resources and guides",
+        "Flex Integrations": "Connecting all coworking tools you need",
+        "Hybrid Integrations": "Enabling all hybrid workplace tools in one",
+        "Services": "Onboarding and training services",
+        "For Coworking and Flex Spaces": {
+            "description": "Boost coworking efficiency with OfficeRnD Flex",
+            "key features": [
+                "Experience Apps: User-friendly mobile, web and tablet apps for your space",
+                "Meeting Room Bookings: Easy room booking for your members and tenants",
+                "Billing and Payments: Fully-automated billing process in your coworking space",
+                "Customer Lifecycle Management: Advanced coworking membership management"
+            ]
+        },
+        "For Hybrid Workplaces": {
+            "description": "Create thriving workplaces with OfficeRnD Hybrid",
+            "key features": [
+                "Desk Bookings: Advanced desk booking, hot desking and desk hoteling",
+                "Meeting Room Bookings: Seamless room booking for employees in hybrid offices",
+                "Collaborative Scheduling: In-person collaboration via invites, favorites and more",
+                "Workplace Experience Apps: On any screen or platform - Microsoft, Google or Slack"
+            ]
+        }
+    },
+    "Solutions": {
+        "by technology": {
+            "Microsoft Workplace Experience": "Your hybrid partner in Teams, Outlook, Azure, MS 365",
+            "Google Workspace Experience": "Integrated with Google Workspace, Calendar, Chrome",
+            "Slack Workplace Experience": "Desk booking and weekly scheduling in Slack"
+        },
+        "For Hybrid Workplaces": {
+            "by use case": {
+                "Hybrid Work Enablement": "For HR, IT and Facility teams managing hybrid offices",
+                "Hot Desking and Office Hoteling": "For companies adopting flexible and hybrid working",
+                "Space Management and Scheduling": "For companies looking to connect people and spaces",
+                "Campus Space Management": "For higher education and all academia institutions"
+            }
+        },
+        "For Coworking and Flex Spaces": {
+            "by use case": {
+                "Coworking Management": "For startups and growing coworking spaces",
+                "Enterprise Coworking Operators": "For multi-location flex brands",
+                "Landlords and Property Managers": "For building owners going flexible"
+            }
+        }
+    },
+    "Pricing": {
+        "For Coworking and Flex Spaces": "Boost coworking efficiency with OfficeRnD Flex",
+        "For Hybrid Workplaces": "Create thriving workplaces with OfficeRnD Hybrid"
+    }
+}
+```

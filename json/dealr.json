@@ -1,0 +1,71 @@
+{
+    "Pricing": {
+        "Plans": {
+            "Starter": {
+                "Exports": 30000,
+                "Seats": 3
+            },
+            "Team": {
+                "Exports": 60000,
+                "Seats": 6
+            },
+            "Corporate": {
+                "Exports": 200000,
+                "Seats": 20
+            },
+            "API": {
+                "Description": "Power your data and software with Dealroom's API. Dealroom's API can be applied to any plan.",
+                "Contact": "Talk to our team"
+            }
+        },
+        "Premium Plans Features": {
+            "Training & Onboarding": "The Customer Success team will help you get the most out of Dealroom.co.",
+            "Support from the Intelligence Unit": "Our Intelligence Units creates high-quality research, often together with clients and partners.",
+            "Unlimited Search Results": "Use the Dealroom.co platform as much as you like with unlimited search results.",
+            "Personalised Email Alerts": "Get personalized daily notifications based on your saved searches.",
+            "Data Exports": "Get up to 10,000 data exports per user.",
+            "Internal Team Notes": "The Notes features allows you to communicate with colleagues or keep track of important information.",
+            "Trade Register Integrations": "Trade register integrations connect you to Companies House and other company filing registries.",
+            "2.5x More VC Rounds Tracked in Europe": "Dealroom is the leader in European data coverage compared to competitors.",
+            "3M+ Startup & Company Profiles": "Access the largest database of startups & scaleups around the world.",
+            "1M+ Companies with Tech Stack Data": "Tech stack data is available in the startups and scaleups tab by using the filter bar or as a dropdown in the columns.",
+            "160k+ Startups Added Each Quarter": "Our algorithms detect new startups from trade registers and other online sources.",
+            "800k Rounds and Transactions": "Get details on individual funding rounds.",
+            "190k Venture and Corporate Investors": "Search the most comprehensive database of investors based on performance, strategy, or focus.",
+            "500k Founder & C-Level Contacts": "Discover the most promising founders and startup executives.",
+            "Dealroom Startup Rating": "Dealroom Startup Rating is the most powerful predictive algorithm to discover promising companies.",
+            "Growth Analytics & Predictive Signals": "Access company growth analytics and predictive algorithms.",
+            "Founder Strength Scoring": "Filter by the most promising founders based on education, previous experience, and more.",
+            "Advanced Industry Taxonomy": "Benefit from industry-leading taxonomy built for innovative companies.",
+            "Employee Data & Job Boards": "Dealroom has integrated job openings for startups & scaleups.",
+            "Customisable Landscapes & Heatmaps": "Landscapes & heatmaps allow for enhanced visualization of industries and companies.",
+            "Trading & Transaction Multiples": "Access financial metrics used in valuing a company and in exit scenarios."
+        }
+    },
+    "Catalogue": {
+        "Solutions": {
+            "Client Types": ["VC & PE", "Corporates", "Government", "Founders"],
+            "Use Cases": ["Discover companies", "Source deals", "Track innovation", "Measure & grow your tech ecosystem"]
+        },
+        "Products": {
+            "Startup database": {},
+            "API access": {},
+            "Research services": {},
+            "Ecosystem solution": {}
+        }
+    },
+    "Insights": {
+        "Analysis": ["Deep Dives", "Reports", "Briefings"],
+        "News": ["Newsletter", "Product News"]
+    },
+    "Ecosystems": {},
+    "Data": {},
+    "Contact": {
+        "Login": {},
+        "Contact": {},
+        "Book a demo": {}
+    },
+    "Comparisons": {
+        "VC Rounds Tracked in Europe": "Dealroom is the leader in European data coverage compared to competitors."
+    }
+}

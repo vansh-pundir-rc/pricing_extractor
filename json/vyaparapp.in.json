@@ -1,0 +1,58 @@
+```python
+pricing_info = {
+    "plans": [
+        {
+            "name": "Silver Plan",
+            "price": 3399,
+            "duration": "1 YEAR",
+            "devices": "DESKTOP + MOBILE",
+            "price_with_devices": 4999,
+            "features": {
+                "Sync data across devices": True,
+                "Create multiple companies": "3 companies",
+                "Generate E-way Bills": "10 per month",
+                "Quick Billing": True,
+                "Manage godowns & Transfer stock": True,
+                "Add TCS on invoices": True,
+                "Create Multiple Firms": "3 firms",
+                "Check Profit on Invoices": True,
+                "Balance Sheet": True,
+                "Additional Features": "+ 18 More Features"
+            }
+        },
+        {
+            "name": "Gold Plan",
+            "price": 3999,
+            "duration": "1 YEAR",
+            "devices": "DESKTOP + MOBILE",
+            "price_with_devices": 7799,
+            "features": {
+                "Sync data across devices": True,
+                "Create multiple companies": "unlimited",
+                "Generate E-way Bills": "unlimited",
+                "Quick Billing": True,
+                "Manage godowns & Transfer stock": True,
+                "Add TCS on invoices": True,
+                "Create Multiple Firms": "5 firms",
+                "Check Profit on Invoices": True,
+                "Balance Sheet": True,
+                "Additional Features": "+ 18 More Features"
+            }
+        }
+    ],
+    "comparisons": {
+        "Create multiple companies": {
+            "Silver Plan": "3 companies",
+            "Gold Plan": "unlimited"
+        },
+        "Generate E-way Bills": {
+            "Silver Plan": "10 per month",
+            "Gold Plan": "unlimited"
+        },
+        "Create Multiple Firms": {
+            "Silver Plan": "3 firms",
+            "Gold Plan": "5 firms"
+        }
+    }
+}
+```

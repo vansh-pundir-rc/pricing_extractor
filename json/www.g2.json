@@ -1,0 +1,11 @@
+```python
+{
+    "website": "www.g2.com",
+    "status": "Verification successful",
+    "note": "Waiting for www.g2.com to respond...",
+    "security": {
+        "provider": "Cloudflare",
+        "Ray ID": "8a392eeeafe9a794"
+    }
+}
+```

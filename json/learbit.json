@@ -1,0 +1,66 @@
+```python
+{
+    "Company": "Clearbit",
+    "Products": [
+        "Company enrichment", 
+        "Contact enrichment", 
+        "Lead scoring & routing", 
+        "Form optimization", 
+        "Intent-based outreach"
+    ],
+    "Pricing": {
+        "Plan": "Clearbit for Business",
+        "Basis": "Volume based",
+        "Customizations": [
+            "Forms", 
+            "Advertising", 
+            "Capture"
+        ],
+        "Large Database Support": "Yes, contact for match test if more than 1 million contacts",
+        "Uptime Guarantee": "Yes, can be built into business plan upon request",
+        "Invoicing Available": "Yes, offered for all business plans"
+    },
+    "Testimonials": [
+        {
+            "Quote": "With the Clearbit integration, all of our leads are automatically enriched, assigned, and ready to call. It's great.",
+            "Person": "Guillaume Cabane",
+            "Position": "Co-Founder",
+            "Company": "Hypergrowth Partners"
+        }
+    ],
+    "Contact Information": [
+        "Email",
+        "Name",
+        "Title",
+        "Number of contacts in your database: Less than 10,000 contacts, More than 10,000 contacts, Not sure",
+        "Message"
+    ],
+    "Resources": [
+        "Blog", 
+        "Free Tools", 
+        "Guides", 
+        "Books", 
+        "Webinars", 
+        "Newsletter", 
+        "Release Notes"
+    ],
+    "Information": [
+        "Data Attributes", 
+        "Support"
+    ],
+    "Company Info": [
+        "About Us", 
+        "Careers", 
+        "Press", 
+        "Customers"
+    ],
+    "Legal": [
+        "Trust Center", 
+        "Privacy Policy", 
+        "Status", 
+        "Legal", 
+        "Do Not Sell My Info", 
+        "Opt out"
+    ]
+}
+```

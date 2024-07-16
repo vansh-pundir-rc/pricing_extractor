@@ -1,0 +1,111 @@
+```python
+{
+    "products": {
+        "Platform Overview": "The leading AI platform for revenue transformation",
+        "Forecast": "Pinpoint your number and paths to target",
+        "Engage": "Sales engagement reimagined with AI",
+        "Gong Insights": "Power your systems with Gong Data",
+        "Gong AI": "Outperform competition with industry-leading AI",
+        "Languages": "Gong supports 70+ languages"
+    },
+    "enterprise": {
+        "Enterprise": "Built for the largest and most complex GTM teams",
+        "Integrations": "Connect Gong with all your team’s tools",
+        "Trust Center": {
+            "Security": "Security details",
+            "Compliance": "Compliance details",
+            "Privacy": "Privacy details"
+        },
+        "Gong Partner Network": "Enterprise collaboration that works for you"
+    },
+    "solutions": {
+        "Teams": {
+            "Sales": "Stop losing winnable deals",
+            "Customer Success": "Renewals and growth become the norm",
+            "Marketing": "Closest to the customer wins"
+        },
+        "Use Cases": {
+            "Deal Execution": "Find the truth in your pipeline",
+            "Coaching": "Transform your reps into stars",
+            "Strategic Initiatives": "Bet big. And win.",
+            "Market insights": "Stay ahead of the (market) curve"
+        }
+    },
+    "customers": {
+        "Customer Spotlights": {
+            "Customer Stories": "Learn how Gong is a staple for teams",
+            "Lumineer Champions": "Get inspired by revenue leaders"
+        },
+        "Customer Resources": {
+            "Gong Academy": "Build your skillset and learn best practices",
+            "Gong Help Center": "Learn how to use Gong, fix a problem, and get answers to your questions.",
+            "Gong Influencer Club": "Join Gong’s most invested, forward-thinking customer advocates"
+        }
+    },
+    "resources": {
+        "Resources Hub": "Game changing strategies to unlock reality",
+        "The Edge": "Trending topics for revenue leaders, by revenue leaders",
+        "Blog": "The #1 blog on the internet for sales",
+        "Gong Labs": "Your content hub for knowing how to win",
+        "Guides": "Here’s how to win with Gong everytime",
+        "Reveal: The RI Podcast": "Useful advice for revenue leaders",
+        "Webinars": "Events you don’t want to miss"
+    },
+    "company": {
+        "Careers": "It’s a great time to join Gong",
+        "About": "Learn what binds us together at Gong",
+        "Press": "The latest news on Gong",
+        "Outstanding Gongsters": "Honoring our outstanding Gongsters",
+        "Operating Principles": "The rules that drive our day to day",
+        "Leadership Principles": "What it means to lead at Gong",
+        "Gong Merch Store": "Our exclusive merch made just for you"
+    },
+    "pricing": {
+        "How Gong Pricing Works": {
+            "Licenses": "All licenses offered by Gong are priced per recorded user. There is also a platform fee, which is based on the number of users supported.",
+            "Cost per User": "It depends on the license type you choose for your team. Get in touch and we’ll provide a breakdown of our license types and the features included.",
+            "Integrations": "No, we do not charge extra for our integrations. You can integrate your existing tech stack and gain full visibility into your deals for free."
+        },
+        "Steps to Get Pricing": {
+            "Step 1": "How big is your team?",
+            "Team Sizes": ["1 - 50", "51 - 1,000", "1,001 - 9,999", "10,000+"],
+            "Sales Team Size": ["1 - 50", "51 - 1,000", "1,001 - 9,999", "10,000+"],
+            "Help Options": ["Coaching", "Deal Management", "Forecasting", "Better Rep Efficiency", "GTM Analytics", "Prospecting"],
+            "Privacy Policy Agreement": "I agree to the privacy policy including to Gong using my contact details to contact me for marketing purposes."
+        },
+        "Pricing Components": {
+            "Seat Edition": "Choose an edition of licenses with features that best fit the needs of your organization.",
+            "Optional Products": "Supercharge Gong’s Revenue Intelligence Platform with additional products that unlock greater levels of visibility.",
+            "Platform Subscription": "A fixed annual subscription—on top of the seat price—based on number of users supported. Covers unlimited collaborators, unlimited data storage and export, CSM resources, support, and more."
+        }
+    },
+    "why_choose_gong": {
+        "Industry Experts": [
+            {
+                "Company": "Mintel",
+                "Statistic": "34% First Call to Close Rate"
+            },
+            {
+                "Company": "Demandbase",
+                "Statistic": "+25% ACV"
+            },
+            {
+                "Company": "Genesys",
+                "Statistic": "50% Win Rate"
+            },
+            {
+                "Company": "Sprout Social",
+                "Statistic": "40% Methodology Adoption"
+            }
+        ],
+        "Testimonials": [
+            {
+                "Company": "LinkedIn",
+                "Quote": "Gong gave us the assurance that our reps were doing the right things during their discovery calls and demos. We’ve shortened our sales cycle to just 16 days and more than doubled our close rates.",
+                "Person": "David Ellis",
+                "Position": "Sales Director"
+            }
+        ]
+    }
+}
+```

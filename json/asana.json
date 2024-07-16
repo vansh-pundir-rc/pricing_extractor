@@ -1,0 +1,371 @@
+```python
+pricing_info = {
+    "Personal": {
+        "price": "Free forever",
+        "features": [
+            "Collaborate with up to 10 teammates",
+            "Unlimited tasks",
+            "Unlimited projects",
+            "Unlimited messages",
+            "Unlimited activity log",
+            "Unlimited file storage (100MB per file)",
+            "Unlimited assignee and due dates",
+            "List view projects",
+            "Board view projects",
+            "Calendar view",
+            "Basic search filters",
+            "Status updates",
+            "iOS and Android mobile apps",
+            "Time tracking with integrations",
+            "100+ free integrations with your favorite apps"
+        ]
+    },
+    "Starter": {
+        "price": {
+            "annually": "US$10.99 per user, per month",
+            "monthly": "US$13.49 per user, per month"
+        },
+        "features": [
+            "Everything in Personal, plus:",
+            "Collaborate with up to 500 teammates",
+            "Timeline view",
+            "Gantt view",
+            "Asana AI",
+            "Workflow Builder",
+            "Project dashboards",
+            "Advanced search",
+            "Global custom fields",
+            "Forms",
+            "250 Automations per month",
+            "Start dates and times",
+            "Custom project templates",
+            "Admin Console",
+            "Private teams & projects",
+            "Unlimited free guests"
+        ]
+    },
+    "Advanced": {
+        "price": {
+            "annually": "US$24.99 per user, per month",
+            "monthly": "US$30.49 per user, per month"
+        },
+        "features": [
+            "Everything in Starter, plus:",
+            "Collaborate with up to 500 teammates",
+            "Goals",
+            "100 Portfolios",
+            "Asana AI",
+            "Workload",
+            "25,000 Automations per month",
+            "Forms branching & customization",
+            "Approvals",
+            "Proofing",
+            "Lock custom fields",
+            "Advanced reporting",
+            "Time tracking",
+            "Scaled security"
+        ]
+    },
+    "Enterprise": {
+        "price": "Contact sales for pricing",
+        "features": [
+            "Everything in Advanced, plus:",
+            "No user seat limits",
+            "Asana AI",
+            "Unlimited essentials",
+            "Unlimited views",
+            "Workflow bundles",
+            "Resource management",
+            "Advanced integrations with Salesforce, Tableau, and Power BI",
+            "SAML",
+            "Expedited user set up with SCIM",
+            "Service accounts",
+            "Guest invite controls",
+            "Mobile data controls",
+            "Admin announcements",
+            "Project admin controls",
+            "Team admin membership controls",
+            "Custom branding",
+            "Premium support"
+        ]
+    },
+    "Enterprise+": {
+        "price": "Contact sales for pricing",
+        "features": [
+            "Everything in Enterprise, plus:",
+            "No user seat limits",
+            "Asana AI",
+            "Audit log",
+            "Audit log API",
+            "Security information and event management (SIEM) integration support",
+            "Data loss prevention integration support",
+            "eDiscovery integration support",
+            "Archiving integration support",
+            "Approved workspaces",
+            "Enterprise key management (EKM)",
+            "HIPAA compliance available",
+            "Data residency (US, Europe, Australia, Japan)",
+            "Trusted guest domains",
+            "Admin app management",
+            "Custom password requirement"
+        ]
+    }
+}
+
+comparison_features = {
+    "Unlimited project management essentials": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited tasks": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited projects": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited comments": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited activity logs": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited storage (100MB per file)": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited assignees": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited due dates": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Unlimited messages": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Desktop app": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "iOS and Android mobile apps": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Recurring tasks": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Multi-select and bulk actions": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Multi-home tasks to projects": [
+        "Personal",
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Asana AI": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "150 actions per month": [
+        "Starter"
+    ],
+    "1,500 actions per month": [
+        "Advanced"
+    ],
+    "Unlimited": [
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart fields": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart editor": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart summaries": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart answers": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart status": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart rules": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart projects": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Smart goals": [
+        "Starter",
+        "Advanced",
+        "Enterprise",
+        "Enterprise+"
+    ],
+    "Views": [
+        "Project overview",
+        "List",
+        "Boards",
+        "Calendar",
+        "Saved views",
+        "Timeline",
+        "Gantt",
+        "Goals",
+        "Portfolios"
+    ],
+    "Workflows and automation": [
+        "100+ free integrations, including Microsoft 365, Google Workspace, Slack, and other everyday apps",
+        "Forms",
+        "Custom templates",
+        "Start dates and times",
+        "Task dependencies",
+        "Workflow builder",
+        "Rules",
+        "250 actions per month",
+        "25K actions per month",
+        "Forms with branching logic",
+        "Proofing",
+        "Approvals",
+        "Integration with Jira Cloud (two-way sync)",
+        "Time tracking",
+        "Workflow bundles"
+    ],
+    "Reporting": [
+        "CSV and PDF export",
+        "Status updates",
+        "Custom fields",
+        "Project dashboards",
+        "Charts customization",
+        "Charts template library",
+        "Advanced search",
+        "Milestones",
+        "Universal reporting",
+        "Critical path",
+        "Formulas",
+        "Advanced reporting metrics",
+        "Goals",
+        "Portfolio workload",
+        "Portfolios",
+        "Integrations with Salesforce, Tableau, and Power BI",
+        "Universal workload"
+    ],
+    "Admin, privacy and security": [
+        "User limit",
+        "SOC 2 Type 2",
+        "Multi-factor authentication",
+        "256-bit encryption at rest and in transit",
+        "Cross-regional backups",
+        "Data deletion",
+        "Google SSO",
+        "Private teams",
+        "Private projects",
+        "Unlimited free guests",
+        "Admin console",
+        "Comment-only projects",
+        "Lock custom fields",
+        "Custom branding",
+        "Custom onboarding",
+        "Admin announcements",
+        "SAML",
+        "User and group provisioning and deprovisioning (SCIM)",
+        "Service accounts",
+        "Mobile data controls",
+        "Guest invite controls",
+        "Team membership controls via team admin",
+        "Project controls via project admin",
+        "Managed workspaces",
+        "App management",
+        "Trusted guest domains",
+        "Audit log API (built to support SIEM, DLP, archiving, and eDiscovery)",
+        "SIEM integration (Splunk)",
+        "Data loss prevention (DLP) integration (Nightfall)",
+        "eDiscovery integration (Exterro, Hanzo, Everlaw)",
+        "Archiving integration (Theta Lake)",
+        "Data export via admin console",
+        "Sandbox"
+    ],
+    "Customer service": [
+        "Asana Forum",
+        "Asana Academy",
+        "Asana webinars",
+        "Help Center",
+        "Asana Support",
+        "Asana Developer Guide",
+        "Customer Success options (conditions apply, learn more here)",
+        "24/7 support"
+    ]
+}
+```

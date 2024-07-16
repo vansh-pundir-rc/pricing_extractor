@@ -1,0 +1,219 @@
+{
+  "Plans & Pricing": {
+    "Crossbeam Core": {
+      "Explorer": {
+        "Price": "Free",
+        "Details": "Build your partner ecosystem and map accounts for free",
+        "Features": [
+          "Add up to 3 seats",
+          "Segment and compare ecosystem data with 3 Standard Populations",
+          "Identify overlapping accounts with Standard Account Mapping",
+          "Collaborate on shared account lists by invitation",
+          "View overlap data in Salesforce and HubSpot with Copilot preview access",
+          "Capture ecosystem intelligence with the Crossbeam Slack App"
+        ]
+      },
+      "Connector": {
+        "Price": "$150/year (Annual only)",
+        "Details": "Activate your partner ecosystem and boost GTM efficiencies",
+        "Features": [
+          "No seat minimums, add users as you grow",
+          "Segment and compare ecosystem data with 3 Standard Populations and 3 Custom Populations",
+          "Identify and action overlapping accounts with Advanced Account Mapping",
+          "Collaborate with partners using Shared Lists",
+          "Make co-selling a team sport with full Crossbeam for Sales access with every seat",
+          "Action partner data with Outbound Integrations available on the Connector plan",
+          "Action data with Ecosystem Notifications"
+        ]
+      },
+      "Supernode": {
+        "Price": "Custom (Annual only)",
+        "Details": "Build a scalable and predictable ecosystem-led growth engine",
+        "Features": [
+          "Minimum 10 seats",
+          "Segment and compare ecosystem data with unlimited populations",
+          "Send partner data everywhere with unlimited integrations",
+          "Attribute partner-sourced and influenced revenue",
+          "Unlock enterprise-grade custom roles & permissions",
+          "Make data governance a breeze with Audit Logs",
+          "Get world-class onboarding and support with a dedicated Customer Success Manager"
+        ]
+      }
+    },
+    "Crossbeam for Sales on Connector": {
+      "Price": "$300/year per seat",
+      "Details": "Unlock ecosystem insights and playbooks right where your sellers work every day.",
+      "Features": [
+        "Full Crossbeam for Sales access per seat",
+        "Crossbeam Copilot (Available Copilot apps for Connector include: Chrome, Salesforce, or HubSpot)",
+        "Deal Navigator",
+        "Messaging",
+        "Crossbeam for Sales Slack App",
+        "Personalized Deal Alerts",
+        "Requires Crossbeam Connector plan"
+      ]
+    },
+    "Crossbeam for Sales on Supernode": {
+      "Price": "Custom",
+      "Details": "Drive strategic decisions and maximize seller productivity and efficiency by putting ecosystem data where you need it.",
+      "Features": [
+        "Crossbeam Copilot (all available apps in Connector, plus Gong)",
+        "Deal Attribution",
+        "Dedicated CSM",
+        "Customized Ecosystem Enablement",
+        "Requires Crossbeam Supernode plan"
+      ]
+    }
+  },
+  "Comparison": {
+    "Crossbeam Core Plans": {
+      "Explorer": {
+        "Connect and segment your data": {
+          "Data Sources": "Unlimited",
+          "Partner Connections": "Unlimited",
+          "Record Overlaps": "Unlimited",
+          "Standard Populations": "Up to 3 Standard Populations",
+          "Custom Populations": "N/A"
+        },
+        "Action your data": {
+          "Account Mapping": "Standard",
+          "Pipeline Mapping": "N/A",
+          "Reports": "Single Partner View",
+          "Shared Lists": "By invitation only",
+          "Max CSV Export Size": "100 records",
+          "Greenfield Sharing and Reporting": "Share only",
+          "Offline Partners": "Access to one Offline Partner"
+        },
+        "Share insights": {
+          "Slack App": "Yes",
+          "Full Crossbeam for Sales Access (per seat)": "No",
+          "Salesforce Custom Object": "No",
+          "HubSpot Custom Object": "No",
+          "Snowflake Custom Object": "No",
+          "Outbound Integrations": "N/A",
+          "Record exports": "Up to 5k records annually",
+          "Attribution": "Manual"
+        },
+        "Support and Security": {
+          "Support": "Email & Chat",
+          "Security Audits": "Yes",
+          "Custom Roles and Permissions": "No",
+          "Single Sign-On": "Google SSO",
+          "Security, Privacy & Compliance": "Yes",
+          "Audit Logs": "No"
+        }
+      },
+      "Connector": {
+        "Connect and segment your data": {
+          "Data Sources": "Unlimited",
+          "Partner Connections": "Unlimited",
+          "Record Overlaps": "Unlimited",
+          "Standard Populations": "Up to 3 Standard Populations",
+          "Custom Populations": "Up to 3 Custom Populations"
+        },
+        "Action your data": {
+          "Account Mapping": "Advanced",
+          "Pipeline Mapping": "N/A",
+          "Reports": "Multi-Partner View",
+          "Shared Lists": "External collaboration",
+          "Max CSV Export Size": "Unlimited*",
+          "Greenfield Sharing and Reporting": "Full Access",
+          "Offline Partners": "Unlimited*"
+        },
+        "Share insights": {
+          "Slack App": "Yes",
+          "Full Crossbeam for Sales Access (per seat)": "Yes",
+          "Salesforce Custom Object": "Yes",
+          "HubSpot Custom Object": "Yes",
+          "Snowflake Custom Object": "Yes",
+          "Outbound Integrations": "Unlimited Connector-level Outbound Integrations",
+          "Record exports": "Custom",
+          "Attribution": "Automatic (Coming Soon)"
+        },
+        "Support and Security": {
+          "Support": "Priority Email & Chat",
+          "Security Audits": "Yes",
+          "Custom Roles and Permissions": "No",
+          "Single Sign-On": "Google SSO",
+          "Security, Privacy & Compliance": "Yes",
+          "Audit Logs": "No"
+        }
+      },
+      "Supernode": {
+        "Connect and segment your data": {
+          "Data Sources": "Unlimited",
+          "Partner Connections": "Unlimited",
+          "Record Overlaps": "Unlimited",
+          "Standard Populations": "Up to 3 Standard Populations",
+          "Custom Populations": "Unlimited"
+        },
+        "Action your data": {
+          "Account Mapping": "Advanced",
+          "Pipeline Mapping": "N/A",
+          "Reports": "Multi-Partner View",
+          "Shared Lists": "External collaboration",
+          "Max CSV Export Size": "Unlimited*",
+          "Greenfield Sharing and Reporting": "Full Access",
+          "Offline Partners": "Unlimited*"
+        },
+        "Share insights": {
+          "Slack App": "Yes",
+          "Full Crossbeam for Sales Access (per seat)": "Yes",
+          "Salesforce Custom Object": "Yes",
+          "HubSpot Custom Object": "Yes",
+          "Snowflake Custom Object": "Yes",
+          "Outbound Integrations": "Unlimited Outbound Integrations",
+          "Record exports": "Custom",
+          "Attribution": "Automatic (Coming Soon)"
+        },
+        "Support and Security": {
+          "Support": "Customer Success Manager",
+          "Security Audits": "Yes",
+          "Custom Roles and Permissions": "Yes",
+          "Single Sign-On": "SAML SSO",
+          "Security, Privacy & Compliance": "Yes",
+          "Audit Logs": "Yes"
+        }
+      }
+    },
+    "Crossbeam for Sales Seats": {
+      "Connector": {
+        "Annual Cost Per Additional Seat": "$300/seat/year",
+        "Crossbeam Copilot": "Available Copilot Apps: Salesforce, HubSpot, Chrome",
+        "Partner Overlap": "Yes",
+        "Enriched Contacts": "Yes",
+        "Plays": "Yes",
+        "Get Ecosystem Insights": "Personalized Alerts via email, Slack, or Copilot Apps",
+        "Deal Navigator": "Yes",
+        "Lists": "Yes",
+        "Take Action": {
+          "Messages": "Yes",
+          "Crossbeam for Sales Slack App": "Yes",
+          "Co-Selling Templates": "Yes",
+          "Co-Selling Workflows": "Yes"
+        },
+        "Sales Tool Integrations (Clari, Gong, etc.)": "No",
+        "Attribution": "Export Attribution to Salesforce"
+      },
+      "Supernode": {
+        "Annual Cost Per Additional Seat": "Custom",
+        "Crossbeam Copilot": "Available Copilot Apps: Everything in Connector, plus Gong",
+        "Partner Overlap": "Yes",
+        "Enriched Contacts": "Yes",
+        "Plays": "Yes",
+        "Get Ecosystem Insights": "Personalized Alerts via email, Slack, or Copilot Apps",
+        "Deal Navigator": "Yes",
+        "Lists": "Yes",
+        "Take Action": {
+          "Messages": "Yes",
+          "Crossbeam for Sales Slack App": "Yes",
+          "Co-Selling Templates": "Yes",
+          "Co-Selling Workflows": "Yes"
+        },
+        "Sales Tool Integrations (Clari, Gong, etc.)": "Yes",
+        "Attribution": "Export Attribution to Salesforce",
+        "Additional Support": "Customized Ecosystem Enablement"
+      }
+    }
+  }
+}

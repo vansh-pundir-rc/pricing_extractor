@@ -1,0 +1,514 @@
+```python
+pricing_info = {
+    "Zendesk Suite plans": {
+        "Suite Team": {
+            "monthly": 55,
+            "annual": 660,
+            "features": [
+                "Ticketing system",
+                "Email, chat, voice, social messaging and more",
+                "Help centre",
+                "AI Agents",
+                "Prebuilt analytics dashboards",
+                "1,000+ apps and integrations",
+                "Pre-defined responses (macros)",
+                "Customised business rules (triggers and automations)",
+                "Online support from the Zendesk team",
+                "Digital onboarding and adoption resources",
+                "Eligible for Workforce Management add-on",
+                "Eligible for Quality Assurance add-on"
+            ]
+        },
+        "Suite Growth": {
+            "monthly": 89,
+            "annual": 1068,
+            "features": [
+                "Ticketing system",
+                "Email, chat, voice, social messaging and more",
+                "Help centre",
+                "AI Agents",
+                "Prebuilt analytics dashboards",
+                "1,000+ apps and integrations",
+                "Pre-defined responses (macros)",
+                "Customised business rules (triggers and automations)",
+                "Online support from the Zendesk team",
+                "Digital onboarding and adoption resources",
+                "Eligible for Workforce Management add-on",
+                "Eligible for Quality Assurance add-on",
+                "Multiple ticket forms",
+                "Light Agents",
+                "Service level agreements (SLA)",
+                "Customer satisfaction ratings (CSAT)",
+                "Multilingual support and content",
+                "Self-service customer portal",
+                "Business hours"
+            ]
+        },
+        "Suite Professional": {
+            "monthly": 115,
+            "annual": 1380,
+            "features": [
+                "Ticketing system",
+                "Email, chat, voice, social messaging and more",
+                "Help centre",
+                "AI Agents",
+                "Prebuilt analytics dashboards",
+                "1,000+ apps and integrations",
+                "Pre-defined responses (macros)",
+                "Customised business rules (triggers and automations)",
+                "Online support from the Zendesk team",
+                "Digital onboarding and adoption resources",
+                "Eligible for Workforce Management add-on",
+                "Eligible for Quality Assurance add-on",
+                "Multiple ticket forms",
+                "Light Agents",
+                "Service level agreements (SLA)",
+                "Customer satisfaction ratings (CSAT)",
+                "Multilingual support and content",
+                "Self-service customer portal",
+                "Business hours",
+                "Customised and live analytics",
+                "Side conversations",
+                "Skills-based routing",
+                "Integrated community forums",
+                "Data location options",
+                "HIPAA enabled",
+                "Access to Sunshine Conversations",
+                "Eligible for Advanced AI add-on"
+            ]
+        },
+        "Suite Enterprise": {
+            "monthly": 115,
+            "annual": 1380,
+            "features": [
+                "Ticketing system",
+                "Email, chat, voice, social messaging and more",
+                "Help centre",
+                "AI Agents",
+                "Prebuilt analytics dashboards",
+                "1,000+ apps and integrations",
+                "Pre-defined responses (macros)",
+                "Customised business rules (triggers and automations)",
+                "Online support from the Zendesk team",
+                "Digital onboarding and adoption resources",
+                "Eligible for Workforce Management add-on",
+                "Eligible for Quality Assurance add-on",
+                "Multiple ticket forms",
+                "Light Agents",
+                "Service level agreements (SLA)",
+                "Customer satisfaction ratings (CSAT)",
+                "Multilingual support and content",
+                "Self-service customer portal",
+                "Business hours",
+                "Customised and live analytics",
+                "Side conversations",
+                "Skills-based routing",
+                "Integrated community forums",
+                "Data location options",
+                "HIPAA enabled",
+                "Access to Sunshine Conversations",
+                "Eligible for Advanced AI add-on",
+                "Eligible for Advanced Data Privacy and Protection add-on",
+                "Sandbox",
+                "AI-powered Content Cues",
+                "Content blocks",
+                "Customised agent roles",
+                "Dynamic, contextual workspaces"
+            ]
+        },
+        "Suite Enterprise Plus": {
+            "price": "Talk to Sales",
+            "features": [
+                "Optimise support and fine-tune change management with our most robust sandbox",
+                "Scale your business with our highest API rate limits",
+                "Protect your operations with enhanced disaster recovery"
+            ]
+        }
+    },
+    "Add-ons": {
+        "Advanced AI": {
+            "price": 50,
+            "features": [
+                "Intelligent triage",
+                "Actionable insights and suggestions",
+                "Macro insights for admins",
+                "Generative AI tools for agents",
+                "Generative AI tools for knowledge"
+            ]
+        },
+        "Zendesk Workforce Management": {
+            "price": 25,
+            "features": [
+                "AI-powered forecasting",
+                "Automatic agent scheduling",
+                "Real-time agent activity tracking",
+                "Agent performance reporting",
+                "Agent schedule views"
+            ]
+        },
+        "Zendesk Quality Assurance": {
+            "price": 35,
+            "features": [
+                "AutoQA 100% coverage",
+                "Spotlight AI insight filters",
+                "Agent feedback and coaching",
+                "Track performance trends",
+                "Voice QA",
+                "QA for AI agents"
+            ]
+        },
+        "Advanced Data Privacy and Protection": {
+            "price": 50,
+            "features": [
+                "Access log",
+                "Advanced encryption",
+                "Advanced data retention policies",
+                "Advanced redaction",
+                "Data masking"
+            ]
+        }
+    },
+    "Comparisons": {
+        "Suite Team": {
+            "Annual Subscription Term (per agent per month)": 55,
+            "Monthly Subscription Term (per agent per month)": 69,
+            "Email": {
+                "Ticket file attachment size": "50MB",
+                "Incoming email authentication": ["SPF", "DKIM", "DMARC"],
+                "Automatic email archiving": True
+            },
+            "Messaging and live chat": {
+                "Departments": 2,
+                "Features": [
+                    "Web widget",
+                    "Mobile SDKs: iOS SDK, Android SDK and Unity SDK",
+                    "Widget customisation",
+                    "Pre-chat form",
+                    "Unlimited concurrent chats",
+                    "Shortcuts",
+                    "Automatic translation",
+                    "Send and receive files",
+                    "Conversation rating",
+                    "Transfers between agents and departments",
+                    "Rich message types",
+                    "Conversation history",
+                    "Re-engagement",
+                    "Whisper mode",
+                    "Warm transfer",
+                    "Send proactive messages",
+                    "Skills-based routing",
+                    "Widget unbranding"
+                ]
+            },
+            "Voice": {
+                "Voicemail": True,
+                "Text messages": "Add-on",
+                "Embedded voice": True,
+                "Display a number using web widget": True,
+                "Partner Edition (Computer Telephony Integration)": True,
+                "Answer in browser and forward to phone": True,
+                "Caller ID": "External number for outbound caller ID",
+                "Call routing": "Group routing",
+                "Failover": "On demand",
+                "Customised greetings": True,
+                "Queue size and wait time": "Extended",
+                "Automatic ticket creation": True,
+                "Call recording": True,
+                "Mute, hold and warm transfer": True,
+                "Business hours": True,
+                "Conference calling": True,
+                "Call blocking": True,
+                "Interactive voice response (IVR, phone trees)": True,
+                "Priority numbers": True,
+                "Request a callback": True,
+                "Call wrap-up time limits": True,
+                "Call recording controls": True,
+                "Call monitoring and barging": True,
+                "Call quality notifications": True,
+                "Call offering time limit": True,
+                "Call usage 99.95% uptime SLA": True,
+                "Local and toll-free numbers": "Add-on",
+                "Inbound and outbound minutes": "Add-on"
+            },
+            "Help centre": {
+                "Multilingual content": "1 default language",
+                "Article view permissions": ["Basic", "Registered users", "Public"],
+                "Structured content": "Up to 2 levels deep",
+                "Theme customisation": "BasicStandard themes",
+                "Multiple help centres": 1,
+                "Search": "Help centre",
+                "Customer portal": True
+            },
+            "Knowledge management": {
+                "Rich text WYSIWYG editor": True,
+                "SEO ready": True,
+                "Bulk actions": "Basic",
+                "Flag and create knowledge": True,
+                "Content and revision history": True,
+                "Article lists and labels": True,
+                "Approval and publishing workflows": True,
+                "Scheduled publishing and verification": True,
+                "Content blocks": True,
+                "Advanced AI: Generative AI tools for knowledge": "Add-on"
+            },
+            "AI Agents": {
+                "AI-powered bots": True,
+                "Included automated resolutions": True,
+                "Additional automated resolutions": "Add-on"
+            },
+            "Community forums": {
+                "User profiles and aliases": True,
+                "Integrated search": True,
+                "Similar posts": True,
+                "Escalate posts to tickets": True,
+                "Community moderators and moderator groups": True,
+                "Content moderation queue": True,
+                "AI-powered spam protection": True,
+                "User badges": True
+            },
+            "Agent workspace with customer context": {
+                "Unified agent workspace": True,
+                "Translated interface": True,
+                "Cards": "Standard",
+                "Interaction history": True,
+                "Group contacts by organisation": "Single",
+                "Customised user and organisation fields": True,
+                "Customised and group views": True,
+                "Custom Layouts": "Up to 1 custom layout applied",
+                "Dynamic content": True,
+                "Customer satisfaction ratings (CSAT) and follow-up survey": True,
+                "Customised agent statuses": "Up to 5",
+                "Support mobile app": True,
+                "Dynamic, contextual workspaces": True,
+                "Advanced AI: Generative AI tools for agents": "Add-on"
+            },
+            "Collaboration tools": {
+                "Light agents": "Up to 50",
+                "Light agents add-on": "Add-on",
+                "Side conversations": True
+            },
+            "Marketplace": {
+                "Prebuilt apps and integrations": True
+            },
+            "Workflows": {
+                "Triggers": True,
+                "Ticket sharing between multiple Zendesk accounts": "Automated",
+                "Conversation routing": "Based on agent status and capacity",
+                "Multiple ticket forms": True,
+                "Conditional ticket fields": True,
+                "Service level agreements (SLA)": True,
+                "Skills-based routing": True,
+                "Guided mode": True
+            },
+            "Automations and intelligence": {
+                "Pre-defined responses (macros)": True,
+                "Customised business rules (triggers and automations)": True,
+                "Article recommendations": True,
+                "Business rules analysis": True,
+                "AI-powered Content Cues": True,
+                "Advanced AI: Intelligent triage": "Add-on",
+                "Advanced AI: Actionable insights and suggestions": "Add-on",
+                "Advanced AI: Macro insights for admins": "Add-on"
+            },
+            "Change management": {
+                "Unified staff management": True,
+                "Business hours": "Single",
+                "Customised agent roles": True,
+                "Audit logs": True,
+                "Standard sandbox": True,
+                "Premium Sandbox": "Partial",
+                "Additional Premium Sandboxes": "Add-on"
+            },
+            "Reporting and analytics": {
+                "Prebuilt analytics dashboards": True,
+                "Data exports": True,
+                "Zendesk Benchmark": True,
+                "Voice usage reporting": True,
+                "Google Analytics for help centre": True,
+                "Customised data exploration": True,
+                "Scheduled dashboard delivery": "Zendesk users only",
+                "Dashboard sharing": "Zendesk users only",
+                "Live agent activity dashboard": "Default view",
+                "Pre-built live dashboard": True,
+                "Customisable live dashboards": True,
+                "Visual data alerts": True,
+                "Refresh rate": "24 hours",
+                "Advanced AI: Reporting and insights": "Add-on"
+            },
+            "Data": {
+                "Data storage": "10 GB + 50 MB/agent",
+                "File storage": "10 GB + 2 GB/agent",
+                "Customised objects": "Up to 3 objects (5 lookup fields/object)",
+                "Zendesk events": "In beta",
+                "External events": "Up to 150K/month",
+                "Event retention period": "90 days",
+                "External profiles": True,
+                "Devices data log": True,
+                "AWS Events Connector": True,
+                "Additional data storage": "Add-on"
+            },
+            "Customised apps and integrations": {
+                "Private customised apps and integrations": True
+            },
+            "Developer tools": {
+                "API access": True,
+                "Sunshine Conversations 3rd party chatbots": "Add-on",
+                "Additional API volume (10+ agents required)": "Add-on"
+            },
+            "Security and compliance": {
+                "User authentication options": ["Native", "SSO", "2FA"],
+                "Secure access options": ["IP restrictions", "password complexity", "session length"],
+                "Agent device management": True,
+                "Data encryption at rest and in motion": True,
+                "Host mapping": True,
+                "Disaster recovery": True,
+                "Credit card redaction": True,
+                "Data centre location": True,
+                "HIPAA enabled": True,
+                "Access log": "Add-on",
+                "Advanced encryption": "Add-on",
+                "Advanced data retention policies": "Add-on",
+                "Advanced redaction": "Add-on",
+                "Data masking": "Add-on"
+            },
+            "Sunshine Conversations": {
+                "Sunshine Conversations 3rd party chatbots": True,
+                "Access to conversation tools and APIs": True,
+                "Basic Platform Support": True,
+                "Monthly Active Users per month": "1,000 included (US$50/pack of additional 2,500 MAUs)",
+                "Notifications per month": "1,000 included (US$50/pack of additional 25,000 Notifications)",
+                "Channels": True,
+                "Orchestration APIs (Switchboard)": True
+            },
+            "Support and services from the Zendesk team": {
+                "Digital support": True,
+                "Access to Zendesk Help Centre and Community": True,
+                "Digital onboarding and adoption resources": True,
+                "Getting started on-demand training": True,
+                "Guided learning paths": True,
+                "Premier plans—24/7 Proactive support and engagement": "Add-on",
+                "Professional Services": "Add-on",
+                "Customised training and certifications": "Add-on",
+                "Hands-on help with Zendesk Assist": "Add-on"
+            }
+        },
+        "Suite Growth": {
+            "Annual Subscription Term (per agent per month)": 89,
+            "Monthly Subscription Term (per agent per month)": 115,
+            "Email": {
+                "Ticket file attachment size": "50MB",
+                "Incoming email authentication": ["SPF", "DKIM", "DMARC"],
+                "Automatic email archiving": True
+            },
+            "Messaging and live chat": {
+                "Departments": 2,
+                "Features": [
+                    "Web widget",
+                    "Mobile SDKs: iOS SDK, Android SDK and Unity SDK",
+                    "Widget customisation",
+                    "Pre-chat form",
+                    "Unlimited concurrent chats",
+                    "Shortcuts",
+                    "Automatic translation",
+                    "Send and receive files",
+                    "Conversation rating",
+                    "Transfers between agents and departments",
+                    "Rich message types",
+                    "Conversation history",
+                    "Re-engagement",
+                    "Whisper mode",
+                    "Warm transfer",
+                    "Send proactive messages",
+                    "Skills-based routing",
+                    "Widget unbranding"
+                ]
+            },
+            "Voice": {
+                "Voicemail": True,
+                "Text messages": "Add-on",
+                "Embedded voice": True,
+                "Display a number using web widget": True,
+                "Partner Edition (Computer Telephony Integration)": True,
+                "Answer in browser and forward to phone": True,
+                "Caller ID": "External number for outbound caller ID",
+                "Call routing": "Group routing",
+                "Failover": "On demand",
+                "Customised greetings": True,
+                "Queue size and wait time": "Extended",
+                "Automatic ticket creation": True,
+                "Call recording": True,
+                "Mute, hold and warm transfer": True,
+                "Business hours": True,
+                "Conference calling": True,
+                "Call blocking": True,
+                "Interactive voice response (IVR, phone trees)": True,
+                "Priority numbers": True,
+                "Request a callback": True,
+                "Call wrap-up time limits": True,
+                "Call recording controls": True,
+                "Call monitoring and barging": True,
+                "Call quality notifications": True,
+                "Call offering time limit": True,
+                "Call usage 99.95% uptime SLA": True,
+                "Local and toll-free numbers": "Add-on",
+                "Inbound and outbound minutes": "Add-on"
+            },
+            "Help centre": {
+                "Multilingual content": "40+ languages",
+                "Article view permissions": [
+                    "Basic",
+                    "Registered users",
+                    "Public",
+                    "Advanced",
+                    "Internal only (customised)",
+                    "Registered users (customised)",
+                    "Public (customised)"
+                ],
+                "Structured content": "Up to 2 levels deep",
+                "Theme customisation": "IntermediateStandard themes +Customised +Marketplace Themes",
+                "Multiple help centres": "Up to 5",
+                "Search": "Help centre",
+                "Customer portal": True
+            },
+            "Knowledge management": {
+                "Rich text WYSIWYG editor": True,
+                "SEO ready": True,
+                "Bulk actions": "Intermediate",
+                "Flag and create knowledge": True,
+                "Content and revision history": True,
+                "Article lists and labels": True,
+                "Approval and publishing workflows": True,
+                "Scheduled publishing and verification": True,
+                "Content blocks": True,
+                "Advanced AI: Generative AI tools for knowledge": "Add-on"
+            },
+            "AI Agents": {
+                "AI-powered bots": True,
+                "Included automated resolutions": True,
+                "Additional automated resolutions": "Add-on"
+            },
+            "Community forums": {
+                "User profiles and aliases": True,
+                "Integrated search": True,
+                "Similar posts": True,
+                "Escalate posts to tickets": True,
+                "Community moderators and moderator groups": True,
+                "Content moderation queue": True,
+                "AI-powered spam protection": True,
+                "User badges": True
+            },
+            "Agent workspace with customer context": {
+                "Unified agent workspace": True,
+                "Translated interface": True,
+                "Cards": "Standard",
+                "Interaction history": True,
+                "Group contacts by organisation": "Multiple",
+                "Customised user and organisation fields": True,
+                "Customised and group views": True,
+                "Custom Layouts": "Up to 1 custom layout applied",
+                "Dynamic content": True,
+                "Customer satisfaction ratings (CSAT) and follow-up survey": True,
+                "Customised agent statuses": "Up to 100",
+                "Support mobile app": True,
+                "Dynamic, contextual workspaces": True,
+               

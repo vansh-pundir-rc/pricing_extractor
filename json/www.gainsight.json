@@ -1,0 +1,94 @@
+```python
+pricing_catalogue = {
+    "Customer Success": {
+        "Essentials": {
+            "Description": "For growing businesses and Customer Success organizations looking to start fast.",
+            "Features": [
+                "AI Insights, Automations",
+                "Customer 360",
+                "Playbooks & Success Plans",
+                "Dashboards",
+                "Health Scorecards",
+                "Surveys",
+                "Digital Journeys",
+                "Company News",
+                "Renewal and Expansion Forecasting",
+                "Organizational Mapping & Sponsor Tracking",
+            ],
+            "Included Full Users": 10,
+            "Included Customers Per User": 100,
+            "Viewer Licenses": "Unlimited",
+            "Pricing": "Request Pricing"
+        },
+        "Enterprise": {
+            "Description": "The full power of the industry’s leading CS platform.",
+            "Features": [
+                "AI Insights, Automations",
+                "Customer 360",
+                "Playbooks & Success Plans",
+                "Dashboards",
+                "Health Scorecards",
+                "Surveys",
+                "Digital Journeys",
+                "Company News",
+                "Renewal and Expansion Forecasting",
+                "Organizational Mapping & Sponsor Tracking",
+            ],
+            "Included Full Users": 20,
+            "Included Customers Per User": 300,
+            "Viewer Licenses": "Unlimited",
+            "Pricing": "Request Pricing"
+        }
+    },
+    "Product Experience": {
+        "Description": "Get rich product insights to drive roadmap and customer health decisions. Deliver digital in-app engagements that increase product adoption.",
+        "Features": [
+            "Product Analytics",
+            "In-App Guides & Engagements",
+            "Knowledge Center Bot(s)",
+            "User Surveys & Feedback",
+            "Support for Web, Mobile & Desktop Apps"
+        ],
+        "Pricing": "Request Pricing",
+        "Free Trial": True
+    },
+    "Customer Communities": {
+        "Professional": {
+            "Description": "Grow your first branded community",
+            "Features": [
+                "3 Admin Seats",
+                "Basic Product Suite",
+                "Self-Service Support"
+            ],
+            "Pricing": "Learn More"
+        },
+        "Business": {
+            "Description": "An integrated community to support bigger teams",
+            "Features": [
+                "5 Admin Seats",
+                "All Customer Communities Products",
+                "CSM Support"
+            ],
+            "Pricing": "Learn More"
+        },
+        "Enterprise": {
+            "Description": "Advanced integrations & support for custom requirements",
+            "Features": [
+                "10 Admin Seats",
+                "Advanced/Custom Integrations",
+                "Enterprise CSM Support"
+            ],
+            "Pricing": "Learn More"
+        }
+    },
+    "Customer Education": {
+        "Description": "Improve Onboarding Through Digital Programs",
+        "Features": [
+            "Unlimited Learners",
+            "Unlimited Admins",
+            "Unlimited Course Content"
+        ],
+        "Pricing": "Learn More"
+    }
+}
+```

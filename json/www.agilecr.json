@@ -1,0 +1,191 @@
+```python
+agile_crm_pricing = {
+    "FREE": {
+        "price": "$0",
+        "users": "10",
+        "features": {
+            "Sales": [
+                "1,000 Contacts & Companies",
+                "Custom Data Fields",
+                "Lead Scoring",
+                "Unlimited Deals, Tasks & Documents",
+                "Appointment Scheduling",
+                "Custom Deal Milestones",
+                "Email Tracking"
+            ],
+            "Marketing": [
+                "Email Campaigns",
+                "Web Engagement",
+                "Contact Level Analytics",
+                "Form Builder",
+                "Email Templates Builder",
+                "Landing Page Builder",
+                "5,000 Emails (Branded)",
+                "Web-to-Lead"
+            ],
+            "Service": [
+                "Helpdesk",
+                "Groups",
+                "Labels",
+                "Canned Responses",
+                "Views",
+                "Activities",
+                "Reports"
+            ],
+            "Extras": [
+                "1 Plugin",
+                "Email Support",
+                "Google Sync",
+                "Chrome Extension",
+                "Basic Reports"
+            ]
+        }
+    },
+    "STARTER": {
+        "price": "$8.99",
+        "users": "10",
+        "features": {
+            "Sales": [
+                "10,000 Contacts & Companies",
+                "Custom Data Fields",
+                "Lead Scoring",
+                "Unlimited Deals, Tasks & Documents",
+                "Appointment Scheduling",
+                "Custom Deal Milestones",
+                "Email Tracking",
+                "2-Way Email Integration"
+            ],
+            "Marketing": [
+                "Email Campaigns",
+                "Web Engagement",
+                "Contact Level Analytics",
+                "Form Builder",
+                "Email Templates Builder",
+                "Landing Page Builder",
+                "5,000 Emails (Branded)",
+                "Web-to-Lead",
+                "Marketing Automation",
+                "Social Monitoring"
+            ],
+            "Service": [
+                "Helpdesk",
+                "Groups",
+                "Labels",
+                "Canned Responses",
+                "Views",
+                "Activities",
+                "Reports"
+            ],
+            "Extras": [
+                "3 Plugins",
+                "Email & Phone Support",
+                "Google/Shopify/Stripe Sync",
+                "Chrome Extension",
+                "Basic Reports",
+                "Email Reports"
+            ]
+        }
+    },
+    "REGULAR": {
+        "price": "$29.99",
+        "users": "10",
+        "features": {
+            "Sales": [
+                "50,000 Contacts & Companies",
+                "Custom Data Fields",
+                "Lead Scoring",
+                "Unlimited Deals, Tasks & Documents",
+                "Appointment Scheduling",
+                "Custom Deal Milestones",
+                "Email Tracking",
+                "2-Way Email Integration",
+                "Custom Deal Tracks",
+                "2-Way Telephony"
+            ],
+            "Marketing": [
+                "Email Campaigns",
+                "Web Engagement",
+                "Contact Level Analytics",
+                "Form Builder",
+                "Email Templates Builder",
+                "Landing Page Builder",
+                "5,000 Emails (Branded)",
+                "Web-to-Lead",
+                "Marketing Automation",
+                "Social Monitoring",
+                "Mobile Marketing"
+            ],
+            "Service": [
+                "Helpdesk",
+                "Groups",
+                "Labels",
+                "Canned Responses",
+                "Views",
+                "Activities",
+                "Reports"
+            ],
+            "Extras": [
+                "50+ Plugins/Integrations",
+                "Email & Phone Support",
+                "Google/Shopify/Stripe Sync",
+                "Chrome Extension",
+                "Basic & Email Reports"
+            ]
+        }
+    },
+    "ENTERPRISE": {
+        "price": "$47.99",
+        "users": "10",
+        "features": {
+            "Sales": [
+                "Unlimited Contacts & Companies",
+                "Custom Data Fields",
+                "Lead Scoring",
+                "Unlimited Deals, Tasks & Documents",
+                "Appointment Scheduling",
+                "Custom Deal Milestones",
+                "Email Tracking",
+                "2-Way Email Integration",
+                "Custom Deal Tracks",
+                "2-Way Telephony",
+                "Post Call Automation",
+                "Call Recording",
+                "Automated Voicemails"
+            ],
+            "Marketing": [
+                "Email Campaigns",
+                "Web Engagement",
+                "Contact Level Analytics",
+                "Form Builder",
+                "Email Templates Builder",
+                "Landing Page Builder",
+                "5,000 Emails (Branded)",
+                "Web-to-Lead",
+                "Marketing Automation",
+                "Social Monitoring",
+                "SES/Mandrill/Sendgrid Integration",
+                "Mobile Marketing"
+            ],
+            "Service": [
+                "Helpdesk",
+                "Groups",
+                "Labels",
+                "Canned Responses",
+                "Views",
+                "Activities",
+                "Reports"
+            ],
+            "Extras": [
+                "50+ Plugins/Integrations",
+                "Email & Phone Support",
+                "Dedicated Account Rep",
+                "Onboarding Coach",
+                "Google/Shopify/Stripe Sync",
+                "Chrome Extension",
+                "Basic, Email & Team Reports",
+                "Access Controls (ACLs)"
+            ]
+        }
+    }
+}
+```

@@ -1,0 +1,59 @@
+```python
+data = {
+    "Comparisons": {
+        "Intercom Alternative": "Ever heard of unlimited contacts on all plans?",
+        "Zendesk Alternative": "Looking for a modern customer service solution?"
+    },
+    "Platform": {
+        "Use Cases": [
+            "Customer Support",
+            "Lead Generation & Sales",
+            "Customer Engagement"
+        ],
+        "Features": {
+            "Live Chat": "Talk to your customers in real time",
+            "Chatbot": {
+                "status": "Coming soon",
+                "description": "Qualify leads and deliver instant answers 24/7",
+                "AI": True
+            },
+            "Shared Inbox": {
+                "description": "Unite all communication channels under one roof",
+                "AI": True
+            },
+            "Knowledge Base": {
+                "description": "Create help articles for customer self-service",
+                "AI": True
+            },
+            "Email Marketing": "Send targeted email campaigns to customers",
+            "Popups": "Create stylish popups that bring more leads",
+            "Mobile Apps & SDK": "Reply to users on the go & provide in-app support",
+            "Integrations": "Integrate HelpCrunch with your favorite tools"
+        }
+    },
+    "Pricing": "Not specified",
+    "Resources": {
+        "LEARN": [
+            "Blog",
+            "Success Stories",
+            "Knowledge Base",
+            "Ebooks",
+            "News"
+        ],
+        "For developers": [
+            "JavaScript API",
+            "iOS SDK",
+            "REST API",
+            "Android SDK",
+            "Webhooks"
+        ]
+    },
+    "Free trial": "Available",
+    "Contact Info": {
+        "Address": "1811 Silverside Rd, Wilmington, DE 19810, USA",
+        "US Phone": "+1 (650) 741-0034",
+        "UK Phone": "+44 (203) 514-1245",
+        "Email": "support@helpcrunch.com"
+    }
+}
+```

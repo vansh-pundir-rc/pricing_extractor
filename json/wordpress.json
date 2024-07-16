@@ -1,0 +1,188 @@
+```python
+pricing_info = {
+    "plans": {
+        "Starter": {
+            "monthly_price": 420,
+            "annual_price": 1920,
+            "biennial_price": 3072,
+            "triennial_price": 4032,
+            "features": [
+                "Free domain for one year",
+                "Access to dozens of premium themes",
+                "Ad-free experience",
+                "Extremely fast DNS with SSL",
+                "8% transaction fee for payments (+ standard processing fee)",
+                "Security, performance, and growth tools—powered by Jetpack",
+                "Storage: 6 GB"
+            ]
+        },
+        "Explorer": {
+            "monthly_price": 790,
+            "annual_price": 3360,
+            "biennial_price": 5376,
+            "triennial_price": 7056,
+            "features": [
+                "Everything in Starter, plus:",
+                "Fast support from our expert team",
+                "Access to all premium themes",
+                "Earn with WordAds",
+                "Customize fonts and colors",
+                "4% transaction fee for payments (+ standard processing fee)",
+                "Upload 4K videos with VideoPress",
+                "Unlimited automatic shares in social media",
+                "Site activity log",
+                "In-depth site analytics dashboard",
+                "Storage: 13 GB"
+            ]
+        },
+        "Creator": {
+            "monthly_price": 1260,
+            "annual_price": 7680,
+            "biennial_price": 12288,
+            "triennial_price": 16128,
+            "features": [
+                "Everything in Explorer, plus:",
+                "Priority 24/7 support from our expert team",
+                "Install plugins and themes",
+                "Unrestricted bandwidth",
+                "No limitations on site visitors",
+                "Global edge caching",
+                "High-burst capacity",
+                "Web application firewall (WAF)",
+                "Global CDN with 28+ locations",
+                "High-frequency CPUs",
+                "Automated datacenter failover",
+                "Isolated site infrastructure",
+                "Malware detection & removal",
+                "Tiered storage plans available",
+                "Real-time security scans",
+                "Spam protection with Akismet",
+                "DDoS protection and mitigation",
+                "SFTP/SSH, WP-CLI, Git tools",
+                "Free staging site",
+                "Seamless staging and production syncing",
+                "Automated WordPress updates",
+                "Centralized site management",
+                "Vulnerability notifications for core and plugins",
+                "0% transaction fee for standard WooCommerce payment features (+ standard processing fee)",
+                "2% transaction fee for standard payments (+ standard processing fee)",
+                "Real-time backups",
+                "One-click restores",
+                "Uptime monitor",
+                "Built-in Elasticsearch",
+                "Plugin auto-updates",
+                "SEO and analytics tools",
+                "Storage: 50 GB"
+            ]
+        },
+        "Entrepreneur": {
+            "monthly_price": 2240,
+            "annual_price": 13824,
+            "biennial_price": 22128,
+            "triennial_price": 29016,
+            "features": [
+                "Everything in Creator, plus:",
+                "Optimized WooCommerce hosting",
+                "Premium store themes",
+                "Powerful store design tools",
+                "Unlimited products",
+                "Display products by brand",
+                "Product add-ons",
+                "Assembled products and kits",
+                "Min/max order quantities",
+                "Back-in-stock notifications",
+                "Dynamic product upsells",
+                "Custom marketing automation",
+                "Offer bulk discounts",
+                "Inventory management",
+                "Streamlined, extendable checkout",
+                "Sell in 60+ countries",
+                "Integrations with top shipping carriers",
+                "0% transaction fee for payments (+ standard processing fee)",
+                "Storage: 50 GB"
+            ]
+        },
+        "Cloud": {
+            "monthly_price": 65,
+            "annual_price": 779.88,
+            "features": [
+                "High Performance WordPress",
+                "Up to 150 vCPU",
+                "Up to 225 GB SSD storage",
+                "24/7 priority support",
+                "Install plugins and themes",
+                "Unrestricted bandwidth",
+                "Global edge caching",
+                "High-burst capacity",
+                "Web application firewall (WAF)",
+                "Global CDN with 28+ locations",
+                "High-frequency CPUs",
+                "Automated datacenter failover",
+                "Isolated site infrastructure",
+                "Malware detection & removal",
+                "DDoS protection and mitigation",
+                "SFTP/SSH, WP-CLI, Git tools",
+                "Free staging site",
+                "Automated WordPress updates",
+                "Centralized site management",
+                "Real-time backups",
+                "One-click restores",
+                "Uptime monitor",
+                "Plugin auto-updates",
+                "Yoast SEO Free"
+            ]
+        },
+        "Enterprise": {
+            "starting_price": 25000,
+            "features": [
+                "High performance platform",
+                "Multifaceted security",
+                "Generative AI",
+                "Integrated content analytics",
+                "24/7 support",
+                "Professional services",
+                "API mesh and node hosting",
+                "Containerized environment",
+                "Global infrastructure",
+                "Dynamic autoscaling",
+                "Integrated CDN",
+                "Integrated code repository",
+                "Staging environments",
+                "Management dashboard",
+                "Command line interface (CLI)",
+                "Efficient multi-site management",
+                "Advanced access controls",
+                "Single sign-on (SSO)",
+                "DDoS protection and mitigation",
+                "Plugin and theme vulnerability scanning",
+                "Automated plugin upgrade",
+                "Integrated enterprise search",
+                "Integrated APM"
+            ]
+        }
+    },
+    "comparisons": {
+        "Starter vs Explorer": {
+            "price_difference": "Explorer is more expensive",
+            "storage_difference": "Explorer offers 13 GB vs 6 GB in Starter",
+            "features_difference": [
+                "Explorer has fast support, access to all premium themes, WordAds, customize fonts and colors, 4K VideoPress, unlimited social shares, site activity log, and in-depth site analytics."
+            ]
+        },
+        "Explorer vs Creator": {
+            "price_difference": "Creator is more expensive",
+            "storage_difference": "Creator offers 50 GB vs 13 GB in Explorer",
+            "features_difference": [
+                "Creator has priority 24/7 support, install plugins and themes, unrestricted bandwidth, no limitations on site visitors, global edge caching, high-burst capacity, WAF, global CDN, high-frequency CPUs, datacenter failover, isolated site infrastructure, malware detection, tiered storage, real-time security scans, spam protection, DDoS protection, SFTP/SSH, WP-CLI, Git tools, free staging site, seamless staging and production syncing, automated WordPress updates, centralized site management, vulnerability notifications, 0% transaction fee for WooCommerce, 2% transaction fee for payments, real-time backups, one-click restores, uptime monitor, built-in Elasticsearch, plugin auto-updates, SEO and analytics tools."
+            ]
+        },
+        "Creator vs Entrepreneur": {
+            "price_difference": "Entrepreneur is more expensive",
+            "storage_difference": "Both offer 50 GB, with options for more at additional cost",
+            "features_difference": [
+                "Entrepreneur has optimized WooCommerce hosting, premium store themes, powerful store design tools, unlimited products, display products by brand, product add-ons, assembled products and kits, min/max order quantities, back-in-stock notifications, dynamic product upsells, custom marketing automation, offer bulk discounts, inventory management, streamlined checkout, sell in 60+ countries, integrations with top shipping carriers."
+            ]
+        }
+    }
+}
+```

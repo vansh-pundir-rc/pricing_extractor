@@ -1,0 +1,78 @@
+{
+  "plans": {
+    "Starter": {
+      "description": "For early-stage startups with smaller teams",
+      "price": "$0",
+      "features": [
+        "Automated Email Sequences",
+        "Send 50 emails/day",
+        "Identify Hot Leads",
+        "Email Templates",
+        "Email Open, Reply & Click Tracking",
+        "Sequence Library",
+        "Manage Opportunities"
+      ]
+    },
+    "Growth": {
+      "description": "For fast-growing companies with larger teams",
+      "price": "$79/month/user, billed annually",
+      "features": [
+        "Everything in Starter, plus:",
+        "Send 1000 emails/day",
+        "A/B Testing",
+        "Basic Dialer",
+        "Website Tracking"
+      ]
+    },
+    "Enterprise": {
+      "description": "For giants requiring up-to-date CRMs with compliance & security",
+      "price": "Custom Price",
+      "features": [
+        "Everything in Growth, plus:",
+        "Outbound Chat",
+        "Team & Team Assets",
+        "Roles & Permissions",
+        "Account Manager"
+      ]
+    }
+  },
+  "comparisons": {
+    "Starter vs Growth": {
+      "common_features": [
+        "Automated Email Sequences",
+        "Send 50 emails/day",
+        "Identify Hot Leads",
+        "Email Templates",
+        "Email Open, Reply & Click Tracking",
+        "Sequence Library",
+        "Manage Opportunities"
+      ],
+      "growth_additional_features": [
+        "Send 1000 emails/day",
+        "A/B Testing",
+        "Basic Dialer",
+        "Website Tracking"
+      ]
+    },
+    "Growth vs Enterprise": {
+      "common_features": [
+        "Automated Email Sequences",
+        "Send 1000 emails/day",
+        "Identify Hot Leads",
+        "Email Templates",
+        "Email Open, Reply & Click Tracking",
+        "Sequence Library",
+        "Manage Opportunities",
+        "A/B Testing",
+        "Basic Dialer",
+        "Website Tracking"
+      ],
+      "enterprise_additional_features": [
+        "Outbound Chat",
+        "Team & Team Assets",
+        "Roles & Permissions",
+        "Account Manager"
+      ]
+    }
+  }
+}

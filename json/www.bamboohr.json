@@ -1,0 +1,102 @@
+```python
+bamboo_hr_pricing = {
+    "Plans": {
+        "Core": {
+            "Description": "Foundational HR automation to move your business forward. Ideal for smaller HR teams with basic operational needs."
+        },
+        "Pro": {
+            "Description": "A complete, flexible HR platform. Ideal for scaling companies looking to level up their employee experience.",
+            "Features": [
+                "HR Data & Reporting",
+                "Hiring & Onboarding",
+                "Time Off & Benefits Tracking",
+                "Integrations Marketplace",
+                "Performance Management",
+                "Employee Experience",
+                "Employee Community"
+            ]
+        }
+    },
+    "Add-ons": {
+        "Payroll": {
+            "Description": "(US employees only)",
+            "Features": [
+                "Direct Deposit",
+                "Flexible Pay Schedules",
+                "Federal & State Tax Filing",
+                "Single Source of Data",
+                "Specialized Support Team"
+            ]
+        },
+        "Benefits Administration": {
+            "Description": "(US employees only)",
+            "Features": [
+                "Self-Guided Benefits Configuration",
+                "Open Enrollment, Life Events, and New Hires",
+                "Election Review and Approval",
+                "Reporting & Data Review",
+                "Carrier Connections"
+            ]
+        },
+        "Time Tracking": {
+            "Features": [
+                "Mobile & Desktop Time Clock",
+                "Project Tracking & Billable Hours",
+                "View & Edit Employee Timesheets",
+                "Automated Approval Workflows",
+                "Automatic Overtime Calculations"
+            ]
+        }
+    },
+    "Pricing": {
+        "Per_employee_per_month_for_companies_with_more_than_25_employees": True,
+        "Monthly_flat_rate_for_companies_with_25_or_fewer_employees": True,
+        "Annual_contract_required": False,
+        "Volume_discounts": True,
+        "Bundle_discount": "15% discount when combining Payroll and Benefits Administration with the Core or Pro plan (US only)",
+        "Non_profit_discount": "15% off to registered non-profit organizations"
+    },
+    "Payment Methods": [
+        "Credit cards",
+        "ACH for monthly payments",
+        "Wire transfers",
+        "Checks for annual prepayment"
+    ],
+    "Integration": {
+        "Number_of_partners": 120,
+        "Marketplace_available": True
+    },
+    "Support": {
+        "Chat_support": "Monday through Friday, 8am - 5pm",
+        "Email_support": "Monday - Friday, 8am - 5pm (MT)",
+        "Phone_support": "Monday through Friday, 8am - 5pm (MT)",
+        "Webinar_library": "Weekly customer success webinars"
+    },
+    "CustomerFeedback": [
+        {
+            "Name": "Lisa Marino",
+            "Title": "HR Manager",
+            "Company": "Avidbots",
+            "Quote": "Simply by automating time-off management, BambooHR freed $40,000 in increased capacity to support additional employees."
+        },
+        {
+            "Name": "Jennifer Fisher",
+            "Title": "Director of People and Culture",
+            "Company": "Ists",
+            "Quote": "It does what you advertise. It does set me free. It makes it so much easier to do the work that I’m passionate about."
+        },
+        {
+            "Name": "Rachel Schau",
+            "Title": "Chief of Staff",
+            "Company": "Rockford Silk Screen Process",
+            "Quote": "We have literally saved thousands of dollars by switching platforms, adding in new features, and freeing up 90% of my time! Because of this I have even received a promotion!"
+        },
+        {
+            "Name": "Kelly Heath",
+            "Title": "Head of People",
+            "Company": "Gupta Media",
+            "Quote": "Budget was our biggest reservation but once we did the math on rolling in Payroll, Performance Management, Time Off, HRIS, and ATS, our reservations were eliminated."
+        }
+    ]
+}
+```

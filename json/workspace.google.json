@@ -1,0 +1,82 @@
+```python
+{
+    "Business Starter": {
+        "price_per_user_per_month": "₹136.90 INR",
+        "original_price": "₹230",
+        "monthly_billing_price": "₹164.22",
+        "features": {
+            "email": "Custom and secure business email",
+            "video_meetings": "100 participant video meetings",
+            "storage": "30 GB pooled storage per user",
+            "support": "Standard Support",
+            "gemini_addon": "available"
+        }
+    },
+    "Business Standard": {
+        "price_per_user_per_month": "₹736 INR",
+        "original_price": "₹920",
+        "monthly_billing_price": "₹883.20",
+        "features": {
+            "email": "Custom and secure business email",
+            "video_meetings": "150 participant video meetings + recording",
+            "storage": "2 TB pooled storage per user",
+            "support": "Standard Support (paid upgrade to Enhanced Support)",
+            "gemini_addon": "available"
+        }
+    },
+    "Business Plus": {
+        "price_per_user_per_month": "₹1,380 INR",
+        "original_price": None,
+        "monthly_billing_price": "₹1,656",
+        "features": {
+            "email": "Custom and secure business email + eDiscovery, retention",
+            "video_meetings": "500 participant video meetings + recording, attendance tracking",
+            "storage": "5 TB pooled storage per user",
+            "support": "Enhanced security and management controls, including Vault and advanced endpoint management",
+            "gemini_addon": "available"
+        }
+    },
+    "Enterprise": {
+        "price_per_user_per_month": "Contact sales for pricing",
+        "original_price": None,
+        "monthly_billing_price": None,
+        "features": {
+            "email": "Custom and secure business email + eDiscovery, retention, S/MIME encryption",
+            "video_meetings": "1000 participant video meetings + recording, attendance tracking, noise cancellation, in-domain live streaming",
+            "storage": "5 TB pooled storage per user, with ability to request more",
+            "support": "Advanced security, management, and compliance controls, including Vault, DLP, data regions, and enterprise endpoint management",
+            "gemini_addon": "available"
+        }
+    },
+    "Comparison": {
+        "Business Starter": {
+            "participants": "100",
+            "meeting_length": "24 hours",
+            "storage": "30 GB per user",
+            "noise_cancellation": "Not supported",
+            "recordings": "Not supported"
+        },
+        "Business Standard": {
+            "participants": "150",
+            "meeting_length": "24 hours",
+            "storage": "2 TB per user",
+            "noise_cancellation": "Supported",
+            "recordings": "Supported"
+        },
+        "Business Plus": {
+            "participants": "500",
+            "meeting_length": "24 hours",
+            "storage": "5 TB per user",
+            "noise_cancellation": "Supported",
+            "recordings": "Supported"
+        },
+        "Enterprise": {
+            "participants": "1000",
+            "meeting_length": "24 hours",
+            "storage": "5 TB per user with ability to request more",
+            "noise_cancellation": "Supported",
+            "recordings": "Supported"
+        }
+    }
+}
+```

@@ -1,0 +1,106 @@
+{
+  "Pricing": {
+    "Free": {
+      "Price": "$0/mo",
+      "Billing": "No credit card required",
+      "Credits_year": "50 Emails | 5 Phones",
+      "Users": 1,
+      "Features": [
+        "Mobile phone numbers",
+        "Landline phone numbers",
+        "Verified email addresses",
+        "Email sequences automation",
+        "Bulk show (25 contacts)",
+        "Job change alerts (1 alert)",
+        "Job change recency filter",
+        "Phone type filter",
+        "Employee headcount filter",
+        "Employee's department",
+        "Lusha extension (LinkedIn)",
+        "Lusha extension (Everywhere)",
+        "Lusha extension (In CRM)",
+        "Integrations (CRM & Sales tools)",
+        "Zapier integration",
+        "Gmail & Outlook integration"
+      ]
+    },
+    "Pro": {
+      "Price": "$36/mo/user",
+      "Billing": "Annual billing",
+      "Credits_year": "1,920 Emails | 480 Phones",
+      "Users": "Up to 1 user",
+      "Features": [
+        "Everything in Free",
+        "Bulk show (50 contacts)",
+        "Extension bulk show (25 contact)",
+        "CSV Enrichment (Up to 300 rows)",
+        "Job change alerts (3 alerts)",
+        "List exports",
+        "Technology filter",
+        "Funding data filter",
+        "Team management (shared credit pool)",
+        "Team management (Basic usage analytics)",
+        "Customer Support"
+      ]
+    },
+    "Premium": {
+      "Price": "$59/mo/user",
+      "Billing": "Annual billing",
+      "Credits_year": "3,840 Emails | 960 Phones",
+      "Users": "Up to 1 user",
+      "Features": [
+        "Everything in Pro",
+        "Bulk show (150 contacts)",
+        "Team management (Groups & credit limitations)",
+        "CSV Enrichment (500 rows)",
+        "Job change alerts (5 alerts)",
+        "Team management (Advanced usage analytics)",
+        "20% off per phone credit"
+      ]
+    },
+    "Scale": {
+      "Price": "Custom",
+      "Billing": "Customized price for any team size",
+      "Credits_year": "Unlimited credits",
+      "Users": "Custom team size",
+      "Features": [
+        "Everything in Premium",
+        "Bulk show (1,000 contacts)",
+        "Intent signals (25 topics limit)",
+        "Intent filter",
+        "CSV Enrichment (10,000 rows)",
+        "CRM Enrichment",
+        "API (Person, Company)",
+        "Team management (Free manager seat)",
+        "SSO",
+        "Advanced Customer Support",
+        "Customer Success Manager"
+      ]
+    }
+  },
+  "Comparisons": [
+    {
+      "Plan": "Free vs Pro",
+      "Differences": [
+        "Pro offers significantly more credits: 1,920 Emails and 480 Phones vs Free's 50 Emails and 5 Phones",
+        "Pro includes list exports, technology filter, funding data filter, team management features, and customer support which are not available in Free"
+      ]
+    },
+    {
+      "Plan": "Pro vs Premium",
+      "Differences": [
+        "Premium offers more credits: 3,840 Emails and 960 Phones vs Pro's 1,920 Emails and 480 Phones",
+        "Premium includes advanced team management features, more job change alerts, and CSV enrichment of up to 500 rows",
+        "Premium offers a 20% discount per phone credit"
+      ]
+    },
+    {
+      "Plan": "Premium vs Scale",
+      "Differences": [
+        "Scale offers unlimited credits and more extensive features compared to Premium",
+        "Scale includes advanced features like intent signals, intent filter, CRM enrichment, API access, SSO, and a customer success manager",
+        "Scale provides bulk show up to 1,000 contacts and CSV enrichment up to 10,000 rows"
+      ]
+    }
+  ]
+}

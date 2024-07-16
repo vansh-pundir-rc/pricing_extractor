@@ -1,0 +1,129 @@
+```python
+data = {
+    "Free Calendar": {
+        "Price": "$0",
+        "Billing": "Free Forever",
+        "Users": "Up to 1 user",
+        "Features": {
+            "Connect Social Profiles": "Up to 2",
+            "Scheduled Messages": "Up to 15",
+            "AI Social Assistant": True,
+            "AI Project Templates": "20",
+            "Drag & Drop Calendar": True,
+            "Best Time Social Publishing": True,
+            "Personal Project Management": True,
+            "Support": "Basic Support"
+        }
+    },
+    "Social Calendar": {
+        "Price": "$19 USD",
+        "Billing": "Per User/Month, Billed Annually",
+        "Users": "Up to 3 users ($19/mo each)",
+        "Features": {
+            "Connect Social Profiles": "Up to 5",
+            "Additional Profile Cost": "$5/mo each",
+            "Free Features": True,
+            "Unlimited Social Media Publishing": True,
+            "AI Project Assistant": True,
+            "AI Project Templates": "500+",
+            "Bulk Social Media Scheduling": True,
+            "Social Media Automation": True,
+            "Recurring Tasks & Events": True,
+            "Social Analytics & Reports": True
+        }
+    },
+    "Agency Calendar": {
+        "Price": "$39 USD",
+        "Billing": "Per User/Month, Billed Annually",
+        "Users": "Up to 3 users ($39/mo each)",
+        "Features": {
+            "Connect Social Profiles": "Up to 5",
+            "Additional Profile Cost": "$5/mo each",
+            "Social Features": True,
+            "Unlimited Client Calendars": True,
+            "Coordinate Multiple Client Calendars": True,
+            "Client Brand Profiles": True,
+            "White Label Reports": True,
+            "White Label Read-Only Calendar Sharing": True
+        }
+    },
+    "Content Calendar": {
+        "Price": "Call",
+        "Billing": "N/A",
+        "Users": "Up to 5 users",
+        "Features": {
+            "Connect Social Profiles": "Up to 10",
+            "Additional Profiles": "Can be added",
+            "Social Features": True,
+            "Kanban Project View": True,
+            "Table View": True,
+            "Marketing Campaigns": True,
+            "Custom Fields": True,
+            "Custom Project Types": True,
+            "Project & Campaign Reports": True,
+            "Guest User Access": True
+        }
+    },
+    "Marketing Suite": {
+        "Price": "Call",
+        "Billing": "N/A",
+        "Users": "Custom User Limits",
+        "Features": {
+            "Connect Social Profiles": "Custom Social Profile Limits",
+            "Content Features": True,
+            "Sub-Calendars": True,
+            "Approval Workflows": True,
+            "Intake Request Forms": True,
+            "Team Management Dashboard": True,
+            "Digital Asset Management": True,
+            "Advanced Audience Targeting": True,
+            "Custom Permissions": True,
+            "Manager Visibility & Reporting": True,
+            "Single Sign-On (SSO)": True,
+            "Dedicated Account Manager": "Add-on"
+        }
+    },
+    "Comparisons": {
+        "Billing Annually": {
+            "Free Calendar": "$0",
+            "Social Calendar": "$19 per user/month",
+            "Agency Calendar": "$39 per user/month",
+            "Content Calendar": "Call",
+            "Marketing Suite": "Call"
+        },
+        "Billing Monthly": {
+            "Free Calendar": "$0",
+            "Social Calendar": "$29 per user/month",
+            "Agency Calendar": "$49 per user/month"
+        },
+        "Maximum Users": {
+            "Free Calendar": "Limit 1 user",
+            "Social Calendar": "Limit 3 Users",
+            "Agency Calendar": "Limit 3 Users",
+            "Content Calendar": "Limit 5 users",
+            "Marketing Suite": "Custom User Limits"
+        },
+        "Connect Social Profiles": {
+            "Free Calendar": "Connect 2 Social Profiles",
+            "Social Calendar": "Connect 5 Social Profiles",
+            "Agency Calendar": "Connect 5 Social Profiles",
+            "Content Calendar": "Connect 10 Social Profiles",
+            "Marketing Suite": "Custom Social Profile Limits"
+        },
+        "Scheduled Messages": {
+            "Free Calendar": "Up to 15",
+            "Social Calendar": "Unlimited",
+            "Agency Calendar": "Unlimited",
+            "Content Calendar": "Unlimited",
+            "Marketing Suite": "Unlimited"
+        },
+        "AI Project Templates": {
+            "Free Calendar": "20",
+            "Social Calendar": "500+",
+            "Agency Calendar": "500+",
+            "Content Calendar": "500+",
+            "Marketing Suite": "500+"
+        }
+    }
+}
+```

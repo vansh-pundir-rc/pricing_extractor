@@ -1,0 +1,14 @@
+```python
+pricing_info = {
+    "Pricing": "DiscoverOrg has multiple plans at different price points. Get started by providing the basic details, and we’ll help pick a plan that fits your business needs.",
+    "Included in every package": {
+        "Data Accuracy": "95% accurate, guaranteed updated and verified by the DiscoverOrg Research and Data Team every 90 days or sooner.",
+        "Features": [
+            "Complete Department-Level Org Charts, Including Individual Roles And Responsibilities",
+            "Direct Dials, Email Addresses, And Physical Locations Of Both The HQ And Individual",
+            "Unlimited Prospect Data Access",
+            "Intent Data And Prioritization Tools To Help You Discover Your Next Big Customer"
+        ]
+    }
+}
+```

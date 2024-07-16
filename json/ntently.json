@@ -1,0 +1,34 @@
+```python
+{
+    "pricing_information": {
+        "annual_subscription": {
+            "description": "Subscriptions are priced on a per team (not per user) basis. Whether there are 3 people or 300, the price per subscription is the same. Multiple team sign-ups save 40%+ on each subscription.",
+            "type": "annual"
+        },
+        "content_creation_budget": {
+            "description": "Budget for content creation will be included in the partnership contract. Funds are used to pay freelancers. Pricing guidelines are provided but rates are negotiable.",
+            "type": "flexible"
+        },
+        "content_creation_services": {
+            "description": "Includes editorial, creative, and strategic specialists to assist with content production. Services can be tailored to specific needs such as managing editors, multimedia project managers, and content strategists.",
+            "type": "customizable"
+        },
+        "business_service_tiers": {
+            "description": "Three levels of adoption & optimization services are offered, akin to personal training packages. These services keep teams accountable for platform adoption, goal achievement, and success optimization.",
+            "type": "tiered"
+        }
+    },
+    "catalogue": {
+        "step_1": "Determine subscription needs",
+        "step_2": "Establish content creation budget",
+        "step_3": "Select content creation service specialist(s)",
+        "step_4": "Select desired business service tier",
+        "comparisons": {
+            "team_subscription": "Price per team, not per user. Sign-up together for multiple teams and save 40%+.",
+            "content_creation_rates": "Rates for freelancers are negotiable. Existing freelancers can be added to the platform.",
+            "service_specialists": "Choose from various specialists like managing editors, multimedia project managers, and content strategists.",
+            "business_services": "Three levels of business services available, similar to personal training packages."
+        }
+    }
+}
+```

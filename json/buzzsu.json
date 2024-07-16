@@ -1,0 +1,80 @@
+```python
+pricing_info = {
+    "Content Creation": {
+        "price_per_month": 199,
+        "billing_period": "yearly",
+        "discount": 478,
+        "users": 1,
+        "searches": "Unlimited",
+        "alerts": 2,
+        "features": [
+            "Content Analyzer",
+            "Trending Feeds",
+            "Question Analyzer"
+        ]
+    },
+    "PR & Comms": {
+        "price_per_month": 299,
+        "billing_period": "yearly",
+        "discount": 718,
+        "users": 5,
+        "searches": "Unlimited",
+        "alerts": 5,
+        "features": [
+            "Everything in Content Creation",
+            "Media Database & Outreach",
+            "Coverage Reports",
+            "Slack Integration"
+        ]
+    },
+    "Suite": {
+        "price_per_month": 499,
+        "billing_period": "yearly",
+        "discount": 1198,
+        "users": 10,
+        "searches": "Unlimited",
+        "alerts": 10,
+        "features": [
+            "Everything in PR & Comms",
+            "YouTube Analyzer",
+            "Advanced Chrome Extension",
+            "Article Uploads"
+        ]
+    },
+    "Enterprise": {
+        "price_per_month": 999,
+        "billing_period": "annual billing only",
+        "users": 30,
+        "searches": "Unlimited",
+        "alerts": 50,
+        "features": [
+            "Everything in Suite",
+            "RSS Feed Sync",
+            "Granular Location Search",
+            "Early Access To New Features"
+        ]
+    },
+    "comparison": {
+        "Content Creation": {
+            "users": 1,
+            "searches": "Unlimited",
+            "alerts": 2
+        },
+        "PR & Comms": {
+            "users": 5,
+            "searches": "Unlimited",
+            "alerts": 5
+        },
+        "Suite": {
+            "users": 10,
+            "searches": "Unlimited",
+            "alerts": 10
+        },
+        "Enterprise": {
+            "users": 30,
+            "searches": "Unlimited",
+            "alerts": 50
+        }
+    }
+}
+```

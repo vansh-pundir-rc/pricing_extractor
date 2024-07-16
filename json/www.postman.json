@@ -1,0 +1,347 @@
+```python
+postman_pricing = {
+    "plans": {
+        "Free": {
+            "price": "$0",
+            "description": "For individuals or a small team of 3 or less to start testing APIs.",
+            "features": [
+                "Up to 3 collaborators",
+                "Access to API Client",
+                "3 Packages",
+                "30 day collection recovery",
+                "25 collection runs",
+                "Access to Flows",
+                "50 free activities in Postbot",
+            ],
+            "available_add_ons": ["Postbot"]
+        },
+        "Basic": {
+            "monthly_price": "$19 per user/month",
+            "annual_price": "$14 per user/month",
+            "description": "Basic API collaboration for a single team.",
+            "features": [
+                "Everything in Free, plus:",
+                "Unlimited collaborators",
+                "Cloud-based integrations",
+                "10,000 Mock Server requests",
+                "10,000 Monitor requests",
+                "Additional pay-as-you-go capabilities"
+            ],
+            "available_add_ons": ["Postbot", "Collection Runner", "Flows"]
+        },
+        "Professional": {
+            "monthly_price": "$39 per user/month",
+            "annual_price": "$29 per user/month",
+            "description": "API collaboration for larger teams, cross-org, and external partners.",
+            "features": [
+                "Everything in Basic, plus:",
+                "Private Workspaces",
+                "Single & Multi-Partner Workspaces",
+                "Basic role-based access control",
+                "25 Packages",
+                "90 days collection recovery"
+            ],
+            "available_add_ons": ["Postbot", "Collection Runner", "Partner Editor", "Flows"]
+        },
+        "Enterprise": {
+            "annual_price": "$49 per user/month",
+            "description": "Org-wide API development with advanced support, security, and control.",
+            "features": [
+                "Everything in Professional, plus:",
+                "Private API Network",
+                "SSO, SCIM, & SAML",
+                "Reporting & Analytics",
+                "Audit Logs",
+                "User Groups",
+                "Advanced role-based access control",
+                "100 Packages",
+                "100,000 Mock Server requests",
+                "10,000 Monitor requests",
+                "Customer Success"
+            ],
+            "available_add_ons": ["Postbot", "Collection Runner", "Partner Editor", "API Builder", "Advanced Security Administration"]
+        }
+    },
+    "plan_comparison": {
+        "API Client": {
+            "HTTP": ["Free", "Basic", "Professional", "Enterprise"],
+            "GraphQL": ["Free", "Basic", "Professional", "Enterprise"],
+            "gRPC": ["Free", "Basic", "Professional", "Enterprise"],
+            "Websocket": ["Free", "Basic", "Professional", "Enterprise"],
+            "Socket.io": ["Free", "Basic", "Professional", "Enterprise"],
+            "MQTT": ["Free", "Basic", "Professional", "Enterprise"],
+        },
+        "Collections": {
+            "Commenting & Annotations": ["Free", "Basic", "Professional", "Enterprise"],
+            "Collection Recovery": {
+                "Free": "30 days",
+                "Basic": "30 days",
+                "Professional": "90 days",
+                "Enterprise": "90 days"
+            },
+            "Public API Documentation": ["Free", "Basic", "Professional", "Enterprise"],
+            "Private API Documentation": ["Free", "Basic", "Professional", "Enterprise"],
+        },
+        "Workspaces": {
+            "Team Workspaces": ["Free", "Basic", "Professional", "Enterprise"],
+            "Personal Workspaces": ["Free", "Basic", "Professional", "Enterprise"],
+            "Public Workspaces": ["Free", "Basic", "Professional", "Enterprise"],
+            "Private Workspaces": ["Professional", "Enterprise"],
+            "Single Partner Workspaces": ["Professional", "Enterprise"],
+            "Multi-Partner Workspaces": ["Professional", "Enterprise"],
+            "Workspace Updates": ["Free", "Basic", "Professional", "Enterprise"],
+            "Workspace Themes": ["Free", "Basic", "Professional", "Enterprise"]
+        },
+        "API Network": {
+            "Public API Network": ["Free", "Basic", "Professional", "Enterprise"],
+            "Private API Network": ["Enterprise"]
+        },
+        "Testing": {
+            "Package Library": ["Free", "Basic", "Professional", "Enterprise"],
+            "Packages": {
+                "Free": 3,
+                "Basic": 3,
+                "Professional": 25,
+                "Enterprise": 100
+            },
+            "Mock Servers": {
+                "Free": "1,000 requests",
+                "Basic": "10,000 requests",
+                "Professional": "10,000 requests",
+                "Enterprise": "100,000 requests"
+            },
+            "Additional Mocks": {
+                "Basic": "$0.75 / 1000 calls",
+                "Professional": "$0.75 / 1000 calls",
+                "Enterprise": "$0.75 / 1000 calls"
+            },
+            "Monitoring": {
+                "Free": "1,000 requests",
+                "Basic": "10,000 requests",
+                "Professional": "10,000 requests",
+                "Enterprise": "10,000 requests"
+            },
+            "Additional Monitoring": {
+                "Basic": "$0.75 / 1000 calls",
+                "Professional": "$0.75 / 1000 calls",
+                "Enterprise": "$0.75 / 1000 calls"
+            },
+            "Collection Runs": ["Free", "Basic", "Professional", "Enterprise"],
+            "Test Data Storage": ["Free", "Basic", "Professional"],
+            "Postman CLI": ["Free", "Basic", "Professional", "Enterprise"],
+            "Newman CLI": ["Free", "Basic", "Professional", "Enterprise"],
+            "Local Performance Testing": {
+                "Free": "100 virtual users, 25 test runs",
+                "Basic": "100 virtual users, 25 test runs",
+                "Professional": "500 virtual users, 250 test runs"
+            }
+        },
+        "Platform": {
+            "Desktop and Web Apps": ["Free", "Basic", "Professional", "Enterprise"],
+            "IDE Extension (VS Code)": ["Free", "Basic", "Professional", "Enterprise"],
+            "Postman API Support": ["Free", "Basic", "Professional", "Enterprise"],
+            "Audit Logs": ["Enterprise"],
+            "Deployment Control": ["Enterprise"],
+            "User Level Reporting & Analytics": ["Enterprise"],
+            "Postman Vault": ["Free", "Basic", "Professional", "Enterprise"],
+            "Custom Domains": {
+                "Free": 1,
+                "Basic": 50,
+                "Professional": 50,
+                "Enterprise": 50
+            },
+            "Secret Scanning": {
+                "Public Elements": ["Free", "Basic", "Professional", "Enterprise"],
+                "GitHub and GitLab Public Repositories": ["Free", "Basic", "Professional", "Enterprise"],
+                "Custom Alerts": ["Enterprise"],
+                "Secret Scanner Dashboard (Public)": ["Enterprise"]
+            },
+            "Access Management": {
+                "Single Sign-On (SSO)": ["Enterprise"],
+                "User Provisioning (SCIM)": ["Enterprise"],
+                "SAML": ["Enterprise"],
+                "User Groups": ["Enterprise"]
+            },
+            "Roles & Permissions": {
+                "Team-Level Roles": {
+                    "Super Admin Role": ["Enterprise"],
+                    "Admin": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Billing": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Developer": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Collection Viewers": {
+                        "Free": 5,
+                        "Basic": 10,
+                        "Professional": 25,
+                        "Enterprise": "1:1"
+                    },
+                    "Community Manager": ["Professional", "Enterprise"],
+                    "Partner (External)": ["Professional", "Enterprise"],
+                    "Partner Manager": ["Professional", "Enterprise"],
+                    "API Governance Manager": ["Enterprise"],
+                    "API Network Manager": ["Enterprise"]
+                },
+                "Workspace-Level Roles": {
+                    "Workspace Admin": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Workspace Editor": ["Professional", "Enterprise"],
+                    "Workspace Viewer": ["Professional", "Enterprise"],
+                    "Partner Viewer": ["Professional", "Enterprise"],
+                    "Partner Editor": {
+                        "Professional": "Starting at $29/seat/month",
+                        "Enterprise": "$49/seat/month"
+                    }
+                },
+                "Element-Level Roles": {
+                    "Collection Viewer": ["Professional", "Enterprise"],
+                    "Collection Editor": ["Basic", "Professional", "Enterprise"],
+                    "API Admin": ["Enterprise"],
+                    "API Editor": ["Enterprise"],
+                    "API Viewer": ["Enterprise"],
+                    "Environment Editor": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Environment Viewer": ["Enterprise"],
+                    "Mock Server Editor": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Mock Server Viewer": ["Enterprise"],
+                    "Monitor Editor": ["Free", "Basic", "Professional", "Enterprise"],
+                    "Monitor Viewer": ["Enterprise"],
+                    "API Network Folder Manager": ["Enterprise"]
+                }
+            },
+            "Support": {
+                "Community": ["Free", "Basic", "Professional", "Enterprise"],
+                "Email": ["Free", "Basic", "Professional", "Enterprise"],
+                "Priority Email": ["Enterprise"],
+                "Customer Success Manager": ["Enterprise"],
+                "Training content": ["Free", "Basic", "Professional", "Enterprise"]
+            },
+            "Additional Tools & Services": {
+                "Postman Proxy": ["Free", "Basic", "Professional", "Enterprise"],
+                "Postman Interceptor": ["Free", "Basic", "Professional", "Enterprise"],
+                "Postman Public Docs": ["Free", "Basic", "Professional", "Enterprise"],
+                "Payment Method": {
+                    "Free": "Credit card only",
+                    "Basic": "Credit card only",
+                    "Professional": "Credit card only",
+                    "Enterprise": "PO and invoicing"
+                },
+                "Terms of Service": ["Enterprise"]
+            }
+        }
+    },
+    "add_ons": {
+        "Postbot": {
+            "Free, Basic, and Professional": "$9 per seat/month",
+            "Enterprise": "$19 per seat/month",
+            "features": [
+                "Postbot writes tests for your APIs",
+                "Postbot automates documentation",
+                "Postbot debugs requests",
+                "Postbot visualizes API responses",
+                "Expert Support",
+                "Enterprise-grade availability",
+                "Enhanced privacy"
+            ]
+        },
+        "Collection Runner": {
+            "price": "$49 per seat/month",
+            "availability": ["Basic", "Professional", "Enterprise"],
+            "features": [
+                "Get unlimited monthly collection runs to test your APIs",
+                "Run your collection requests in order to test functionality",
+                "Log test results for each request",
+                "Use scripts to pass data between requests",
+                "Schedule runs to execute in the Postman Cloud"
+            ]
+        },
+        "Partner Editor": {
+            "Professional": {
+                "price": "Starting at $29 per seat/month",
+                "features": [
+                    "Create and edit elements in Partner Workspaces",
+                    "Fork collections and environments",
+                    "Import and export elements"
+                ]
+            },
+            "Enterprise": {
+                "price": "Starting at $49 per seat/month",
+                "features": [
+                    "Create and edit elements in Partner Workspaces",
+                    "Fork collections and environments",
+                    "Import and export elements",
+                    "Use Partner Manager role to manage all Partners"
+                ]
+            }
+        },
+        "Advanced Security Administration": {
+            "price": "$29 per seat/month",
+            "availability": ["Enterprise"],
+            "features": [
+                "Launch domain capture to redirect all corporate email logins",
+                "Check for exposed secrets in Team Workspaces with Secret Scanner",
+                "Access the Secret Scanner analytics dashboard",
+                "Securely reuse sensitive data with Azure Key Vault, Hashicorp Vault, or AWS secret manager"
+            ]
+        },
+        "API Builder": {
+            "price": "$49 per seat/month",
+            "availability": ["Enterprise"],
+            "features": [
+                "Design and build unlimited APIs with the API Builder",
+                "Connect APIs with Git repositories, ensuring that collections and specifications always remain in sync with source code",
+                "Enable exclusive access to specific consumers by publishing APIs to the Private API Network, ensuring confidentiality and compliance",
+                "Utilize the built-in governance rule library, create custom rules via Spectral Rule Builder, and access insightful reports to ensure API conformance"
+            ]
+        },
+        "Flows": {
+            "Basic": {
+                "price": "Starting at $12 per seat/month",
+                "features": [
+                    "Payload size: 1 MB/call",
+                    "Flows credits per month: 25,000",
+                    "Built-in support for AI",
+                    "Pay as you go Flows credits"
+                ]
+            },
+            "Professional": {
+                "price": "Starting at $20 per seat/month",
+                "features": [
+                    "Payload size: 5 MB/call",
+                    "Flows credits per month: 100,000",
+                    "Built-in support for AI",
+                    "Flows role-based access control",
+                    "Pay as you go Flows credits"
+                ]
+            }
+        }
+    },
+    "additional_resources": {
+        "Mock Calls": {
+            "price": "$20 per 50,000 requests/month",
+            "availability": ["Basic", "Professional", "Enterprise"],
+            "features": [
+                "Simulate the behavior of real APIs by accepting requests and returning responses",
+                "Test APIs before they are ready for production",
+                "Return dynamic responses that include variable or random data",
+                "Simulate various scenarios without creating examples for each",
+                "View and search mock call details in the call log"
+            ]
+        },
+        "Monitor Calls": {
+            "price": "$20 per 50,000 requests/month",
+            "availability": ["Basic", "Professional", "Enterprise"],
+            "features": [
+                "Automatically run test scripts and perform other tests at regular intervals",
+                "Monitor API endpoints",
+                "Monitor an entire API",
+                "Monitor HTTP response codes",
+                "Monitor latency"
+            ]
+        },
+        "Custom Domains": {
+            "price": "$10 per domain",
+            "availability": ["Basic", "Professional", "Enterprise"],
+            "features": [
+                "Host your published API documentation on your own custom domain instead of on postman.com"
+            ]
+        }
+    }
+}
+```

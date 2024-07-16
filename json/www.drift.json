@@ -1,0 +1,102 @@
+```python
+drift_pricing = {
+    "plans": {
+        "Premium": {
+            "description": "For small businesses",
+            "price": "$2,500/month billed annually",
+            "key_features": [
+                "Live Chat",
+                "Meetings",
+                "Custom Chatbots",
+                "Intel",
+                "Real-Time Notifications",
+                "Conversational Landing Pages"
+            ]
+        },
+        "Advanced": {
+            "description": "Engage your audiences with personalized messages and grow qualified pipeline with less effort.",
+            "price": "Custom pricing",
+            "key_features": [
+                "Everything in Premium",
+                "Fastlane",
+                "Audiences",
+                "A/B Testing",
+                "Flex Routing"
+            ]
+        },
+        "Enterprise": {
+            "description": "Scale your personalization and pipeline generation efforts across the full customer lifecycle.",
+            "price": "Custom pricing",
+            "key_features": [
+                "Custom with access to:",
+                "Workspaces",
+                "AI-Powered Chatbots",
+                "Custom RBAC"
+            ]
+        }
+    },
+    "comparisons": {
+        "USER ADMINISTRATION": {
+            "Single Sign On": ["Yes", "Yes", "Yes"],
+            "Standard Role-Based Access Control": ["Yes", "Yes", "Yes"],
+            "Custom Role-Based Access Control": ["No", "No", "Yes"],
+            "Desktop, Mobile & Browser Access": ["Yes", "Yes", "Yes"],
+            "Drift Mobile App": ["Yes", "Yes", "Yes"]
+        },
+        "TEAM ADMINISTRATION": {
+            "Teams": ["Yes", "Yes", "Yes"],
+            "Workspaces": ["No", "Yes", "Yes"],
+            "Multiple Languages": ["Yes", "Yes", "Yes"],
+            "Admin Filters Management": ["Yes", "Yes", "Yes"]
+        },
+        "PLAYBOOKS & CHAT": {
+            "Live Chat": ["Yes", "Yes", "Yes"],
+            "Custom Chatbots": ["Yes", "Yes", "Yes"],
+            "AI Powered Chatbots": ["No", "No", "Yes"],
+            "Sliders & Proactive ABM Messages": ["Yes", "Yes", "Yes"],
+            "Dropdowns": ["Yes", "Yes", "Yes"],
+            "Conversational Landing Pages": ["Yes", "Yes", "Yes"],
+            "Fastlane": ["No", "Yes", "Yes"],
+            "A/B Testing": ["No", "Yes", "Yes"],
+            "Webhooks": ["Yes", "Yes", "Yes"]
+        },
+        "INSIGHTS & WORKFLOWS": {
+            "Block IP": ["Yes", "Yes", "Yes"],
+            "Custom Branding": ["Yes", "Yes", "Yes"],
+            "Chat to Zoom": ["Yes", "Yes", "Yes"],
+            "Intel": ["Yes", "Yes", "Yes"],
+            "AI Insights": ["Yes", "Yes", "Yes"],
+            "Data Enrichment": ["Yes", "Yes", "Yes"]
+        },
+        "ROUTING": {
+            "Team Round Robin": ["Yes", "Yes", "Yes"],
+            "Firmographic Routing": ["Yes", "Yes", "Yes"],
+            "Advanced Routing": ["No", "Yes", "Yes"],
+            "Salesforce Multi-Owner Routing": ["No", "Yes", "Yes"],
+            "Salesforce Flex Routing": ["No", "Yes", "Yes"]
+        },
+        "PROSPECTING & DEAL MANAGEMENT": {
+            "Video Messaging": ["Yes", "Yes", "Yes"],
+            "Meeting Scheduler": ["Yes", "Yes", "Yes"],
+            "Add Zoom IDs to meetings": ["Yes", "Yes", "Yes"],
+            "Real-Time ABM Notifications": ["Yes", "Yes", "Yes"],
+            "Prospector & AI Engagement Score": ["Yes", "Yes", "Yes"],
+            "Chat to Call": ["10 Hours / Seat", "10 Hours / Seat", "Yes"]
+        },
+        "REPORTING & INSIGHTS": {
+            "Basic Reporting": ["Yes", "Yes", "Yes"],
+            "Pipeline & Revenue Reporting": ["Yes", "Yes", "Yes"],
+            "Drift for Salesforce App": ["Yes", "Yes", "Yes"],
+            "Salesforce iFrame": ["Yes", "Yes", "Yes"],
+            "Audiences": ["Yes", "Yes", "Yes"],
+            "Conversation & Conversion Reporting": ["Yes", "Yes", "Yes"],
+            "AI Conversation Insights": ["Yes", "Yes", "Yes"],
+            "Service & Support Reporting": ["Yes", "Yes", "Yes"],
+            "Chat Routing Reporting": ["Yes", "Yes", "Yes"]
+        },
+        "PRIVACY & SECURITY": {
+            "SOC2 Type IIGDPRSOC2PIPEDAAPAFERPA": ["Yes", "Yes", "Yes"]
+        }
+    }
+}
+```

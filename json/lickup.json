@@ -1,0 +1,131 @@
+```python
+data = {
+    "Pricing": {
+        "Free Forever": {
+            "description": "Best for personal use",
+            "price": "Free",
+            "billing": "Free forever",
+            "key_features": [
+                "100MB Storage",
+                "Unlimited Tasks",
+                "Unlimited Free Plan Members",
+                "Two-Factor Authentication",
+                "Collaborative Docs",
+                "Whiteboards",
+                "Everything View",
+                "Real-Time Chat",
+                "Kanban Boards",
+                "Sprint Management",
+                "Calendar View",
+                "Custom Field Manager Basic",
+                "In-App Video Recording",
+                "24/7 Support"
+            ]
+        },
+        "Unlimited": {
+            "description": "Best for small teams",
+            "price": "$7",
+            "billing": "billed per user per month",
+            "additional_features": [
+                "Unlimited Storage",
+                "Unlimited Integrations",
+                "Unlimited Dashboards",
+                "Guests with Permissions",
+                "Unlimited Gantt Charts",
+                "Unlimited Custom Fields",
+                "Column Calculations",
+                "Email in ClickUp",
+                "Teams (User Groups)",
+                "Native Time Tracking",
+                "Goals & Portfolios",
+                "Form View",
+                "Resource Management",
+                "Agile Reporting",
+                "AI Compatible"
+            ]
+        },
+        "Business": {
+            "description": "Best for mid-sized teams",
+            "price": "$12",
+            "billing": "billed per user per month",
+            "additional_features": [
+                "Google SSO",
+                "Unlimited Teams",
+                "Custom Exporting",
+                "Advanced Public Sharing",
+                "Advanced Automations",
+                "Advanced Dashboard Features",
+                "Advanced Time Tracking",
+                "Granular Time Estimates",
+                "Timesheets",
+                "Workload Management",
+                "Timelines & Mind Maps",
+                "Goal Folders",
+                "AI Compatible"
+            ]
+        },
+        "Enterprise": {
+            "description": "Best for many large teams",
+            "price": "Get a custom demo and see how ClickUp aligns with your goals",
+            "billing": "Contact sales",
+            "additional_features": [
+                "White Labeling",
+                "Advanced Permissions",
+                "Conditional Logic in Forms",
+                "Enterprise API",
+                "Unlimited Custom Roles",
+                "Team Sharing for Spaces",
+                "Universal Search",
+                "Default Personal Views",
+                "MSA & HIPAA Available",
+                "Single Sign-On (SSO)",
+                "SCIM provisioning",
+                "Custom Capacity in Workload",
+                "Live Onboarding Training",
+                "Customer Success Manager",
+                "Access to Managed Services",
+                "US, EU & APAC Data Residency",
+                "AI Compatible"
+            ]
+        }
+    },
+    "Comparisons": {
+        "Your apps today": {
+            "Slack": "$9 per user",
+            "Teams": "$8 per user",
+            "Google Drive": "$13 per user",
+            "Salesforce": "$25 per user",
+            "HubSpot": "$20 per user",
+            "ChatGPT": "$20 per user",
+            "Jira": "$12 per user",
+            "Loom": "$12 per user",
+            "Notion": "$12 per user",
+            "Monday": "$12 per user",
+            "Trello": "$11 per user",
+            "Asana": "$15 per user",
+            "Smartsheet": "$16 per user",
+            "Airtable": "$15 per user",
+            "Linear": "$11 per user",
+            "ProductBoard": "$20 per user",
+            "Lattice": "$15 per user",
+            "Mural": "$13 per user",
+            "Miro": "$12 per user",
+            "Coda": "$15 per user",
+            "SharePoint": "$14 per user",
+            "Confluence": "$9 per user",
+            "HourStack": "$13 per user",
+            "Clockify": "$9 per user"
+        },
+        "Savings Estimation": {
+            "Users": 500,
+            "Estimated Apps Replaced": 4,
+            "Annual Savings": "$354,000"
+        }
+    },
+    "AI Add-on": {
+        "description": "One AI for all your work",
+        "price": "$7/user/mo",
+        "details": "Instantly power up company-wide AI that connects every aspect of your work, across all your apps"
+    }
+}
+```

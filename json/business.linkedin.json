@@ -1,0 +1,168 @@
+{
+    "plans": {
+        "Core": {
+            "monthly_price": 99.99,
+            "annual_price": 959.88,
+            "features": [
+                "CRM integration",
+                "Data Validation",
+                "Lead/Contact Creation",
+                "ROI reporting",
+                "Account IQ",
+                "Buyer Intent signals",
+                "CRM Embedded Profiles",
+                "Smart Links",
+                "TeamLink",
+                "Enterprise license management",
+                "Usage Reporting",
+                "Dedicated LinkedIn account team",
+                "Relationship Explorer",
+                "Relationship Map",
+                "Advanced Search Filters",
+                "Lead & account recommendations",
+                "Real-time alerts",
+                "Account prioritization via Account Hub",
+                "InMail (50/month)"
+            ]
+        },
+        "Advanced": {
+            "monthly_price": 169.99,
+            "annual_price": 1620.00,
+            "features": [
+                "CRM integration",
+                "Data Validation",
+                "Lead/Contact Creation",
+                "ROI reporting",
+                "Account IQ",
+                "Buyer Intent signals",
+                "CRM Embedded Profiles",
+                "Smart Links",
+                "TeamLink",
+                "Enterprise license management",
+                "Usage Reporting",
+                "Dedicated LinkedIn account team",
+                "Relationship Explorer",
+                "Relationship Map",
+                "Advanced Search Filters",
+                "Lead & account recommendations",
+                "Real-time alerts",
+                "Account prioritization via Account Hub",
+                "InMail (50/month)"
+            ]
+        },
+        "Advanced Plus": {
+            "custom_pricing": "Request demo for pricing",
+            "features": [
+                "CRM integration",
+                "Data Validation",
+                "Lead/Contact Creation",
+                "ROI reporting",
+                "Account IQ",
+                "Buyer Intent signals",
+                "CRM Embedded Profiles",
+                "Smart Links",
+                "TeamLink",
+                "Enterprise license management",
+                "Usage Reporting",
+                "Dedicated LinkedIn account team",
+                "Relationship Explorer",
+                "Relationship Map",
+                "Advanced Search Filters",
+                "Lead & account recommendations",
+                "Real-time alerts",
+                "Account prioritization via Account Hub",
+                "InMail (50/month)"
+            ]
+        }
+    },
+    "currency_pricing": {
+        "USD": {
+            "Core": {"monthly": 99.99, "annual": 959.88},
+            "Advanced": {"monthly": 169.99, "annual": 1620.00}
+        },
+        "EUR": {
+            "Core": {"monthly": 99.99, "annual": 959.88},
+            "Advanced": {"monthly": 163.34, "annual": 1568.16}
+        },
+        "CAD": {
+            "Core": {"monthly": 119.99, "annual": 1079.88},
+            "Advanced": {"monthly": 199.49, "annual": 1852.20}
+        },
+        "AUD": {
+            "Core": {"monthly": 129.99, "annual": 1319.88},
+            "Advanced": {"monthly": 208.99, "annual": 2006.40}
+        },
+        "CHF": {
+            "Core": {"monthly": 119.65, "annual": 1076.88},
+            "Advanced": {"monthly": 169.08, "annual": 1654.27}
+        },
+        "DKK": {
+            "Core": {"monthly": 739.99, "annual": 6999.88},
+            "Advanced": {"monthly": 1349.99, "annual": 12825.00}
+        },
+        "NOK": {
+            "Core": {"monthly": 1079.99, "annual": 10299.88},
+            "Advanced": {"monthly": 1874.99, "annual": 17475.00}
+        },
+        "SEK": {
+            "Core": {"monthly": 1079.99, "annual": 10299.88},
+            "Advanced": {"monthly": 1874.99, "annual": 17685.00}
+        },
+        "GBP": {
+            "Core": {"monthly": 79.99, "annual": 839.88},
+            "Advanced": {"monthly": 137.99, "annual": 1368.00}
+        },
+        "HKD": {
+            "Core": {"monthly": 769.99, "annual": 7439.88},
+            "Advanced": {"monthly": 1279.99, "annual": 12156.00}
+        },
+        "SGD": {
+            "Core": {"monthly": 131.21, "annual": 1332.21},
+            "Advanced": {"monthly": 237.59, "annual": 2229.12}
+        },
+        "BRL": {
+            "Core": {"monthly": 374.99, "annual": 3599.85},
+            "Advanced": {"monthly": 979.99, "annual": 8099.88}
+        },
+        "NZD": {
+            "Core": {"monthly": 129.95, "annual": 1319.88},
+            "Advanced": {"monthly": 277.71, "annual": 2677.20}
+        },
+        "JPY": {
+            "Core": {"monthly": 8789, "annual": 85668},
+            "Advanced": {"monthly": 20680, "annual": 196997}
+        },
+        "INR": {
+            "Core": {"monthly": 7433, "annual": 70799},
+            "Advanced": {"monthly": 12154, "annual": 116678}
+        },
+        "ZAR": {
+            "Core": {"monthly": 1249.99, "annual": 11999.88},
+            "Advanced": {"monthly": 2932.49, "annual": 27724.20}
+        },
+        "AED": {
+            "Core": {"monthly": 366.44, "annual": 3515.27},
+            "Advanced": {"monthly": 682.49, "annual": 6463.80}
+        },
+        "PLN": {
+            "Core": {"monthly": 369.00, "annual": 3468.00},
+            "Advanced": {"monthly": 826.55, "annual": 7955.64}
+        },
+        "SAR": {
+            "Core": {"monthly": 419.99, "annual": 4031.88},
+            "Advanced": {"monthly": 629.99, "annual": 6058.20}
+        },
+        "MXN": {
+            "Core": {"monthly": 1829.00, "annual": 17508.00},
+            "Advanced": {"monthly": 3537.99, "annual": 33394.08}
+        },
+        "EGP": {
+            "Core": {"monthly": 1503.66, "annual": 14487.12},
+            "Advanced": {"monthly": 3055.19, "annual": 29001.60}
+        },
+        "TRY": {
+            "Core": {"monthly": 334.99, "annual": 3215.88},
+            "Advanced": {"monthly": 1687.39, "annual": 15986.64}
+        }
+    }
+}

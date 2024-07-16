@@ -1,0 +1,65 @@
+```python
+pricing_info = {
+    "Individual Plan": {
+        "price_per_user_per_month": "$0.00",
+        "features": [
+            "Unlimited Tickets",
+            "Unlimited Devices",
+            "Unlimited Agents",
+            "Unlimited Users",
+            "Unlimited Technicians",
+            "Premium Support",
+            "IT Community with Millions of IT Pros"
+        ]
+    },
+    "Team Plan": {
+        "price_per_user_per_month": "$0.00",
+        "features": [
+            "Unlimited Tickets",
+            "Unlimited Devices",
+            "Unlimited Agents",
+            "Unlimited Users",
+            "Unlimited Technicians",
+            "Premium Support",
+            "IT Community with Millions of IT Pros"
+        ]
+    },
+    "Enterprise Plan": {
+        "price_per_user_per_month": "$0.00",
+        "features": [
+            "Unlimited Tickets",
+            "Unlimited Devices",
+            "Unlimited Agents",
+            "Unlimited Users",
+            "Unlimited Technicians",
+            "Premium Support",
+            "IT Community with Millions of IT Pros"
+        ]
+    },
+    "Custom Plan": {
+        "price_per_user_per_month": "$0.00",
+        "features": [
+            "Unlimited Tickets",
+            "Unlimited Devices",
+            "Unlimited Agents",
+            "Unlimited Users",
+            "Unlimited Technicians",
+            "Premium Support",
+            "IT Community with Millions of IT Pros"
+        ]
+    }
+}
+
+comparisons = {
+    "plans": ["Individual Plan", "Team Plan", "Enterprise Plan", "Custom Plan"],
+    "common_features": [
+        "Unlimited Tickets",
+        "Unlimited Devices",
+        "Unlimited Agents",
+        "Unlimited Users",
+        "Unlimited Technicians",
+        "Premium Support",
+        "IT Community with Millions of IT Pros"
+    ]
+}
+```

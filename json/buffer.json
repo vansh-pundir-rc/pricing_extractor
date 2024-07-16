@@ -1,0 +1,273 @@
+```python
+{
+    "Free": {
+        "price": "$0",
+        "number_of_channels": "Up to 3",
+        "scheduling_posts": "10 per channel",
+        "features": [
+            "Planning & publishing tools",
+            "Landing page builder",
+            "AI Assistant"
+        ],
+        "content_creation": {
+            "ideas": "100 ideas",
+            "drafts": "Save your content for later on mobile or desktop",
+            "canva": "Import content directly from Canva",
+            "cloud_integrations": "Import content directly from your favorite cloud storage provider",
+            "post_previews": "See how your posts will appear on each channel",
+            "browser_extension": "Open the composer on any web page and add posts directly to your queue"
+        },
+        "publishing": {
+            "content_scheduling": "Create posts and schedule their release for each channel",
+            "custom_schedules": "Set time slots throughout each week for your content to be released",
+            "tailored_posts": "Seamlessly iterate on content to customize posts for each channel",
+            "queue_or_calendar_view": "View your content as a chronological feed or in a calendar view",
+            "mentions": "Tag other Facebook, LinkedIn, Instagram, and TikTok Pages (some restrictions apply)",
+            "twitter_threads": "1 at a time",
+            "custom_video_thumbnails": "Choose a custom thumbnail and title for your videos",
+            "hashtag_manager": "Create, save, reuse, and optimize groups of hashtags for your social channels",
+            "first_comment_scheduling": "Schedule a first comment with your Instagram or LinkedIn posts",
+            "shuffle_queue": "Shuffle the order of the posts in your queue",
+            "link_shorteners": "Shorten links to buff.ly, bit.ly, or your own domain (through bit.ly)",
+            "video_scheduling": "Schedule video to Reels, TikTok, YouTube Shorts and more",
+            "tags": "3",
+            "landing_page": "Build a simple, flexible landing page with Start Page"
+        },
+        "analytics_reporting": {
+            "performance_overview": "See an overview of key metrics (impressions, engagements and new followers, etc)",
+            "individual_post_analytics": "See a history of all of your published posts, iterate, and evolve",
+            "historical_data_access": "Backfill data from the past 6 months for all channels except Twitter (28-day limit) and Instagram (30-day limit)",
+            "data_storage": "Store, analyze, and export up to two years of data",
+            "tag_analysis": "Get insights and reports for tagged content",
+            "boosted_post_insights": "Analyze your boosted posts and compare with your organic results to optimize your ad spend",
+            "hashtag_performance": "Get insight into how your hashtags could be affecting your reach and engagement rates",
+            "audience_demographics": "Age, gender, and location",
+            "machine_learning_insights": "Get suggestions for what, when, and how often to post to maximize your results",
+            "instagram_stories_analytics": "View completion rates and key metrics over time",
+            "shopify_performance": "See your sales, top referrals, and top products alongside your social media data",
+            "custom_reports": "White-labeled and annotated for easy analysis",
+            "exportable_reports": "Available as a PDF, image, or CSV",
+            "branded_reports": "Add a custom logo to each of your reports",
+            "cover_page": "Get an automatically generated cover page when you download your report as a PDF"
+        },
+        "engagement": {
+            "grid_view": "See which posts have unanswered comments and quickly jump in",
+            "important_comment_detection": "Machine-learning-powered alerts highlight open questions & comments on sales or unhappiness",
+            "hotkeys": "Get through comments quickly without taking your hands off the keyboard",
+            "easy_account_switching": "Seamlessly switch between multiple accounts and channels. No more logging in and out"
+        },
+        "team_management": {
+            "included_users": "1",
+            "draft_post_management": "Account owners can set post drafting, approval, and full posting access across users",
+            "custom_access_permissions": "Manage which channels each user is invited to and their post-approval status",
+            "approval_workflow_tools": "Manage who can draft and approve posts across your team",
+            "notes": "Add internal comments to your content"
+        },
+        "integrations_apps": {
+            "ios_android_apps": "Publish is available on iOS and Android",
+            "third_party_integrations": "Use Buffer with your favorite apps like Zapier, IFTTT, Quuu, Mailchimp, Pocket, Feedly, and more",
+            "two_factor_authentication": "Two-factor authentication codes can be generated via SMS or Google Authenticator (available on iOS and Android)",
+            "google_analytics_integration": "Find in-depth insights on your posts and campaigns in Google Analytics",
+            "custom_utm_parameters": "Track the effectiveness of your posts and campaigns using custom UTM parameters"
+        },
+        "support_community": {
+            "self_service_knowledge_base": "Access to our FAQ where you’ll find how-to guides, most popular questions, and video tutorials",
+            "social_media_support": "Fast support on Social Media via Twitter and Facebook",
+            "email_support": "Fast and helpful support via email — a whole team of people cheering for you"
+        }
+    },
+    "Essentials": {
+        "price": "$5/mo per channel",
+        "number_of_channels": "$5/mo per channel",
+        "scheduling_posts": "Unlimited*",
+        "features": [
+            "Free features, plus:",
+            "Engagement tools",
+            "Analytic reports"
+        ],
+        "content_creation": {
+            "ideas": "2000 ideas",
+            "drafts": "Save your content for later on mobile or desktop",
+            "canva": "Import content directly from Canva",
+            "cloud_integrations": "Import content directly from your favorite cloud storage provider",
+            "post_previews": "See how your posts will appear on each channel",
+            "browser_extension": "Open the composer on any web page and add posts directly to your queue"
+        },
+        "publishing": {
+            "content_scheduling": "Create posts and schedule their release for each channel",
+            "custom_schedules": "Set time slots throughout each week for your content to be released",
+            "tailored_posts": "Seamlessly iterate on content to customize posts for each channel",
+            "queue_or_calendar_view": "View your content as a chronological feed or in a calendar view",
+            "mentions": "Tag other Facebook, LinkedIn, Instagram, and TikTok Pages (some restrictions apply)",
+            "twitter_threads": "Unlimited",
+            "custom_video_thumbnails": "Choose a custom thumbnail and title for your videos",
+            "hashtag_manager": "Create, save, reuse, and optimize groups of hashtags for your social channels",
+            "first_comment_scheduling": "Schedule a first comment with your Instagram or LinkedIn posts",
+            "shuffle_queue": "Shuffle the order of the posts in your queue",
+            "link_shorteners": "Shorten links to buff.ly, bit.ly, or your own domain (through bit.ly)",
+            "video_scheduling": "Schedule video to Reels, TikTok, YouTube Shorts and more",
+            "tags": "250",
+            "landing_page": "Build a simple, flexible landing page with Start Page"
+        },
+        "analytics_reporting": {
+            "performance_overview": "See an overview of key metrics (impressions, engagements and new followers, etc)",
+            "individual_post_analytics": "See a history of all of your published posts, iterate, and evolve",
+            "historical_data_access": "Backfill data from the past 6 months for all channels except Twitter (28-day limit) and Instagram (30-day limit)",
+            "data_storage": "Store, analyze, and export up to two years of data",
+            "tag_analysis": "Get insights and reports for tagged content",
+            "boosted_post_insights": "Analyze your boosted posts and compare with your organic results to optimize your ad spend",
+            "hashtag_performance": "Get insight into how your hashtags could be affecting your reach and engagement rates",
+            "audience_demographics": "Age, gender, and location",
+            "machine_learning_insights": "Get suggestions for what, when, and how often to post to maximize your results",
+            "instagram_stories_analytics": "View completion rates and key metrics over time",
+            "shopify_performance": "See your sales, top referrals, and top products alongside your social media data",
+            "custom_reports": "White-labeled and annotated for easy analysis",
+            "exportable_reports": "Available as a PDF, image, or CSV",
+            "branded_reports": "Add a custom logo to each of your reports",
+            "cover_page": "Get an automatically generated cover page when you download your report as a PDF"
+        },
+        "engagement": {
+            "grid_view": "See which posts have unanswered comments and quickly jump in",
+            "important_comment_detection": "Machine-learning-powered alerts highlight open questions & comments on sales or unhappiness",
+            "hotkeys": "Get through comments quickly without taking your hands off the keyboard",
+            "easy_account_switching": "Seamlessly switch between multiple accounts and channels. No more logging in and out"
+        },
+        "team_management": {
+            "included_users": "1",
+            "draft_post_management": "Account owners can set post drafting, approval, and full posting access across users",
+            "custom_access_permissions": "Manage which channels each user is invited to and their post-approval status",
+            "approval_workflow_tools": "Manage who can draft and approve posts across your team",
+            "notes": "Add internal comments to your content"
+        },
+        "integrations_apps": {
+            "ios_android_apps": "Publish is available on iOS and Android",
+            "third_party_integrations": "Use Buffer with your favorite apps like Zapier, IFTTT, Quuu, Mailchimp, Pocket, Feedly, and more",
+            "two_factor_authentication": "Two-factor authentication codes can be generated via SMS or Google Authenticator (available on iOS and Android)",
+            "google_analytics_integration": "Find in-depth insights on your posts and campaigns in Google Analytics",
+            "custom_utm_parameters": "Track the effectiveness of your posts and campaigns using custom UTM parameters"
+        },
+        "support_community": {
+            "self_service_knowledge_base": "Access to our FAQ where you’ll find how-to guides, most popular questions, and video tutorials",
+            "social_media_support": "Fast support on Social Media via Twitter and Facebook",
+            "email_support": "Fast and helpful support via email — a whole team of people cheering for you"
+        }
+    },
+    "Team": {
+        "price": "$10/mo per channel",
+        "number_of_channels": "$10/mo per channel",
+        "scheduling_posts": "Unlimited*",
+        "features": [
+            "Essentials features, plus:",
+            "Unlimited team members & clients",
+            "Draft collaboration tools"
+        ],
+        "content_creation": {
+            "ideas": "2000 ideas",
+            "drafts": "Save your content for later on mobile or desktop",
+            "canva": "Import content directly from Canva",
+            "cloud_integrations": "Import content directly from your favorite cloud storage provider",
+            "post_previews": "See how your posts will appear on each channel",
+            "browser_extension": "Open the composer on any web page and add posts directly to your queue"
+        },
+        "publishing": {
+            "content_scheduling": "Create posts and schedule their release for each channel",
+            "custom_schedules": "Set time slots throughout each week for your content to be released",
+            "tailored_posts": "Seamlessly iterate on content to customize posts for each channel",
+            "queue_or_calendar_view": "View your content as a chronological feed or in a calendar view",
+            "mentions": "Tag other Facebook, LinkedIn, Instagram, and TikTok Pages (some restrictions apply)",
+            "twitter_threads": "Unlimited",
+            "custom_video_thumbnails": "Choose a custom thumbnail and title for your videos",
+            "hashtag_manager": "Create, save, reuse, and optimize groups of hashtags for your social channels",
+            "first_comment_scheduling": "Schedule a first comment with your Instagram or LinkedIn posts",
+            "shuffle_queue": "Shuffle the order of the posts in your queue",
+            "link_shorteners": "Shorten links to buff.ly, bit.ly, or your own domain (through bit.ly)",
+            "video_scheduling": "Schedule video to Reels, TikTok, YouTube Shorts and more",
+            "tags": "250",
+            "landing_page": "Build a simple, flexible landing page with Start Page"
+        },
+        "analytics_reporting": {
+            "performance_overview": "See an overview of key metrics (impressions, engagements and new followers, etc)",
+            "individual_post_analytics": "See a history of all of your published posts, iterate, and evolve",
+            "historical_data_access": "Backfill data from the past 6 months for all channels except Twitter (28-day limit) and Instagram (30-day limit)",
+            "data_storage": "Store, analyze, and export up to two years of data",
+            "tag_analysis": "Get insights and reports for tagged content",
+            "boosted_post_insights": "Analyze your boosted posts and compare with your organic results to optimize your ad spend",
+            "hashtag_performance": "Get insight into how your hashtags could be affecting your reach and engagement rates",
+            "audience_demographics": "Age, gender, and location",
+            "machine_learning_insights": "Get suggestions for what, when, and how often to post to maximize your results",
+            "instagram_stories_analytics": "View completion rates and key metrics over time",
+            "shopify_performance": "See your sales, top referrals, and top products alongside your social media data",
+            "custom_reports": "White-labeled and annotated for easy analysis",
+            "exportable_reports": "Available as a PDF, image, or CSV",
+            "branded_reports": "Add a custom logo to each of your reports",
+            "cover_page": "Get an automatically generated cover page when you download your report as a PDF"
+        },
+        "engagement": {
+            "grid_view": "See which posts have unanswered comments and quickly jump in",
+            "important_comment_detection": "Machine-learning-powered alerts highlight open questions & comments on sales or unhappiness",
+            "hotkeys": "Get through comments quickly without taking your hands off the keyboard",
+            "easy_account_switching": "Seamlessly switch between multiple accounts and channels. No more logging in and out"
+        },
+        "team_management": {
+            "included_users": "Unlimited",
+            "draft_post_management": "Account owners can set post drafting, approval, and full posting access across users",
+            "custom_access_permissions": "Manage which channels each user is invited to and their post-approval status",
+            "approval_workflow_tools": "Manage who can draft and approve posts across your team",
+            "notes": "Add internal comments to your content"
+        },
+        "integrations_apps": {
+            "ios_android_apps": "Publish is available on iOS and Android",
+            "third_party_integrations": "Use Buffer with your favorite apps like Zapier, IFTTT, Quuu, Mailchimp, Pocket, Feedly, and more",
+            "two_factor_authentication": "Two-factor authentication codes can be generated via SMS or Google Authenticator (available on iOS and Android)",
+            "google_analytics_integration": "Find in-depth insights on your posts and campaigns in Google Analytics",
+            "custom_utm_parameters": "Track the effectiveness of your posts and campaigns using custom UTM parameters"
+        },
+        "support_community": {
+            "self_service_knowledge_base": "Access to our FAQ where you’ll find how-to guides, most popular questions, and video tutorials",
+            "social_media_support": "Fast support on Social Media via Twitter and Facebook",
+            "email_support": "Fast and helpful support via email — a whole team of people cheering for you"
+        }
+    },
+    "Agency": {
+        "price": "$100/mo for 10 channels",
+        "number_of_channels": "$1200/yr for the first 10 channels. Additional channels for $60/yr per channel",
+        "scheduling_posts": "Unlimited*",
+        "features": [
+            "Team features, plus:",
+            "Custom access & permissions",
+            "Agency-friendly pricing"
+        ],
+        "content_creation": {
+            "ideas": "2000 ideas",
+            "drafts": "Save your content for later on mobile or desktop",
+            "canva": "Import content directly from Canva",
+            "cloud_integrations": "Import content directly from your favorite cloud storage provider",
+            "post_previews": "See how your posts will appear on each channel",
+            "browser_extension": "Open the composer on any web page and add posts directly to your queue"
+        },
+        "publishing": {
+            "content_scheduling": "Create posts and schedule their release for each channel",
+            "custom_schedules": "Set time slots throughout each week for your content to be released",
+            "tailored_posts": "Seamlessly iterate on content to customize posts for each channel",
+            "queue_or_calendar_view": "View your content as a chronological feed or in a calendar view",
+            "mentions": "Tag other Facebook, LinkedIn, Instagram, and TikTok Pages (some restrictions apply)",
+            "twitter_threads": "Unlimited",
+            "custom_video_thumbnails": "Choose a custom thumbnail and title for your videos",
+            "hashtag_manager": "Create, save, reuse, and optimize groups of hashtags for your social channels",
+            "first_comment_scheduling": "Schedule a first comment with your Instagram or LinkedIn posts",
+            "shuffle_queue": "Shuffle the order of the posts in your queue",
+            "link_shorteners": "Shorten links to buff.ly, bit.ly, or your own domain (through bit.ly)",
+            "video_scheduling": "Schedule video to Reels, TikTok, YouTube Shorts and more",
+            "tags": "250",
+            "landing_page": "Build a simple, flexible landing page with Start Page"
+        },
+        "analytics_reporting": {
+            "performance_overview": "See an overview of key metrics (impressions, engagements and new followers, etc)",
+            "individual_post_analytics": "See a history of all of your published posts, iterate, and evolve",
+            "historical_data_access": "Backfill data from the past 6 months for all channels except Twitter (28-day limit) and Instagram (30-day limit)",
+            "data_storage": "Store, analyze, and export up to two years of data",
+            "tag_analysis": "Get insights and reports for tagged content",
+            "boosted_post_insights": "Analyze your boosted posts and compare with your organic results to optimize your ad spend",
+            "hashtag_performance": "Get insight into how your hashtags could be affecting your reach and engagement rates",
+            "audience_demographics": "Age, gender, and location",
+            "machine_learning_insights": "Get suggestions for what, when, and how often to post

@@ -1,0 +1,342 @@
+```python
+pricing_info = {
+    "plans": {
+        "Free": {
+            "price": "$0",
+            "features": {
+                "Email Credits": "Unlimited (10,000/month per account)",
+                "Mobile Credits": "60 Mobile Credits / year",
+                "Export Credits": "120 Export Credits / year",
+                "Sequence Automation": "2 Active Sequences",
+                "Basic Filters": True,
+                "Buying Intent": "3 Intent Topics Limit & Intent Filters",
+                "AI-Assisted Email Writing": "5k words monthly limit",
+                "Send Emails": "250 Emails/day",
+                "Chrome Extension": True,
+                "Deals": True,
+                "Limited API Access": True,
+                "Advanced Salesforce & HubSpot Integration": "Bi-Directional",
+                "Custom Stages": True,
+                "Conversations": "150 minutes recording limit",
+                "Track Website Visitors": "track up to 10 new visitors daily",
+                "Plays": "2 Plays Limit",
+                "Task Manager": True
+            }
+        },
+        "Basic": {
+            "price": "$49 per user, per month (billed annually)",
+            "features": {
+                "Email Credits": "Unlimited (Min. 120,000/year per account)",
+                "Mobile Credits": "900 Mobile Credits / year",
+                "Export Credits": "12,000 Export Credits / year",
+                "Select Records": "10,000 Records at a Time",
+                "Sequence Limit": "No Limit",
+                "Buying Intent": "6 Intent Topics Limit & Intent Filters",
+                "Job Changes": True,
+                "Outreach & SalesLoft Integration": True,
+                "Advanced Filters": True,
+                "Email Open & Click Tracking": True,
+                "Advanced Greenhouse Integration": "Bi-Directional",
+                "Data Enrichment": True,
+                "Dialer": True,
+                "Email Providers Integration": "All Email Providers",
+                "Plays": "500 Plays Limit"
+            }
+        },
+        "Professional": {
+            "price": "$79 per user, per month (billed annually)",
+            "features": {
+                "Email Credits": "Unlimited (Min. 120,000/year per account)",
+                "Mobile Credits": "1,200 Mobile Credits / year",
+                "Export Credits": "24,000 Export Credits / year",
+                "Uncapped Sending Limits with SendGrid": True,
+                "Advanced Reports & Dashboards": "Pre-Built",
+                "Email Reply & Meeting Tracking": True,
+                "AI-Assisted Email Writing": "300k words monthly limit",
+                "Call Recordings": True,
+                "Permission Profiles": True,
+                "Buying Intent": "9 Intent Topics Limit & Intent Filters",
+                "Conversations": "4000 minutes recording limit",
+                "Track Website Visitors": "track up to 250 new visitors daily"
+            }
+        },
+        "Organization": {
+            "price": "$119 per user, per month (min 3 users, billed annually)",
+            "features": {
+                "Email Credits": "Unlimited (Min. 120,000/year per account)",
+                "Mobile Credits": "2,400 Mobile Credits / year",
+                "Export Credits": "48,000 Export Credits / year",
+                "Buying Intent": "12 Intent Topics Limit & Intent Filters",
+                "AI-Assisted Email Writing": "1M words monthly limit",
+                "Call Transcriptions, International Dialing & Local Presence": True,
+                "Customizable Reports": True,
+                "Login with Single Sign-On (SSO)": True,
+                "Advanced Security Configurations": True,
+                "Advanced API Access": True,
+                "Conversations": "8000 minutes recording limit",
+                "Track Website Visitors": "track up to 500 new visitors daily"
+            }
+        }
+    },
+    "comparisons": {
+        "Email Credits": {
+            "Free": "Unlimited",
+            "Basic": "Unlimited",
+            "Professional": "Unlimited",
+            "Organization": "Unlimited"
+        },
+        "Mobile Numbers": {
+            "Free": "5 / Month",
+            "Basic": "75 / Month",
+            "Professional": "100 / Month",
+            "Organization": "200 / Month"
+        },
+        "Export Credits": {
+            "Free": "10 / Month",
+            "Basic": "1,000 / Month",
+            "Professional": "2,000 / Month",
+            "Organization": "4,000 / Month"
+        },
+        "Record Selection Limit": {
+            "Free": "25",
+            "Basic": "10,000",
+            "Professional": "10,000",
+            "Organization": "10,000"
+        },
+        "LinkedIn Extension": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "CSV Export": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Buying Intent": {
+            "Free": "3 Intent Topics Limit & Intent Filters",
+            "Basic": "6 Intent Topics Limit & Intent Filters",
+            "Professional": "9 Intent Topics Limit & Intent Filters",
+            "Organization": "12 Intent Topics Limit & Intent Filters"
+        },
+        "API": {
+            "Free": "Limited API Access",
+            "Basic": True,
+            "Professional": True,
+            "Organization": "Advanced API Access"
+        },
+        "Sequences": {
+            "Free": "2",
+            "Basic": "Unlimited",
+            "Professional": "Unlimited",
+            "Organization": "Unlimited"
+        },
+        "Daily Email Sending Limit": {
+            "Free": "250",
+            "Basic": "250",
+            "Professional": "Unlimited",
+            "Organization": "Unlimited"
+        },
+        "Email Integration": {
+            "Free": "Gmail & Microsoft",
+            "Basic": "All Email Providers",
+            "Professional": "All Email Providers",
+            "Organization": "All Email Providers"
+        },
+        "Number of Mailboxes per User": {
+            "Free": "1",
+            "Basic": "1",
+            "Professional": "5",
+            "Organization": "15"
+        },
+        "Gmail Extension": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Reply & Meeting Tracking": {
+            "Free": False,
+            "Basic": False,
+            "Professional": True,
+            "Organization": True
+        },
+        "Custom Fields": {
+            "Free": False,
+            "Basic": False,
+            "Professional": True,
+            "Organization": True
+        },
+        "Plays": {
+            "Free": "2 Plays Limit",
+            "Basic": "500 Plays Limit",
+            "Professional": "Unlimited",
+            "Organization": "Unlimited"
+        },
+        "Dialer": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Advanced Dialer": {
+            "Free": False,
+            "Basic": False,
+            "Professional": True,
+            "Organization": True
+        },
+        "Account Based Automation": {
+            "Free": False,
+            "Basic": False,
+            "Professional": True,
+            "Organization": True
+        },
+        "Deals": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Conversation Intelligence": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Meetings": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Scores": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Signals": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "AI Writer": {
+            "Free": "5k words monthly limit",
+            "Basic": "30k words monthly limit",
+            "Professional": "300k words monthly limit",
+            "Organization": "1M words monthly limit"
+        },
+        "Custom Domain Tracking": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Custom Stages": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Teams": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Custom Territories": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Custom Permission Profiles": {
+            "Free": False,
+            "Basic": False,
+            "Professional": True,
+            "Organization": True
+        },
+        "Single Sign-on (SSO)": {
+            "Free": False,
+            "Basic": False,
+            "Professional": False,
+            "Organization": True
+        },
+        "Advanced Security Configurations": {
+            "Free": False,
+            "Basic": False,
+            "Professional": False,
+            "Organization": True
+        },
+        "Zapier Integration": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Outreach & SalesLoft Integration": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Mailgun Integration": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "SendGrid Integration": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Salesforce Extension": {
+            "Free": True,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Pull from CRM": {
+            "Free": "Salesforce & HubSpot",
+            "Basic": "Salesforce & HubSpot",
+            "Professional": "Salesforce & HubSpot",
+            "Organization": "Salesforce & HubSpot"
+        },
+        "Pull from ATS": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Push to Salesforce": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Push to HubSpot": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Push to ATS": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        },
+        "Priority Email Support": {
+            "Free": False,
+            "Basic": True,
+            "Professional": True,
+            "Organization": True
+        }
+    }
+}
+```

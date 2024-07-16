@@ -1,0 +1,93 @@
+```python
+{
+    "Platform": {
+        "Contract Management": {
+            "Ironclad CLM Software": [
+                "Manage your contracts across the entire lifecycle"
+            ],
+            "Ironclad AI": [
+                "Workflow Designer",
+                "Editor",
+                "Repository",
+                "Reporting",
+                "eSignature"
+            ],
+            "Ironclad Signature": [
+                "Elevate your signing processes"
+            ],
+            "Ironclad Clickwrap": [
+                "Embedded Contracts",
+                "Terms Management",
+                "Public Workflow"
+            ]
+        },
+        "Enterprise": [
+            "Digital Contracting",
+            "Integrations",
+            "Implementation",
+            "AI Responsibility",
+            "Security",
+            "Developers",
+            "Sales + Legal Win as One with Ironclad x Salesforce"
+        ],
+        "Solutions": [
+            "Legal",
+            "Sales",
+            "Procurement",
+            "IT"
+        ],
+        "Resources": {
+            "Explore": [
+                "Demo Video Library",
+                "The Journal",
+                "On-Demand Webinars",
+                "Podcast"
+            ],
+            "Customer Resources": [
+                "Community",
+                "Academy",
+                "What’s New at Ironclad",
+                "Help Center"
+            ],
+            "Top Articles": [
+                "Contract Management FAQ",
+                "CLM Explained",
+                "How to Choose A CLM",
+                "What is AI for Contract Management?",
+                "Using CLM in Salesforce",
+                "All About NDAs",
+                "Contract Negotiation Tips",
+                "Pros & Contracts"
+            ]
+        },
+        "Company": [
+            "Careers",
+            "About Us",
+            "Blog",
+            "Press",
+            "Pricing"
+        ]
+    },
+    "Pricing": {
+        "Structure": "Custom Quote",
+        "Steps": [
+            "Pick your product(s): repository, contract lifecycle management, or clickwrap solutions.",
+            "Pick your partners: deployment options.",
+            "Add a little extra: API and integrations."
+        ],
+        "Cost vs. ROI": {
+            "ROI": "314%",
+            "Contract Efficiency Improvement": "65%",
+            "Operational Efficiency Lift": "60%",
+            "Profit-Margin Expansion": "25 basis points"
+        }
+    },
+    "FAQ": {
+        "Is Ironclad worth the cost?": "Yes, customized to suit specific business needs and ensures high adoption.",
+        "Do I have to pay more for security?": "No, enhanced security is included.",
+        "Will only the legal team see the value?": "No, it is built for all departments.",
+        "Do integrations cost extra?": "Some are complementary, some are add-ons.",
+        "Can Ironclad be customized for my company?": "Yes, it allows any type of customization and approval workflow."
+    }
+}
+```

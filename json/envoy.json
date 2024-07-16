@@ -1,0 +1,113 @@
+```python
+pricing_info = {
+    "Visitors": {
+        "Basic": {
+            "price": "Free",
+            "billing_cycle": None,
+            "description": "For small workplaces with basic visitor needs",
+            "features": [
+                "Unlimited visitors",
+                "Host notifications"
+            ]
+        },
+        "Standard": {
+            "price": "$109",
+            "billing_cycle": "per location/month billed annually",
+            "description": "For companies who want to give their visitors a great first impression",
+            "features": [
+                "Everything in Basic",
+                "Badge printing",
+                "Legal documents"
+            ]
+        },
+        "Premium": {
+            "price": "$329",
+            "billing_cycle": "per location/month billed annually",
+            "description": "For companies who want to give their visitors a great first impression",
+            "features": [
+                "Everything in Standard",
+                "Customized branding",
+                "Visitor photos",
+                "Visitor analytics",
+                "SSO and directory integrations"
+            ]
+        },
+        "Enterprise": {
+            "price": "Custom pricing",
+            "billing_cycle": None,
+            "description": "For workplaces with complex security, safety, and compliance needs",
+            "features": [
+                "Everything in Premium",
+                "Block list and ID scanning",
+                "Guest Wi-Fi integrations",
+                "Access control integrations",
+                "Auto-scheduled email reports of visitor data",
+                "Send multi-channel emergency notifications to visitors"
+            ]
+        }
+    },
+    "Workplace": {
+        "Standard": {
+            "price": "$3",
+            "billing_cycle": "per active user/month billed annually",
+            "description": "For companies who want to foster onsite collaboration and streamline the employee experience",
+            "features": [
+                "Workplace maps",
+                "Workplace scheduling",
+                "Package and delivery tracking",
+                "Ticketing integrations",
+                "Notifications & announcements",
+                "Mobile, Slack, Teams, GCal, Outlook integrations",
+                "Location-based mobile sign-in"
+            ]
+        },
+        "Premium": {
+            "price": "$5",
+            "billing_cycle": "per active user/month billed annually",
+            "description": "For companies who want to optimize the workplace experience with accurate data and space booking",
+            "features": [
+                "Everything in Standard",
+                "Health and safety controls",
+                "Auto check-in via access control and WiFi integrations",
+                "Conference room booking",
+                "Desk booking",
+                "Occupancy and space usage analytics",
+                "Set and measure performance against in-office policies",
+                "SSO, Directory Sync",
+                "Delegated assistant scheduling",
+                "Scenario planning"
+            ]
+        },
+        "Premium Plus": {
+            "price": "$7",
+            "billing_cycle": "per active user/month billed annually",
+            "description": "For companies who want to leverage emergency notifications and admin management features",
+            "features": [
+                "Everything in Premium",
+                "Send multi-channel emergency notifications to employees",
+                "Manage user identities and access rights automatically with SCIM sync",
+                "Enhance security with custom admin roles",
+                "Validate workplace emails sent to employees with DKIM"
+            ]
+        }
+    },
+    "Connect": {
+        "Enterprise": {
+            "price": "Custom pricing",
+            "billing_cycle": "billed annually",
+            "description": "For property owners of multi-tenant buildings",
+            "features": [
+                "Ability to create and manage properties, tenants and suites",
+                "Real-time 2-way sync between property owner and tenant accounts",
+                "Property-wide visitor log",
+                "Property-wide block list",
+                "Property walk-up sign-in flow",
+                "Property-level access control integrations",
+                "Property-level security admin role",
+                "Portfolio and property-level visitor foot traffic analysis",
+                "QR code check-in at property kiosk"
+            ]
+        }
+    }
+}
+```

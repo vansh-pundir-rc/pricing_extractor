@@ -1,0 +1,169 @@
+```python
+pricing_catalogue = {
+    "plans": {
+        "Standard": {
+            "price": "Starts at ₹1150 per month for {contacts} contacts",
+            "features": {
+                "Generative AI features": "Included",
+                "Advanced segmentation & reporting": "Included",
+                "Enhanced automations": "Included",
+                "Custom-coded email templates": "Included",
+                "Data-driven optimization tools": "Included",
+                "Personalized onboarding": "Included",
+                "monthly_email_sends": "12X contacts",
+                "free_trial": "Available for large list sizes",
+                "contacts_range": [
+                    500, 1500, 2500, 5000, 10000, 15000, 20000, 25000, 30000, 40000, 50000, 75000, 100000
+                ],
+                "overages": "Apply if contact or email send limit is exceeded",
+                "non_usd_pricing": "Actual price may vary. Prices displayed are estimates based on current exchange rates. Exact amount charged will vary and depends on the exchange rate at the time of payment processing. Prices displayed exclude any applicable taxes and fees, which will be added to the cost of all services purchased. For exact base pricing please refer to prices listed in USD."
+            }
+        },
+        "Premium": {
+            "price": "Starts at ₹23000 per month for {contacts} contacts",
+            "features": {
+                "Unlimited seats & audiences": "Included",
+                "Migration support": "Included",
+                "Customer success manager": "Included",
+                "Priority phone support": "Included",
+                "Dedicated onboarding": "Included",
+                "monthly_email_sends": "15X contacts",
+                "free_trial": "Available for large list sizes",
+                "contacts_range": [
+                    10000, 15000, 20000, 25000, 30000, 40000, 50000, 75000, 100000, 130000, 150000, 200000, 250000
+                ],
+                "overages": "Apply if contact or email send limit is exceeded",
+                "non_usd_pricing": "Actual price may vary. Prices displayed are estimates based on current exchange rates. Exact amount charged will vary and depends on the exchange rate at the time of payment processing. Prices displayed exclude any applicable taxes and fees, which will be added to the cost of all services purchased. For exact base pricing please refer to prices listed in USD."
+            }
+        },
+        "Essentials": {
+            "price": "₹575/mo for 500 contacts",
+            "features": {
+                "Generative AI features": "Not included",
+                "Advanced segmentation & reporting": "Not included",
+                "Enhanced automations": "Not included",
+                "Custom-coded email templates": "Not included",
+                "Data-driven optimization tools": "Not included",
+                "Personalized onboarding": "Not included",
+                "monthly_email_sends": "10X contacts",
+                "free_trial": "Not available",
+                "contacts_range": [
+                    500
+                ],
+                "overages": "Apply if contact or email send limit is exceeded",
+                "non_usd_pricing": "Actual price may vary. Prices displayed are estimates based on current exchange rates. Exact amount charged will vary and depends on the exchange rate at the time of payment processing. Prices displayed exclude any applicable taxes and fees, which will be added to the cost of all services purchased. For exact base pricing please refer to prices listed in USD."
+            }
+        },
+        "Free": {
+            "price": "₹0/mo; limit of 500 contacts",
+            "features": {
+                "Generative AI features": "Not included",
+                "Advanced segmentation & reporting": "Not included",
+                "Enhanced automations": "Not included",
+                "Custom-coded email templates": "Not included",
+                "Data-driven optimization tools": "Not included",
+                "Personalized onboarding": "Not included",
+                "monthly_email_sends": "Max of 1,000/mo or 500/day",
+                "free_trial": "Not applicable",
+                "contacts_range": [
+                    500
+                ],
+                "overages": "Apply if contact or email send limit is exceeded",
+                "non_usd_pricing": "Actual price may vary. Prices displayed are estimates based on current exchange rates. Exact amount charged will vary and depends on the exchange rate at the time of payment processing. Prices displayed exclude any applicable taxes and fees, which will be added to the cost of all services purchased. For exact base pricing please refer to prices listed in USD."
+            }
+        }
+    },
+    "comparisons": {
+        "Customer Support": {
+            "Premium": "Phone & Priority Support",
+            "Standard": "24/7 Email & Chat Support",
+            "Essentials": "24/7 Email & Chat Support",
+            "Free": "Email support for first 30 days"
+        },
+        "Reporting & Analytics": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Limited",
+            "Free": "Limited"
+        },
+        "Automated Customer Journeys": {
+            "Premium": "Up to 200 journey points",
+            "Standard": "Up to 200 journey points",
+            "Essentials": "Up to 4 journey points",
+            "Free": "Not included"
+        },
+        "Generative AI Features": {
+            "Premium": "No additional cost add-on",
+            "Standard": "No additional cost add-on",
+            "Essentials": "Not included",
+            "Free": "Not included"
+        },
+        "Custom-coded Templates": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Not included",
+            "Free": "Not included"
+        },
+        "Monthly Email Sends": {
+            "Premium": "15X contacts",
+            "Standard": "12X contacts",
+            "Essentials": "10X contacts",
+            "Free": "Max of 1,000/mo or 500/day"
+        },
+        "Users": {
+            "Premium": "Unlimited",
+            "Standard": "5 Seats",
+            "Essentials": "3 Seats",
+            "Free": "1 Seat"
+        },
+        "Audiences": {
+            "Premium": "Unlimited",
+            "Standard": "5 Audiences",
+            "Essentials": "3 Audiences",
+            "Free": "1 Audience"
+        },
+        "Role-based Access": {
+            "Premium": "5 Roles",
+            "Standard": "4 Roles",
+            "Essentials": "2 Roles",
+            "Free": "Not included"
+        },
+        "Forms & Landing Pages": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Included",
+            "Free": "Included"
+        },
+        "Remove Mailchimp Branding": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Included",
+            "Free": "Not included"
+        },
+        "A/B Testing": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Included",
+            "Free": "Not included"
+        },
+        "Dynamic Content": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Not included",
+            "Free": "Not included"
+        },
+        "Advanced Segmentation": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Not included",
+            "Free": "Not included"
+        },
+        "Behavioral Targeting": {
+            "Premium": "Included",
+            "Standard": "Included",
+            "Essentials": "Not included",
+            "Free": "Not included"
+        }
+    }
+}
+```

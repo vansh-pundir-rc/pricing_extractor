@@ -1,0 +1,131 @@
+```python
+pricing_info = {
+    "Starter": {
+        "price_per_month": 0,
+        "included_employees": 25,
+        "additional_employee_cost": "Not Applicable",
+        "features": {
+            "Number of Employees": "Limited",
+            "Core HR": "Limited",
+            "Payroll": "Limited",
+            "Leave Management": "Limited",
+            "Employee Workflows for Process Automation": "Limited",
+            "Attendance Management": "Limited",
+            "Employee Self Onboarding": "Limited",
+            "Comprehensive Employee Exit Management": "No",
+            "Employee Portal (Web and Mobile app)": "Limited",
+            "Automated Checklists for Task Management": "Limited",
+            "Advanced Analytics & Reporting": "Limited",
+            "AI-Powered Chatbot": "No",
+            "Access & User Management": "No",
+            "Extensive Excel import & Export Facility": "No",
+            "Onboarding Support & Support plans": "Limited",
+            "Business Expense Claims Management": "Add-on",
+            "Group Company Support": "Add-on",
+            "Enterprise Features": "Add-on",
+            "GeoMark+": "Add-on",
+            "Visage": "Add-on",
+            "Performance Management System": "Add-on",
+            "Alumni Portal": "Add-on"
+        }
+    },
+    "Essential": {
+        "price_per_month": 3495,
+        "included_employees": 50,
+        "additional_employee_cost": 30,
+        "features": {
+            "Number of Employees": "Unlimited",
+            "Core HR": "Yes",
+            "Payroll": "Yes",
+            "Leave Management": "Yes",
+            "Employee Workflows for Process Automation": "Limited",
+            "Attendance Management": "Yes",
+            "Employee Self Onboarding": "Yes",
+            "Comprehensive Employee Exit Management": "Yes",
+            "Employee Portal (Web and Mobile app)": "Yes",
+            "Automated Checklists for Task Management": "Yes",
+            "Advanced Analytics & Reporting": "Yes",
+            "AI-Powered Chatbot": "Yes",
+            "Access & User Management": "Yes",
+            "Extensive Excel import & Export Facility": "Yes",
+            "Onboarding Support & Support plans": "Yes",
+            "Business Expense Claims Management": "Add-on",
+            "Group Company Support": "Add-on",
+            "Enterprise Features": "Add-on",
+            "GeoMark+": "Add-on",
+            "Visage": "Yes",
+            "Performance Management System": "Yes",
+            "Alumni Portal": "Add-on"
+        }
+    },
+    "Growth": {
+        "price_per_month": 5495,
+        "included_employees": 50,
+        "additional_employee_cost": 60,
+        "features": {
+            "Number of Employees": "Unlimited",
+            "Core HR": "Yes",
+            "Payroll": "Yes",
+            "Leave Management": "Yes",
+            "Employee Workflows for Process Automation": "Yes",
+            "Attendance Management": "Yes",
+            "Employee Self Onboarding": "Yes",
+            "Comprehensive Employee Exit Management": "Yes",
+            "Employee Portal (Web and Mobile app)": "Yes",
+            "Automated Checklists for Task Management": "Yes",
+            "Advanced Analytics & Reporting": "Yes",
+            "AI-Powered Chatbot": "Yes",
+            "Access & User Management": "Yes",
+            "Extensive Excel import & Export Facility": "Yes",
+            "Onboarding Support & Support plans": "Yes",
+            "Business Expense Claims Management": "Add-on",
+            "Group Company Support": "Add-on",
+            "Enterprise Features": "Add-on",
+            "GeoMark+": "Add-on",
+            "Visage": "Add-on",
+            "Performance Management System": "Add-on",
+            "Alumni Portal": "Add-on"
+        }
+    },
+    "Enterprise": {
+        "price_per_month": 7495,
+        "included_employees": 50,
+        "additional_employee_cost": 100,
+        "features": {
+            "Number of Employees": "Unlimited",
+            "Core HR": "Yes",
+            "Payroll": "Yes",
+            "Leave Management": "Yes",
+            "Employee Workflows for Process Automation": "Yes",
+            "Attendance Management": "Yes",
+            "Employee Self Onboarding": "Yes",
+            "Comprehensive Employee Exit Management": "Yes",
+            "Employee Portal (Web and Mobile app)": "Yes",
+            "Automated Checklists for Task Management": "Yes",
+            "Advanced Analytics & Reporting": "Yes",
+            "AI-Powered Chatbot": "Yes",
+            "Access & User Management": "Yes",
+            "Extensive Excel import & Export Facility": "Yes",
+            "Onboarding Support & Support plans": "Yes",
+            "Business Expense Claims Management": "Yes",
+            "Group Company Support": "Yes",
+            "Enterprise Features": "Yes",
+            "GeoMark+": "Add-on",
+            "Visage": "Add-on",
+            "Performance Management System": "Add-on",
+            "Alumni Portal": "Add-on"
+        }
+    },
+    "Add-Ons": {
+        "Performance Management System": {"price": 3000, "included_employees": 50},
+        "Visage": {"price_per_user_per_month": 20},
+        "Alumni Portal": {"price_per_user_per_month": 15},
+        "GeoMark+": {"price_per_user_per_month": 50}
+    },
+    "Comparisons": {
+        "Zoho": {"cost_difference_percentage": -77.78},
+        "HROne": {"cost_difference_percentage": -183.33},
+        "Keka": {"cost_difference_percentage": -50}
+    }
+}
+```

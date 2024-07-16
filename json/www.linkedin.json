@@ -1,0 +1,60 @@
+```python
+linkedin_pricing = {
+    "LinkedIn Recruiter Lite": {
+        "Best for": "recruiting professionals and small recruiting agencies",
+        "Pricing": {
+            "Monthly": {
+                "Single License": "$170/month",
+                "2-5 Licenses": "$270/month per license"
+            },
+            "Annual": {
+                "Single License": "$1,680/year",
+                "2-5 Licenses": "$2,670/year per license"
+            }
+        },
+        "Features": {
+            "Search Filters": "20+",
+            "Connections": "1st, 2nd, and 3rd degree",
+            "InMail Credits": "30/month per seat",
+            "Additional InMail Credits": "up to 70/month per seat, max 120 credits per month",
+            "Candidate Search Alerts": "10 per seat",
+            "Dashboard Collaboration": "up to 5 seats",
+            "Reports": ["InMail analytics report", "Job analytics report"]
+        },
+        "Review": "Saves me valuable time and effort that would otherwise be spent on manual sourcing methods. – Betul G. on G2"
+    },
+    "LinkedIn Recruiter Professional Services": {
+        "Best for": "growing and established staffing and recruiting firms",
+        "Pricing": {
+            "Monthly": "$500-$850/month per single license (reports vary)",
+            "Annual": "$6,000-$10,200/year per single license (reports vary)"
+        },
+        "Features": {
+            "Search Filters": "40+",
+            "Connections": "up to 3rd-degree, 30 unlocks per month for out-of-network profiles",
+            "InMail Credits": "100/month per seat",
+            "Bulk InMail": "25 messages at once",
+            "Candidate Search Alerts": "50 per seat",
+            "Collaborator Licenses": "20 per recruiter license",
+            "Integrations": ["28+ ATS partners", "LinkedIn Talent Insights", "LinkedIn Talent Hub", "LinkedIn recruitment marketing solutions"],
+            "Reports": ["recruiter usage", "pipeline analytics", "cross-contract", "custom reporting"],
+            "Compliance": "Tracking for OFCCP compliance"
+        },
+        "Review": "LinkedIn Recruiter helps me find the talent I\'m looking for, quickly. – Tabitha C. on G2"
+    },
+    "LinkedIn Recruiter Corporate": {
+        "Best for": "corporate recruiting and enterprise human resources departments",
+        "Pricing": {
+            "Monthly": "$1,080/month per single license",
+            "Annual": "$10,800/year per single license"
+        },
+        "Features": {
+            "Search Filters": "All LinkedIn Recruiter Professional Services features",
+            "Connections": "complete access to LinkedIn's network (770M+)",
+            "InMail Credits": "150/month per seat",
+            "Bulk InMail": "25 messages at once"
+        },
+        "Review": "It is especially helpful to be able to look at the tab for \"open to new opportunities\" because those are the people most likely to read, respond to, and be interested in my message. – Liana F. on G2"
+    }
+}
+```

@@ -1,0 +1,60 @@
+```python
+{
+    "event": {
+        "name": "STACK'D Connect",
+        "location": "NYC",
+        "date": "July 30-31"
+    },
+    "platform_features": {
+        "Recruit": "Attract high-quality, great-fit partners",
+        "Activate": "Enable partners with best-in-class resources",
+        "Track": "Monitor every partner-sourced lead",
+        "Commission": "Incentivize partners with rewards and commissions",
+        "Optimize": "Improve performance with reports and insights"
+    },
+    "resources": {
+        "Research Lab": "Access data-driven reports and trends",
+        "Customers": "Learn why our customers love us",
+        "Guides": "Find the answers you need from experts",
+        "Partner Playbook": "Explore proven plays by our customers",
+        "Articles": "Discover industry best practices and tips",
+        "Glossary": "Decode buzzwords and learn the industry lingo"
+    },
+    "pricing_information": {
+        "description": "The #1 rated ecosystem platform, priced based on your needs. Let us personalize a plan and pricing that suit your business.",
+        "all_plans_include": [
+            "Access to B2B-focused partners: Promote your program to over 800,000 affiliate, referral and reseller partners in the PartnerStack Marketplace.",
+            "Automated partner payments: Partners get paid every month with automatic billing to your method of choice and self-serve partner withdrawals.",
+            "Partner journey automation: Scale your program to an unlimited number of partners, with automated onboarding and content for each.",
+            "Partner analytics: Track the success of your partners at individual and group levels to optimize your program's performance."
+        ],
+        "channels": {
+            "Marketing channels": "Manage your affiliates, ambassadors, and influencers in a single place, with unique partner links that automatically attribute every conversion.",
+            "Referral channels": "Drive qualified leads from referral partners including agencies, consultants, and even existing customers.",
+            "Reseller channels": "Empower your reseller partners to own the entire sales process and submit deals directly.",
+            "Multi-channel": "Scale revenue across multiple partner channels by running several unique programs side-by-side."
+        }
+    },
+    "testimonials": [
+        {
+            "name": "David M",
+            "title": "Senior Director and Co-founder",
+            "comment": "The platform is very intuitive, and I can see in one place my stats, activity, and earnings. The connection to one of the payment providers was also frictionless! I definitely will recommend it as your go-to referral platform."
+        },
+        {
+            "role": "Partner in Marketing and Advertising",
+            "comment": "I love that you can get paid through PartnerStack every month depending on how much you make. They really make sure that every affiliate marketer succeeds through the website and has the best tools and resources to become successful. I am proud to be using this platform."
+        },
+        {
+            "name": "Glenn E",
+            "title": "Owner",
+            "comment": "PartnerStack consistently delivers on a top draw selection of leading companies for affiliate marketers in the SaaS space. You would be sure of connecting with many of the best providers from solely within the PartnerSack Marketplace. The interface is clean, easy to navigate, and very much in keeping with the UX/UI simplicity of the best SaaS."
+        }
+    ],
+    "statistics": {
+        "growth_in_revenue": "118%",
+        "revenue_driven": "$534M+",
+        "days_to_launch_program": "44 days"
+    }
+}
+```

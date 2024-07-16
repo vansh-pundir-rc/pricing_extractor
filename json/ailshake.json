@@ -1,0 +1,97 @@
+```python
+mailshake_pricing = {
+    "Email Outreach": {
+        "monthly": 59,
+        "yearly": 45,
+        "features": [
+            "ALL OF STARTER PLUS",
+            "2 email addresses",
+            "Email personalization",
+            "Advanced scheduling & throttling",
+            "Respond to leads (Lead Catcher)",
+            "Salesforce / Pipedrive / Hubspot",
+            "1,000+ integrations via Zapier",
+            "Prospects view",
+            "5k list-cleaning credits monthly",
+            "5k recipients per campaign",
+            "Browser extension",
+            "Email template management",
+            "Email rotation"
+        ]
+    },
+    "Sales Engagement": {
+        "monthly": 99,
+        "yearly": 85,
+        "features": [
+            "ALL OF EMAIL OUTREACH PLUS",
+            "5 email addresses",
+            "5 phone numbers",
+            "Power phone dialer",
+            "LinkedIn automation",
+            "Lead temperature",
+            "10k list-cleaning credits monthly",
+            "2,500 data finder credits monthly",
+            "10k recipients per campaign",
+            "Includes UNLIMITED free dialer minutes to North American phone numbers",
+            "Phone scripts",
+            "Account level view & organization",
+            "Create custom tasks",
+            "Priority support"
+        ]
+    },
+    "Data Finder": {
+        "Free": {
+            "monthly": 0,
+            "credits": 50,
+            "features": [
+                "Search by job title, company, industry, and location",
+                "Find names, email addresses, and more",
+                "Browser extension (coming soon)",
+                "Export download",
+                "Best for individuals or small teams"
+            ]
+        },
+        "Starter": {
+            "monthly": 49,
+            "yearly": 49,
+            "credits": 1000,
+            "features": [
+                "Search by job title, company, industry, and location",
+                "Find names, email addresses, and more",
+                "Browser extension (coming soon)",
+                "Export download",
+                "Push directly to campaigns with Mailshake’s Engagement Products",
+                "Customer support",
+                "Best for growing teams"
+            ]
+        },
+        "Pro": {
+            "monthly": 99,
+            "yearly": 99,
+            "credits": 2500,
+            "features": [
+                "Search by job title, company, industry, and location",
+                "Find names, email addresses, and more",
+                "Browser extension (coming soon)",
+                "Export download",
+                "Push directly to campaigns with Mailshake’s Engagement Products",
+                "Customer support",
+                "Best for established teams"
+            ]
+        },
+        "Enterprise": {
+            "monthly": 249,
+            "yearly": 249,
+            "credits": 12500,
+            "features": [
+                "Search by job title, company, industry, and location",
+                "Find names, email addresses, and more",
+                "Browser extension (coming soon)",
+                "Export download",
+                "Push directly to campaigns with Mailshake’s Engagement Products",
+                "Customer support"
+            ]
+        }
+    }
+}
+```

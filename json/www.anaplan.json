@@ -1,0 +1,76 @@
+```python
+pricing_info = {
+    "Featured": {
+        "Basic": "Essential capabilities to support basic planning and modeling.",
+        "Professional": "Enhanced capabilities to meet advanced planning requirements.",
+        "Enterprise": "Cutting-edge optimization capabilities, data connector bundles, and world-class support."
+    },
+    "Simplified Design and Management": {
+        "Dashboard Design & Interactivity": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Management Reporting": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Platform APIs": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "ETL Connectors": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "User and Model Management": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Application Lifecycle Management": {"Basic": "—", "Professional": "Yes", "Enterprise": "Yes"},
+        "Audit": {"Basic": "—", "Professional": "Yes", "Enterprise": "Yes"},
+        "Mobile Access": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"}
+    },
+    "Intuitive Model Building Capability": {
+        "App Hub Access": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Core Model Building Functionality": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Self-Service Data Import & Export": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Visual Model Maps": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Cross-Workspace Data Link": {"Basic": "—", "Professional": "Yes", "Enterprise": "Yes"},
+        "Additional Hyperbyte Allowance": {"Basic": "—", "Professional": "—", "Enterprise": "Yes"},
+        "MyPages": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Page Builder Functionality": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"}
+    },
+    "Connected Planning Integration": {
+        "Statistical Calculations": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Microsoft Office": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "DocuSign": {"Basic": "—", "Professional": "Yes", "Enterprise": "Yes"},
+        "HyperConnect": {"Basic": "$", "Professional": "$", "Enterprise": "$"},
+        "CloudWorks™": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"}
+    },
+    "Additional Features": {
+        "Optimizer": {"Basic": "—", "Professional": "$", "Enterprise": "Yes"},
+        "Bring Your Own Key (BYOK)": {"Basic": "—", "Professional": "—", "Enterprise": "$"},
+        "HyperModeling": {"Basic": "$", "Professional": "$", "Enterprise": "$"},
+        "PlanIQ": {"Basic": "$", "Professional": "$", "Enterprise": "$"}
+    },
+    "World-Class Support Offers": {
+        "Basic Support & On-Demand Training": {"Basic": "Yes", "Professional": "Yes", "Enterprise": "Yes"},
+        "Success Accelerators": {"Basic": "—", "Professional": "$", "Enterprise": "$"}
+    }
+}
+
+comparisons = {
+    "Dashboard Design & Interactivity": "Available in all plans",
+    "Management Reporting": "Available in all plans",
+    "Platform APIs": "Available in all plans",
+    "ETL Connectors": "Available in all plans",
+    "User and Model Management": "Available in all plans",
+    "Application Lifecycle Management": "Not available in Basic",
+    "Audit": "Not available in Basic",
+    "Mobile Access": "Available in all plans",
+    "App Hub Access": "Available in all plans",
+    "Core Model Building Functionality": "Available in all plans",
+    "Self-Service Data Import & Export": "Available in all plans",
+    "Visual Model Maps": "Available in all plans",
+    "Cross-Workspace Data Link": "Not available in Basic",
+    "Additional Hyperbyte Allowance": "Only available in Enterprise",
+    "MyPages": "Available in all plans",
+    "Page Builder Functionality": "Available in all plans",
+    "Statistical Calculations": "Available in all plans",
+    "Microsoft Office": "Available in all plans",
+    "DocuSign": "Not available in Basic",
+    "HyperConnect": "Paid add-on for all plans",
+    "CloudWorks™": "Available in all plans",
+    "Optimizer": "Paid add-on for Professional; included in Enterprise",
+    "Bring Your Own Key (BYOK)": "Only available in Enterprise",
+    "HyperModeling": "Paid add-on for all plans",
+    "PlanIQ": "Paid add-on for all plans",
+    "Basic Support & On-Demand Training": "Available in all plans",
+    "Success Accelerators": "Paid add-on for Professional and Enterprise"
+}
+```

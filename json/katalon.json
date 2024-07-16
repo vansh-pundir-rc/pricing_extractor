@@ -1,0 +1,176 @@
+```python
+katalon_pricing = {
+    "Products": {
+        "Katalon Studio": {
+            "Description": "Quickly create your tests with low-code, full-code scripting, or AI for web, mobile, desktop, and API.",
+            "Learn More": "Integrations",
+        },
+        "Runtime Engine": {
+            "Description": "Flexible, on-prem execution for CI/CD, parallel & scheduled test execution.",
+        },
+        "TestCloud": {
+            "Description": "Instant, cloud execution with on-demand browser, OS, and mobile environments.",
+        },
+        "TestOps": {
+            "Description": "Centralized command center with AI-powered testing & advanced analytics.",
+        },
+        "TrueTest": {
+            "Description": "Rapid, AI-generated regression tests modeled on real user behavior.",
+        },
+    },
+    "Solutions": {
+        "Application Under Test": {
+            "Web Testing": "Quickly create your tests, debug with advanced tools, and execute across multiple browsers.",
+            "API Testing": "Streamline your testing for any API architecture, and unify API, web, and mobile testing in one platform.",
+            "Mobile Testing": "Easily and efficiently test your Android and iOS apps across browsers, devices, and operating systems.",
+            "Desktop Testing": "Test your Windows apps with Studio, simplifying workflows and seamlessly transitioning between AUTs within one tool.",
+        },
+    },
+    "Industries": ["Finance", "Retail", "Telecoms", "Utility", "Healthcare", "Government"],
+    "Pricing": {
+        "Free": {
+            "Description": "Simple, easy test automation tools for individuals and small teams with basic testing needs.",
+            "Details": {
+                "Studio Free": "Basic low-code and full-code test creation for Web, Mobile, and API test automation. Basic execution & reporting features.",
+                "Recorder": "Browser extension to easily record and playback tests within Chrome, Firefox, and Edge. No-code, a great beginner-friendly companion to Studio.",
+            },
+        },
+        "Premium": {
+            "Description": "All-in-one test automation for teams of any size to adopt, accelerate, and scale up test automation. Easy for beginners, yet powerful for pros.",
+            "Monthly": "175 per user /month billed at $2,099 /year",
+            "Advanced Execution": {
+                "Runtime Engine": "140 per session /month billed at $1,679 /year",
+                "TestCloud": {
+                    "Desktop": "140 per session /month billed at $1,679 /year",
+                    "Desktop & Mobile": "140 per session /month billed at $1,679 /year",
+                    "Mobile App": "140 per session /month billed at $1,679 /year",
+                },
+            },
+        },
+        "Ultimate": {
+            "Description": "Centralized, AI-powered test automation platform to standardize & streamline testing at enterprise-scale.",
+            "Talk to sales": "Contact details for sales",
+            "Details": {
+                "Unlimited scale with TestOps": [
+                    "Centralized testing command center",
+                    "Advanced reports & analytics",
+                    "Advanced org, license, & data management",
+                ],
+                "Advanced AI-powered testing capabilities": [
+                    "Virtual data analyst",
+                    "AI visual testing",
+                    "Manual test generation",
+                    "Failure analysis, flakiness detection, API anomaly detection, and more.",
+                ],
+                "Flexible hosting & security configurations": [
+                    "On-prem license management server",
+                    "On-prem TestOps",
+                    "Private SaaS",
+                ],
+                "Extended support & strategic services": [
+                    "Premier Support with 24/7 coverage, 1-hour SLAs, and a dedicated onboarding manager.",
+                    "Strategic advisory and implementation services for testing transformations.",
+                ],
+            },
+        },
+    },
+    "Starter Packages": {
+        "Availability": ["New customers", "Annual licenses", "Online purchase"],
+        "Discount": "Extra 30% off your first 3 annual licenses",
+        "Packages": {
+            "Package 1": {
+                "Price": "1,499",
+                "Annual Billing": "$2,099",
+                "Test Creation": {
+                    "Katalon Studio Enterprise": ["1 License", "2 Licenses", "3 Licenses"],
+                },
+            },
+            "Package 2": {
+                "Price": "2,599",
+                "Annual Billing": "$3,778",
+                "Most Popular": True,
+                "Test Creation": {
+                    "Katalon Studio Enterprise": "1 License",
+                },
+                "Test Execution": {
+                    "Katalon Runtime Engine": "1 License",
+                    "Katalon TestCloud (Desktop Browser)": "1 Session",
+                },
+            },
+            "Package 3": {
+                "Price": "4,099",
+                "Annual Billing": "$5,877",
+                "Test Creation": {
+                    "Katalon Studio Enterprise": "2 Licenses",
+                },
+                "Test Execution": {
+                    "Katalon Runtime Engine": "1 License",
+                    "Katalon TestCloud (Desktop Browser)": "1 Session",
+                },
+            },
+        },
+    },
+    "Comparisons": {
+        "Free": {
+            "Ideal Team & Use-case": "Individuals and small teams with basic test automation needs.",
+            "Products available": ["Studio Free", "Recorder"],
+            "Test Creation": ["Low-code", "Full-code", "AI-powered"],
+            "Test Execution": "Basic: Run parallel tests on your local machine",
+            "AI-powered capabilities": [
+                "StudioAssist: testing copilot",
+                "Self-healing for reduced test maintenance",
+                "Smart Wait for better test stability & reliability",
+                "Plus other smart features to improve tester productivity",
+            ],
+            "Support": ["Community Support", "Docs", "Katalon Academy"],
+            "Admin & Infrastructure": ["Standard admin & user management"],
+        },
+        "Premium": {
+            "Ideal Team & Use-case": "Professional teams of any size, from startup to enterprise, that are adopting, accelerating, and scaling up test automation.",
+            "Products available": ["Studio Enterprise", "Runtime Engine", "TestCloud"],
+            "Test Creation": ["Low-code", "Full-code", "AI-powered"],
+            "Test Execution": "Flexible + Advanced: Flexibility across local, cloud, and on-prem environments, with easy CI/CD integration.",
+            "AI-powered capabilities": "Everything in Free, plus: Advanced AI-powered testing capabilities",
+            "Support": ["Standard 24/5 Support"],
+            "Admin & Infrastructure": ["Standard admin & user management"],
+        },
+        "Ultimate": {
+            "Ideal Team & Use-case": "Large organizations that are undergoing testing transformations, or are standardizing and streamlining test automation at enterprise-scale.",
+            "Products available": ["Everything in Premium, plus: TestOps, TrueTest (beta), Premier support & strategic services"],
+            "Test Creation": ["Low-code", "Full-code", "AI-powered"],
+            "Test Execution": "Flexible + Advanced: Flexibility across local, cloud, and on-prem environments, with easy CI/CD integration.",
+            "AI-powered capabilities": "Everything in Premium, plus: Advanced AI-powered testing capabilities",
+            "Support": [
+                "Premier 24/7 Support with 1-hour SLA",
+                "Dedicated Onboarding Manager",
+                "Dedicated Customer Success Manager",
+            ],
+            "Admin & Infrastructure": [
+                "Advanced admin and org management with SSO, whitelisting of IP addresses, sub-domain configuration, lifetime data retention.",
+                "Advanced infrastructure: Private cloud Saas, Fully on-prem, and hybrid infrastructure",
+            ],
+        },
+    },
+    "Frequently Asked Questions": {
+        "How do I know which plan is right for me?": {
+            "Free Plan": "Ideal for individuals or small teams starting their test automation journey.",
+            "Premium Plan": "Ideal for teams of all sizes looking to streamline and enhance their testing process.",
+            "Ultimate Plan": "Ideal for large enterprises or cutting-edge teams with extensive testing programs.",
+        },
+        "How many licenses do I need?": {
+            "Test creation": "The number of Katalon Studio Enterprise licenses = The number of users creating tests.",
+            "Remote execution": "The number of Katalon Runtime Engine licenses/Katalon TestCloud sessions = The number of parallel executions you want to run simultaneously.",
+        },
+        "Can I purchase single licenses in Premium?": "Yes, the Premium Plan offers the flexibility to purchase single licenses starting with Katalon Studio Enterprise for test creation and local execution.",
+        "What’s the Katalon Starter plan?": "The Starter Discount is an extra 30% your first 3 annual licenses.",
+        "What payment options do I have?": [
+            "Online payment: Credit card, Bank transfer (US customers only)",
+            "AWS Marketplace",
+            "Katalon resellers and partners",
+        ],
+        "Is there a monthly plan for Katalon licenses? Can I buy it annually?": "Katalon offers both a monthly and annual subscription. Choosing the annual plan saves you 20% compared to paying monthly.",
+        "Can I subscribe to a mix of free and paid subscriptions at the same time?": "No, you cannot subscribe to a mix of free and paid Katalon subscriptions at the same time within a project or organization.",
+        "Is Katalon deployed locally?": "Studio is an IDE application, install locally on Windows, MacOS, Linux machine.",
+    },
+}
+```

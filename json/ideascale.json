@@ -1,0 +1,41 @@
+{
+    "Pricing Information": {
+        "Custom Subscriptions": "IdeaScale customizes pricing to fit the specific features, scope, and needs of the company. Contact for a live demonstration to get a specific plan.",
+        "Free Version": {
+            "Description": "Sign up for a free IdeaScale account to experience the platform.",
+            "Limitations": {
+                "Communities": 1,
+                "Users": 50,
+                "Admins": 1
+            }
+        }
+    },
+    "Comparisons": {
+        "Plans": [
+            {
+                "Type": "Free Version",
+                "Communities": 1,
+                "Users": 50,
+                "Admins": 1
+            },
+            {
+                "Type": "Custom Subscriptions",
+                "Description": "Tailored to the specific features, scope, and needs of the company. Contact for customized pricing."
+            }
+        ],
+        "Upgrade Options": {
+            "Free to Paid": "You can upgrade from the free version to a paid plan at any time. Paid plans offer more features and capabilities."
+        }
+    },
+    "FAQs": {
+        "Cost": "IdeaScale offers various plans suitable for Enterprise, Government, and Education. A demo is recommended to discuss specific requirements.",
+        "Free Trial": "Yes, a free version is available for users to experience the software.",
+        "Free Version Limitations": {
+            "Communities": 1,
+            "Users": 50,
+            "Admins": 1
+        },
+        "Upgrade to Paid Plan": "Users can upgrade from the free version to a paid plan at any time.",
+        "Contracts": "Flexible billing options are available. Discuss contract options during the demo."
+    }
+}

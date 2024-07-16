@@ -1,0 +1,136 @@
+```python
+pricing_info = {
+    "Free": {
+        "price": "$0 USD per user/month",
+        "features": [
+            "Unlimited public/private repositories",
+            "Automatic security and version updates",
+            "2,000 CI/CD minutes/month",
+            "500MB of Packages storage",
+            "Issues & Projects",
+            "Community support"
+        ],
+        "add_ons": [
+            "GitHub Copilot Access",
+            "GitHub Codespaces Access"
+        ]
+    },
+    "Team": {
+        "price": "$4 USD per user/month for the first 12 months",
+        "features": [
+            "Everything included in Free, plus...",
+            "Access to GitHub Codespaces",
+            "Protected branches",
+            "Multiple reviewers in pull requests",
+            "Draft pull requests",
+            "Code owners",
+            "Required reviewers",
+            "Pages and Wikis",
+            "Environment deployment branches and secrets",
+            "3,000 CI/CD minutes/month",
+            "2GB of Packages storage",
+            "Web-based support"
+        ],
+        "add_ons": [
+            "GitHub Copilot Access",
+            "GitHub Codespaces Access"
+        ]
+    },
+    "Enterprise": {
+        "price": "$21 USD per user/month for the first 12 months",
+        "features": [
+            "Everything included in Team, plus...",
+            "Enterprise Managed Users",
+            "User provisioning through SCIM",
+            "Enterprise Account to centrally manage multiple organizations",
+            "Environment protection rules",
+            "Repository rules",
+            "Audit Log API",
+            "SOC1, SOC2, type 2 reports annually",
+            "FedRAMP Tailored Authority to Operate (ATO)",
+            "SAML single sign-on",
+            "Advanced auditing",
+            "GitHub Connect",
+            "50,000 CI/CD minutes/month",
+            "50GB of Packages storage"
+        ],
+        "add_ons": [
+            "GitHub Advanced Security",
+            "Premium support"
+        ]
+    },
+    "Additional add-ons": {
+        "GitHub Copilot": "Starting at $10/month after a 30 day trial.",
+        "Codespaces": "Starting at $0.18 per hour of compute and $0.07 per GB of storage.",
+        "Large File Storage": "$5 per month for 50 GB bandwidth and 50 GB for storage.",
+        "GitHub Advanced Security": "$49 per month per active committer."
+    }
+}
+
+catalogue_comparison = {
+    "Code management": {
+        "Public repositories": "Unlimited for all plans",
+        "Private repositories": "Unlimited for all plans"
+    },
+    "Code workflow": {
+        "GitHub Codespaces": {
+            "Free": "$0 spend limit with policies and controls",
+            "Team": "Ability to increase spend limit",
+            "Enterprise": "Ability to increase spend limit"
+        },
+        "GitHub Actions": {
+            "Free": "2,000 minutes/month",
+            "Team": "3,000 minutes/month",
+            "Enterprise": "50,000 minutes/month"
+        },
+        "GitHub Packages": {
+            "Free": "500 MB",
+            "Team": "2GB",
+            "Enterprise": "50GB"
+        }
+    },
+    "Collaboration": {
+        "Collaborators for public repositories": "Unlimited for all plans",
+        "Collaborators for private repositories": {
+            "Free": "Unlimited",
+            "Team": "$4 per user/month",
+            "Enterprise": "$21 per user/month"
+        }
+    },
+    "Security and compliance": {
+        "Code scanning": {
+            "Free": "Public repositories",
+            "Team": "Public repositories",
+            "Enterprise": "Available with Advanced Security"
+        },
+        "Secret scanning": {
+            "Free": "Public repositories",
+            "Team": "Public repositories",
+            "Enterprise": "Available with Advanced Security"
+        },
+        "Dependency review": {
+            "Free": "Public repositories",
+            "Team": "Public repositories",
+            "Enterprise": "Available with Advanced Security"
+        }
+    },
+    "Support and deployment": {
+        "Community Support": "Included for all plans",
+        "Standard Support": {
+            "Free": "Not included",
+            "Team": "Included",
+            "Enterprise": "Included"
+        },
+        "Premium and Premium Plus Support": {
+            "Free": "Not available",
+            "Team": "Not available",
+            "Enterprise": "Available"
+        },
+        "Invoice billing": {
+            "Free": "Not included",
+            "Team": "Not included",
+            "Enterprise": "Included"
+        }
+    }
+}
+```

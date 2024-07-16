@@ -1,0 +1,142 @@
+```python
+typeform_pricing = {
+    "core_plans": {
+        "Basic": {
+            "price": "25 USD/mo",
+            "annual_savings": "58 USD/yr",
+            "features": [
+                "100 responses/mo included",
+                "1 user",
+                "Unlimited typeforms",
+                "Unlimited questions"
+            ]
+        },
+        "Plus": {
+            "price": "50 USD/mo",
+            "annual_savings": "118 USD/yr",
+            "features": [
+                "1,000 responses/mo included",
+                "3 users",
+                "Everything in Basic",
+                "Remove Typeform branding",
+                "Custom subdomain"
+            ]
+        },
+        "Business": {
+            "price": "83 USD/mo",
+            "annual_savings": "198 USD/yr",
+            "features": [
+                "10,000 responses/mo included",
+                "5 users",
+                "Everything in Plus",
+                "Drop-off rates",
+                "Conversion tracking",
+                "Priority support and live chat"
+            ]
+        },
+        "Enterprise": {
+            "price": "Custom",
+            "features": [
+                "Tailored response limits and seats",
+                "VIP support and dedicated outcomes manager",
+                "Custom domains and branding",
+                "Single Sign-On (SSO)",
+                "HIPAA and GDPR compliance available",
+                "Select preferred data center"
+            ]
+        }
+    },
+    "comparisons": {
+        "usage_limits": {
+            "Number of forms": "Unlimited",
+            "Questions per form": "Unlimited",
+            "Seats": {"Basic": 1, "Plus": 3, "Business": 5, "Enterprise": "Bespoke"},
+            "Monthly response base": {"Basic": 100, "Plus": 1,000, "Business": 10,000, "Enterprise": "Bespoke"},
+            "Maximum monthly response limit": {"Basic": 750, "Plus": 2,500, "Business": 50,000, "Enterprise": "Bespoke"}
+        },
+        "be_on_brand": {
+            "Start with a template": True,
+            "Add your brand logo": True,
+            "Customize your form’s metadata": True,
+            "Apply premium themes": {"Basic": False, "Plus": True, "Business": True, "Enterprise": True},
+            "Remove Typeform branding from your forms": {"Basic": False, "Plus": True, "Business": True, "Enterprise": True},
+            "Create a brand kit": {"Basic": False, "Plus": False, "Business": True, "Enterprise": True},
+            "Create custom links for different forms": {"Basic": False, "Plus": False, "Business": True, "Enterprise": True},
+            "Create a custom subdomain for your account": {"Basic": False, "Plus": True, "Business": True, "Enterprise": True},
+            "Add custom fonts (Coming soon!)": {"Basic": False, "Plus": False, "Business": True, "Enterprise": True},
+            "Connect a custom domain to your account": {"Basic": False, "Plus": False, "Business": True, "Enterprise": True}
+        },
+        "customize_your_forms": {
+            "Multiple endings per form": True,
+            "Add logic to your forms": True,
+            "Recall information": True,
+            "Add scores and calculations to your forms": True,
+            "Create a quiz": True,
+            "Add custom variables": True,
+            "Personalize with hidden fields": True,
+            "Create forms in multiple languages": True,
+            "Add video questions": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True},
+            "Prevent spam submissions with reCAPTCHA": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True}
+        },
+        "share_and_embed": {
+            "Embed forms": True,
+            "Set up custom launch options for embedded forms": True,
+            "Set forms to close on submit": True
+        },
+        "connect_your_apps": {
+            "integrations": ["Zapier", "Airtable", "Google Sheets", "Hubspot", "Pipedrive", "Mailchimp", "Slack", "Calendly", "Salesforce", "Google Analytics", "Google Tag Manager", "Meta Pixel"]
+        },
+        "automate_your_workflows": {
+            "Number of follow-ups per form": "Unlimited",
+            "Set up conditions for follow-ups": True,
+            "Set up email notifications": True,
+            "Set up automated lead scoring": True,
+            "Set up automated lead routing": True,
+            "Send follow-up emails to respondents": True,
+            "Redirect respondents to a webpage": True,
+            "B2B data enrichment": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True}
+        },
+        "generate_insights_and_optimize_performance": {
+            "Download responses": True,
+            "View form performance metrics": True,
+            "Visualize performance over time": True,
+            "Access question by question insights": True,
+            "Receive performance optimization tips": True,
+            "Smart Insights": True,
+            "Ask AI": True
+        },
+        "capture_more": {
+            "Receive file uploads": {"Basic": "1 GB", "Plus": "2 GB", "Business": "4 GB", "Enterprise": "4 GB"},
+            "Accept payments": True,
+            "Collect partial responses": True,
+            "Collect video answers": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True}
+        },
+        "security_and_compliance": {
+            "Ensure GDPR Compliance": True,
+            "Set up Single Sign-On (SSO)": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True},
+            "Set up two-factor authentication (2FA)": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True},
+            "Ensure HIPAA Compliance": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True},
+            "Choose your preferred data center (US or EU)": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True}
+        },
+        "account_management": {
+            "See user login activity": True,
+            "Add users to Organizations and Workspaces": True,
+            "Assign user roles and permissions": True,
+            "Add users on Organization viewer seats": True,
+            "Download team activity": True
+        },
+        "developer_tools": {
+            "Access Typeform’s APIs": True,
+            "Add Block references": True,
+            "Add webhooks": True
+        },
+        "support": {
+            "Standard support": True,
+            "Live chat support": {"Basic": False, "Plus": True, "Business": True, "Enterprise": True},
+            "Priority support": {"Basic": False, "Plus": False, "Business": True, "Enterprise": True},
+            "VIP onboarding and training": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True},
+            "Customer Outcomes Manager": {"Basic": False, "Plus": False, "Business": False, "Enterprise": True}
+        }
+    }
+}
+```

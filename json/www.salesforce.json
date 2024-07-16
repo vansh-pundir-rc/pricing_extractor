@@ -1,0 +1,198 @@
+```python
+salesforce_pricing = {
+    "editions": {
+        "Starter Suite": {
+            "price": "$24 USD/User/Month**",
+            "billed": "Monthly or Annually",
+            "features": [
+                "Simplified Setup and Onboarding",
+                "Lead, Account, Contact, and Opportunity Management",
+                "Email Integration and Automated Activity Capture"
+            ],
+            "try_for_free": True
+        },
+        "Pro Suite": {
+            "price": "$100 USD/User/Month",
+            "billed": "Annually",
+            "features": [
+                "Greater Customisation and Automation",
+                "Sales Quoting and Forecasting",
+                "Enhanced, Real-Time Chat"
+            ],
+            "try_for_free": True
+        },
+        "Enterprise": {
+            "price": "$165 USD/User/Month",
+            "billed": "Annually",
+            "features": [
+                "Advanced Pipeline Management & Deal Insights",
+                "Conversation Intelligence",
+                "Workflow and Approvals Automation"
+            ],
+            "try_for_free": True
+        },
+        "Unlimited": {
+            "price": "$330 USD/User/Month",
+            "billed": "Annually",
+            "features": [
+                "Predictive AI",
+                "Conversation Intelligence and Sales Engagement",
+                "Premier Success Plan and Full Sandbox"
+            ],
+            "try_for_free": True
+        },
+        "Einstein 1 Sales": {
+            "price": "$500 USD/User/Month",
+            "billed": "Annually",
+            "features": [
+                "Einstein Copilot powered by Generative AI",
+                "Performance Management, Sales Programs, and Team Collaboration with Slack",
+                "Connect and Unify All Data with Data Cloud and Revenue Intelligence"
+            ],
+            "try_for_free": False,
+            "contact_us": True
+        }
+    },
+    "comparison": {
+        "top_features": {
+            "Account, Contact, Lead, and Opportunity Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Advanced Forecast & Pipeline Management": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Sales Engagement & Conversation Intelligence": ["Enterprise*", "Unlimited", "Einstein 1 Sales"],
+            "Premier Success Plan": ["Unlimited", "Einstein 1 Sales"],
+            "Generative AI": ["Unlimited", "Einstein 1 Sales"],
+            "Unified Data": ["Unlimited", "Einstein 1 Sales"],
+            "Sales Planning, Programs & Collaboration": ["Einstein 1 Sales"]
+        },
+        "built_in_ai": {
+            "Einstein Activity Capture": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Einstein Relationship Insights": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Buyer Assistant": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Conversation Insights": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Email Insights": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Lead Scoring": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Opportunity Scoring": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Deal Insights": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Einstein Forecasting": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Einstein Copilot": ["Unlimited", "Einstein 1 Sales"]
+        },
+        "find_and_progress_leads": {
+            "Lead Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Lead Assignment and Routing": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Lead Scoring": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Duplicate Blocking": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Web-to-Lead Capture": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Mass Email": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Email Productivity": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Campaign Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Email Templates": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "To Do List": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Campaign Influence": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "manage_customer_and_sales_details": {
+            "Account and Contact Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Opportunity Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Customisable Sales Process": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Task Management, Activity Feed": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Person Accounts": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Sales Console Apps": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Sales Teams": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Salesforce Meetings": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "sell_from_anywhere_on_any_device": {
+            "Salesforce Mobile App": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Sales Cloud Everywhere": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Full Offline Mobile Functionality": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "forecast_and_analyse_your_business": {
+            "Customisable Reports and Dashboards": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Advanced Reporting Features": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Forecasting": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Embedded Forecast Charts": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Forecasting Mobile App": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Opportunity Splits": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Enterprise Territory Management": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "manage_your_pipeline": {
+            "Opportunity Management": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Opportunity Scoring": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Pipeline Inspection": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Deal Insights": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Waterfall Chart": ["Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "create_and_track_quotes_and_orders": {
+            "Contracts": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Orders": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Products and Price Books": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Quotes": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "collaborate_across_your_company_more_easily": {
+            "Files": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Topics and Recommendations": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Chatter": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Case Management": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Knowledge": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Slack Sales Elevate": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Slack": ["Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "customise_and_automate_processes": {
+            "Flow Builder": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Flow Orchestration": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Approval Processes": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Lightning App Builder": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "AppExchange": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Data Storage Per User": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "File Storage Per User": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Unlimited Custom Applications": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Customisable Profiles and Page Layouts": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Roles and Permissions": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Record Types (Per Object)": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Developer Sandbox": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Developer Pro Sandbox": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Partial Sandbox": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Full Sandbox": ["Unlimited", "Einstein 1 Sales"],
+            "Lightning Platform": ["Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"]
+        },
+        "connect_sales_data_to_any_app": {
+            "Email Integration with Outlook": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Email Integration with Gmail": ["Starter Suite", "Pro Suite", "Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Web Services API": ["Enterprise", "Unlimited", "Einstein 1 Sales"],
+            "Data Synchronisation & Harmonisation": ["Enterprise", "Unlimited", "Einstein 1 Sales"]
+        }
+    },
+    "add_ons": {
+        "Einstein for Sales": "From $75 USD/user/month",
+        "Sales Programs": "From $100 USD/user/month",
+        "Revenue Intelligence": "From $220 USD/user/month",
+        "Configure Price and Quote (CPQ)": "From $75 USD/user/month",
+        "Partner Relationship Management": "From $25 USD/user/month",
+        "Sales Team Productivity": "From $60 USD/user/month"
+    },
+    "success_plans": {
+        "Standard Success Plan": {
+            "price": "Included in all licenses",
+            "features": [
+                "Access to Knowledge Articles, documentation, and Trailhead",
+                "Global Trailblazer community"
+            ]
+        },
+        "Premier Success Plan": {
+            "price": "30% of net license fees",
+            "features": [
+                "Expert guidance and product education",
+                "Health checks and recommendations",
+                "Access to 24/7 support for business-stopping issues",
+                "Bundled with Unlimited Edition"
+            ]
+        },
+        "Signature Success Plan": {
+            "price": "Contact your account executive",
+            "features": [
+                "Designated Customer Success Manager",
+                "Customer Success Score",
+                "Proactive Monitoring and Key Event Management",
+                "Fastest 24x7 support response times"
+            ]
+        }
+    }
+}
+```

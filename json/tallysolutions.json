@@ -1,0 +1,32 @@
+{
+    "Products": {
+        "TallyPrime": "Fast and Powerful Business Management Software for your growing business",
+        "TallyPrime Server": "Enterprise Class Product to improve your business efficiencies",
+        "TallyPrime powered by AWS": "TallyPrime on AWS solution to access TallyPrime license and data virtually",
+        "Shoper 9": "A Complete Retail Enterprise Solution",
+        "Tally Software Services": "Collection of Connected Services for TallyPrime",
+        "TallyPrime Developer": "Develop, and deploy solutions for TallyPrime with a comprehensive development suite",
+        "Extensions & Custom Solutions": "Extend and Customize your Tally to fulfill specific business needs & boost efficiency"
+    },
+    "Features": {
+        "Accounting": "Simplify & streamline your business’s accounting processes by automating it with TallyPrime",
+        "Inventory Management": "Fast, flexible & faultless tracking and management of stock & inventory",
+        "e-Invoice": "Easy & automatic generation of error-free e-invoices with IRN and QR code in seconds",
+        "Taxation & Compliance": "Precise bookkeeping & GST returns filing for hassle-free tax compliance",
+        "TallyPrime with WhatsApp": "Share invoices & documents instantly"
+    },
+    "Pricing": {
+        "TallyPrime Monthly Subscription": "Price not specified",
+        "TallyPrime Lifetime License": "Price not specified"
+    },
+    "Comparisons": {
+        "TallyPrime vs TallyPrime Server": {
+            "TallyPrime": "Fast and Powerful Business Management Software for your growing business",
+            "TallyPrime Server": "Enterprise Class Product to improve your business efficiencies"
+        },
+        "TallyPrime vs TallyPrime powered by AWS": {
+            "TallyPrime": "Fast and Powerful Business Management Software for your growing business",
+            "TallyPrime powered by AWS": "TallyPrime on AWS solution to access TallyPrime license and data virtually"
+        }
+    }
+}

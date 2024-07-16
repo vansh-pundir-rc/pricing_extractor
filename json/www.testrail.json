@@ -1,0 +1,99 @@
+```python
+testrail_pricing = {
+    "plans": {
+        "Professional Cloud": {
+            "price_per_year": 408,
+            "price_per_user": True,
+            "features": [
+                "Unlimited projects",
+                "Test cases and suites",
+                "Test runs, plans, and milestones",
+                "Defect and requirements integrations",
+                "Traceability and coverage reporting",
+                "TestRail API"
+            ],
+            "billing_options": ["Annually", "Monthly"],
+            "additional_info": "Get 1 month free with annual billing!"
+        },
+        "Enterprise Cloud": {
+            "price_per_year": 826,
+            "price_per_user": True,
+            "features": [
+                "All the benefits of Professional, plus:",
+                "Single sign-on (SSO)",
+                "Advanced auditing",
+                "Test case version control & approvals",
+                "Test parameterization",
+                "Project admin permissions",
+                "Priority support"
+            ],
+            "billing_options": ["Annually", "Monthly"],
+            "additional_info": "Get 1 month free with annual billing!"
+        },
+        "Enterprise Server": {
+            "features": [
+                "All the benefits of Professional, plus:",
+                "Single sign-on (SSO)",
+                "Advanced auditing",
+                "Test case version control & approvals",
+                "Test parameterization",
+                "Project admin permissions",
+                "Priority support"
+            ]
+        }
+    },
+    "comparison": {
+        "Test Management": {
+            "Unlimited projects": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Test cases and suites": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Custom test case templates": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Test runs, plans, and milestones": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Dashboard and reports": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Test parameterization": ["Enterprise Cloud", "Enterprise Server"],
+            "Test case approvals": ["Enterprise Cloud", "Enterprise Server"],
+            "Test case versioning": ["Enterprise Cloud", "Enterprise Server"]
+        },
+        "Integration and Customization": {
+            "Import and export via CSV or XML": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Reference & defect integrations": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "TestRail Integration for Jira": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "RESTful API": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Customizable UI scripts": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Customizable email notifications": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"]
+        },
+        "Security & Compliance": {
+            "Role-based access control": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Custom roles and user groups": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Project administrator permissions": ["Enterprise Cloud", "Enterprise Server"],
+            "Audit log": ["Enterprise Cloud", "Enterprise Server"],
+            "Single sign-on (SSO) via SAML, OAuth, and OpenID Connect": ["Enterprise Cloud", "Enterprise Server"],
+            "LDAP and AD support": ["Enterprise Cloud", "Enterprise Server"],
+            "IP allow list": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Automatic daily backups": ["Professional Cloud", "Enterprise Cloud"],
+            "Custom backup schedule and on-demand restore": ["Professional Cloud", "Enterprise Cloud"]
+        },
+        "Support": {
+            "Standard support": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Priority support (2-hour response SLA)": ["Enterprise Cloud", "Enterprise Server"],
+            "Onboarding / training sessions": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Prepaid billing": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"],
+            "Invoice billing": ["Professional Cloud", "Enterprise Cloud", "Enterprise Server"]
+        },
+        "Deployment": {
+            "API Rate Limit": {
+                "Professional Cloud": "180 requests / minute",
+                "Enterprise Cloud": "300 requests / minute",
+                "Enterprise Server": "N/A"
+            },
+            "Storage Limit": {
+                "Professional Cloud": "50 GB",
+                "Enterprise Cloud": "500 GB",
+                "Enterprise Server": "N/A"
+            },
+            "Self-hosted deployment": {
+                "Enterprise Server": "Windows, Unix & Docker"
+            }
+        }
+    }
+}
+```

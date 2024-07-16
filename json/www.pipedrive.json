@@ -1,0 +1,111 @@
+```python
+pricing_info = {
+    "plans": {
+        "Essential": {
+            "description": "Get organized and set up simple sales processes quickly",
+            "price_per_seat_per_month_annual": 12,
+            "features": [
+                "Lead, calendar and pipeline management",
+                "Seamless data import and 400+ integrations",
+                "Activity, deal and contact reports",
+                "Personalized onboarding"
+            ]
+        },
+        "Advanced": {
+            "description": "Never miss the next step with easy-to-use email and automations",
+            "price_per_seat_per_month_annual": 24,
+            "features": [
+                "Essential Plan +",
+                "Full email sync with templates, open and click tracking and group emailing",
+                "Automations builder, including email sequences",
+                "Meeting, email and video call scheduling",
+                "Live chat support"
+            ]
+        },
+        "Professional": {
+            "description": "Optimize performance with more customizations and reporting",
+            "price_per_seat_per_month_annual": 49,
+            "features": [
+                "Advanced Plan +",
+                "AI-powered Sales Assistant and emailing tools",
+                "Contract and proposal management with e-signatures",
+                "Streamlined lead routing and team management",
+                "Revenue forecasts and custom field reporting",
+                "Extra data entry and data quality settings"
+            ]
+        },
+        "Power": {
+            "description": "Empower larger teams with flexible collaboration and support",
+            "price_per_seat_per_month_annual": 59,
+            "features": [
+                "Professional Plan +",
+                "Project planning, tracking and delivery",
+                "Increased control of account permissions and visibilities",
+                "24/7 live chat support",
+                "Phone support"
+            ]
+        },
+        "Enterprise": {
+            "description": "Experience Pipedrive without limits and have ultimate peace of mind",
+            "price_per_seat_per_month_annual": 79,
+            "features": [
+                "Power Plan +",
+                "Enhanced security preferences",
+                "Complete access to all features",
+                "Unlimited reports and customizations",
+                "Maximize the number of automations and email syncs per seat"
+            ]
+        }
+    },
+    "add_ons": {
+        "LeadBooster": {
+            "description": "Powerful and easy-to-use lead generation tool set",
+            "features": [
+                "Chatbot",
+                "Live Chat",
+                "Prospector",
+                "Web Forms",
+                "Scheduler"
+            ],
+            "price_per_company_per_month_annual": 32.50,
+            "price_per_company_per_month_monthly": 39
+        },
+        "Web Visitors": {
+            "description": "Identify which organizations are browsing your website",
+            "price_per_company_per_month_annual": 41,
+            "price_per_company_per_month_monthly": 49
+        },
+        "Campaigns": {
+            "description": "Create and send customizable email campaigns with pro templates",
+            "price_per_company_per_month_annual": 13.33,
+            "price_per_company_per_month_monthly": 16
+        },
+        "Smart Docs": {
+            "description": "Centralize the entire documentation process",
+            "features": [
+                "Autofill documents with Pipedrive data",
+                "Integrate with Google Docs, Slides, Sheets or MS Docs",
+                "Track open documents in real time",
+                "Request eSignatures",
+                "Set up shared templates",
+                "Remove the Pipedrive logo"
+            ],
+            "price_per_company_per_month_annual": 32.50,
+            "price_per_company_per_month_monthly": 39,
+            "free_with_professional_enterprise": True
+        },
+        "Projects": {
+            "description": "Online project management add-on to map out complex projects",
+            "features": [
+                "Project templates",
+                "Multiple projects kanban boards",
+                "Projects automations",
+                "Tasks and sub-tasks",
+                "Files, notes and mentions"
+            ],
+            "price_per_user_per_month_annual": 6.70,
+            "price_per_user_per_month_monthly": 8
+        }
+    }
+}
+```

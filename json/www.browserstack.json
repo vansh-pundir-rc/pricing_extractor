@@ -1,0 +1,172 @@
+{
+  "Desktop": {
+    "price": "$29/month",
+    "billed": "annually",
+    "features": [
+      "Instant Access to 3000+ Desktop Browsers",
+      "Unlimited Testing Minutes",
+      "All Windows & Mac Versions (since 2008)",
+      "Localhost, Staging, and Private Website Testing",
+      "Page Performance & Insights via SpeedLab",
+      "Bulk Screenshots Testing",
+      "Responsiveness Testing",
+      "Absolute Security, Guaranteed",
+      "Active Support via Chat & Emails",
+      "Idle session timeout limit up to 10 mins"
+    ]
+  },
+  "Desktop & Mobile": {
+    "price": "$39/month",
+    "billed": "annually",
+    "features": [
+      "20,000+ Real iOS & Android Device Units",
+      "Instant Access to Mobile Browsers",
+      "Proprietary Mobile DevTools for Quick Debugging",
+      "Localhost, Staging, and Private Website Testing Across Devices",
+      "19 Data Centres Across 13 Global Locations"
+    ]
+  },
+  "Team": {
+    "price": "$150/month",
+    "billed": "annually",
+    "features": [
+      "5 users",
+      "Team Access to 20,000+ Real iOS & Android Device Units",
+      "Collaborative Debugging & Testing with Mobile DevTools",
+      "Increased Productivity with Bookmarks & Integrations like Jira, Slack, Github & more",
+      "Test Real World Scenarios by Network Throttling",
+      "Geolocation Testing from 100+ Different Countries",
+      "Access Team's Test History & Instantly Relaunch Same Sessions",
+      "Exclude Internal Traffic from Google Analytics"
+    ]
+  },
+  "Team Pro": {
+    "price": "$199/month",
+    "billed": "annually",
+    "features": [
+      "5 users",
+      "Test Payments made via Apple Pay & Google Pay on Real Devices",
+      "2FA with OTP/SMS & Interrupt testing with SIM-enabled device",
+      "Test on multiple devices simultaneously",
+      "Configure Safari browser settings on iOS devices for cross site tracking",
+      "Accessibility settings on iOS",
+      "Test voice input and audio recording via microphones",
+      "Upload & download docs, images, pdfs, sheets & more",
+      "Customise advanced settings like dark mode, iOS timezone & more",
+      "Inject QR Codes, Barcodes on real mobile devices",
+      "Set time and change different timezones",
+      "Idle session timeout limit extended up to 25 mins"
+    ]
+  },
+  "Enterprise": {
+    "price": "Contact Sales",
+    "features": [
+      "Advanced Access Control",
+      "Single Sign-On",
+      "IP Whitelisting",
+      "Advanced Local Testing",
+      "Usage Analytics",
+      "Priority Support"
+    ]
+  },
+  "Automate TurboScale - Small Grid": {
+    "price": "$299/month",
+    "billed": "annually",
+    "parallel tests": 10,
+    "features": [
+      "Unlimited Test Minutes",
+      "Setup on-demand grids on different cloud providers like Azure, GCP & AWS",
+      "Get intelligent insights and recommendations on Infrastructure usage",
+      "Video support for tests in Headless mode",
+      "Access to all major browsers (Chrome, Firefox, Edge)",
+      "Improve productivity by integrating with your existing CI/CD tools",
+      "Test your websites in dev and staging environments",
+      "Gain instant insights with a unified dashboard for Queued and Historical Tests & Builds",
+      "Active support via Chat & Emails",
+      "Integrate with frameworks like Selenium, Cypress, Playwright",
+      "Run tests on Linux and Windows machines",
+      "Smartly orchestrate your tests and builds to prioritize critical pipelines"
+    ]
+  },
+  "Automate TurboScale - Medium Grid": {
+    "price": "$999/month",
+    "billed": "annually",
+    "parallel tests": 100,
+    "features": [
+      "Unlimited Test Minutes",
+      "Setup on-demand grids on different cloud providers like Azure, GCP & AWS",
+      "Get intelligent insights and recommendations on Infrastructure usage",
+      "Video support for tests in Headless mode",
+      "Access to all major browsers (Chrome, Firefox, Edge)",
+      "Improve productivity by integrating with your existing CI/CD tools",
+      "Test your websites in dev and staging environments",
+      "Gain instant insights with a unified dashboard for Queued and Historical Tests & Builds",
+      "Active support via Chat & Emails",
+      "Integrate with frameworks like Selenium, Cypress, Playwright",
+      "Run tests on Linux and Windows machines",
+      "Smartly orchestrate your tests and builds to prioritize critical pipelines"
+    ]
+  },
+  "Automate TurboScale - Large Grid": {
+    "price": "Starts from $2999/month",
+    "billed": "annually",
+    "parallel tests": 1000+,
+    "features": [
+      "Unlimited Test Minutes",
+      "Setup on-demand grids on different cloud providers like Azure, GCP & AWS",
+      "Get intelligent insights and recommendations on Infrastructure usage",
+      "Video support for tests in Headless mode",
+      "Access to all major browsers (Chrome, Firefox, Edge)",
+      "Improve productivity by integrating with your existing CI/CD tools",
+      "Test your websites in dev and staging environments",
+      "Gain instant insights with a unified dashboard for Queued and Historical Tests & Builds",
+      "Active support via Chat & Emails",
+      "Integrate with frameworks like Selenium, Cypress, Playwright",
+      "Run tests on Linux and Windows machines",
+      "Smartly orchestrate your tests and builds to prioritize critical pipelines"
+    ]
+  },
+  "Low Code Automation - Free": {
+    "price": "Free",
+    "features": [
+      "Unlimited Users",
+      "100 cloud test executions",
+      "Unlimited Tests Creation",
+      "Visually validate any element or container",
+      "Automated Intelligent configuration of Wait Time-out",
+      "AI generated Test Data",
+      "Localhost, Staging and Private Website Testing",
+      "Group tests into Test Suites",
+      "Immediate Email Notification of Build result",
+      "Debug with Video Recording",
+      "Test beyond UI with API Steps",
+      "Automatic Browser Upgrades",
+      "Reduce Maintenance with Modules"
+    ]
+  },
+  "Low Code Automation - Essentials": {
+    "price": "Starts from $329/month",
+    "billed": "annually",
+    "test executions": "500+",
+    "features": [
+      "Schedule Test Suites to run automatically",
+      "Data Driven Testing",
+      "Debug with Console & Network Logs from Browser",
+      "Cross-browser Testing",
+      "Mobile Browser Testing",
+      "Speed up builds with Parallel Tests",
+      "Integrate with CI/CD Tools",
+      "Add more information to tests with Tags"
+    ]
+  },
+  "Low Code Automation - Enterprise": {
+    "price": "Contact Sales",
+    "features": [
+      "Single Sign-On",
+      "IP Whitelisting",
+      "Priority Support",
+      "Dedicated Solutions Engineer",
+      "Dedicated Customer Success Manager"
+    ]
+  }
+}

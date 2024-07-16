@@ -1,0 +1,60 @@
+```python
+ahrefs_pricing = {
+    "plans": {
+        "pricing_details": "We’ve been crawling the entire web 24/7 since 2010, indexing and structuring petabytes of information. Get access to these insights with an Ahrefs subscription and use them to improve your business.",
+        "faq": {
+            "discounts_trials": "We never run discounts. But if you're a website owner, you can sign up for Ahrefs Webmaster Tools to get free limited access to Site Explorer & Site Audit.",
+            "payment_methods": "We accept Visa, Mastercard, American Express and UnionPay. For Enterprise plans, we also support wire transfers on request.",
+            "automatic_charges": "Yes. If not prepaid for, additional users are automatically charged on a pay-as-you-go basis. Also, if you enable additional pay-as-you-go credits and data, you’ll be automatically charged when consumption exceeds your plan’s limits.",
+            "contracts_setup_fees": "There are no contracts or setup fees. You can switch your plan or cancel your Ahrefs subscription at any time.",
+            "switch_plan": "Upgrade or downgrade your account anytime from your Account Settings. Upgrades take effect immediately, while downgrades and cancellations become effective at the end of your current billing period.",
+            "purchase_tool": "No, we don’t offer tools separately. Ahrefs plans include access to all our tools.",
+            "cancel_plan": "Cancel your plan anytime from your Account Settings. When you cancel, you’ll still be able to use your plan until the end of your subscription period. After your paid subscription ends, you’ll be switched to a free Ahrefs Webmaster Tools plan with free limited access to Site Explorer & Site Audit.",
+            "annual_billing": "Please contact our support team at support@ahrefs.com.",
+            "charges_additional_data": "Once you enable additional pay-as-you-go credits and data, you’ll be automatically charged when consumption exceeds your plan’s limits. If you’re on an annual plan, you can choose to prepay at a discounted rate.",
+            "unused_data": "Yes. PAYG purchases such as report credits, export rows, crawl credits, and API units, last for three billing months, including the current one.",
+            "refund_policy": "Ahrefs does not issue refunds in general. For monthly subscriptions, you can request for a refund if you haven't used the service, but we may decline your request if we see any material activity in your account.",
+            "integrations": "When you use the Integrations applications developed by our partners, you use rows from your monthly data rows limit."
+        }
+    },
+    "core_tools": [
+        "Dashboard",
+        "Site Explorer",
+        "Keywords Explorer",
+        "Site Audit",
+        "Rank Tracker",
+        "Content Explorer"
+    ],
+    "free_seo_tools": [
+        "Backlink Checker",
+        "Broken Link Checker",
+        "Website Authority Checker",
+        "Keyword Generator",
+        "YouTube Keyword Tool",
+        "Amazon Keyword Tool",
+        "Bing Keyword Tool",
+        "SERP Checker",
+        "SEO Toolbar",
+        "WordPress Plugin",
+        "Keyword Rank Checker",
+        "Keyword Difficulty Checker",
+        "Website Checker",
+        "AI Writing tools",
+        "SEO Audit Tool"
+    ],
+    "extra_tools_features": [
+        "Domain Comparison",
+        "Batch Analysis",
+        "Link Intersect",
+        "Content Gap",
+        "Email Alerts",
+        "SEO Checker",
+        "Word Count",
+        "Grammar Checker",
+        "Traffic Checker",
+        "Looker Studio Connectors",
+        "Top Websites",
+        "SEO Reporting"
+    ]
+}
+```

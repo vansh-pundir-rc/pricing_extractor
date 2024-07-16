@@ -1,0 +1,81 @@
+```python
+totango_pricing = {
+    "plans": {
+        "Starter": {
+            "description": "Get started and go faster with an easy-to-use platform designed to meet you wherever you are on your CS journey.",
+            "details": {
+                "users": "2 users (Practitioner seats)",
+                "customer_accounts": "500 customer accounts",
+                "teams": "1 team",
+                "emails_per_month": "2,000 emails per month",
+                "account_hierarchy": "Single account hierarchy"
+            }
+        },
+        "Enterprise": {
+            "description": "Efficiently scale customer success with solutions backed by enterprise-grade privacy, security, and customization.",
+            "details": {
+                "users": "10 users (Practitioner seats)",
+                "customer_accounts": "2,000 customer accounts",
+                "teams": "5 teams",
+                "health": "Multi-dimensional health",
+                "account_hierarchy": "Hierarchical account structure",
+                "emails_per_month": "10,000 emails per month",
+                "onboarding": "Accelerator + custom onboarding",
+                "add_ons": "Customize with add-ons"
+            },
+            "note": "Most Popular"
+        },
+        "Premier": {
+            "description": "Drive predictable growth through revenue retention with premium solutions designed to enhance customer experience.",
+            "details": {
+                "users": "20 users (Practitioner seats)",
+                "viewer_seats": "3 users (Viewer seats)",
+                "teams": "Unlimited teams",
+                "customer_accounts": "10,000 customer accounts",
+                "development_instance": "1 Development instance",
+                "CSM": "Designated enterprise CSM",
+                "opportunity_records": "10,000 opportunity records",
+                "add_ons": "Customize with add-ons"
+            }
+        }
+    },
+    "standard_features": [
+        "360° customer account profiles",
+        "Customer health score",
+        "Customer Experience Canvas",
+        "Customer journey templates (SuccessBLOCS)",
+        "Automated workflows (SuccessPlays)",
+        "Email campaigns",
+        "Self-paced onboarding",
+        "World-class customer support"
+    ],
+    "add_ons": {
+        "premium_features": {
+            "In-App experiences": "Design, build, and deploy in-app experiences to accelerate onboarding, improve adoption, and gather feedback based on your number of monthly active users.",
+            "Opportunity Management": "Identify expansion opportunities based on customer data and create opportunities in Totango that are synced to your CRM. Enterprise and Premier plans only"
+        },
+        "additional_features": {
+            "Practitioner seats": "Full Totango Composable CS platform access. Best for admins, CSMs, and other full-access users.",
+            "Contributor seats": "Limited platform access. See and add tasks, view notifications and customer health, and add customer touchpoints. Ideal for sales, support, and marketing. Enterprise and Premier plans only",
+            "Viewer seats": "Read-only access for leadership and team members who require visibility into customer data, health, and KPIs.",
+            "Customer accounts": "Add more accounts to your subscription as your business grows.",
+            "Email campaigns": "Add more email campaign volume as you scale your digital CS motion."
+        }
+    },
+    "faq": {
+        "more_seats_accounts_emails": "Seats, accounts, and blocks of emails can be added to your subscription for a fee. Please contact your account manager to upgrade your subscription.",
+        "accelerator_onboarding": "Accelerator Onboarding is included with your license and is designed to meet you where you are and get you up and running as fast as possible. The self-paced program guides you through the process of launching touchpoints, tasks, and SuccessBLOCS through a series of guided videos, knowledge articles, one-on-one meetings, and webinars.",
+        "customer_accounts": "A customer account is represented by a record that contains information about the customer, such as their name, address, contacts, contracts, subscription details, health, usage, customer engagement and any other relevant data. Optionally, you can model your products in Totango within the account structure. A \"product account\" provides your teams with a dedicated profile view of product information, including usage, health, and the ability to roll up information to parent levels.",
+        "hierarchical_account_structure": "In a hierarchical account structure, accounts are arranged in tree-like format, where each account is positioned at a specific level within the hierarchy. The structure typically starts with a single top-level account, often referred to as the root account or the parent account. From there, additional accounts are created, forming subsequent levels beneath the parent account.",
+        "multidimensional_health": "Multidimensional health is a way to calculate customer health scores using multiple weight variables and data points. Multidimensional health lets you set and customize the scoring of subcategories or dimensions within a health measurement. Drill down into each dimension for a proactive analysis of specific risk areas. Multidimensional health allows you to set and measure the health of your customers according to the operational priorities of your business.",
+        "team_definition": "A team is a group of users that can be organized manually or using your HR reporting hierarchy to control platform access and visibility. Teams are often grouped by department, product, or region.",
+        "seat_definitions": {
+            "practitioner_seat": "Practitioner seats are designed for admins, CSMs, and other users who require full access to the Totango Composable CS platform.",
+            "contributor_seat": "Contributor seats provide limited platform access, allowing users to see and add tasks, view notifications and customer health, add customer touchpoints, etc. This seat is ideal for customer-facing teams who partner with CS on customer activities such as Support, Sales, and Marketing.",
+            "viewer_seat": "Viewer seats offer read-only access for leadership and team members who require visibility into customer data, health, and KPIs."
+        },
+        "cancellation_policy": "Totango subscriptions are available for a one-year minimum commitment. However, monthly payment is available for the Starter plan. By choosing to pay in full, we offer a 5% discount at the time of purchase.",
+        "professional_services": "Professional services can be purchased as needed for projects that need additional resources from Totango. Most professional service engagements are with a Customer Success Engineer and/or an Implementation Manager to organize the project."
+    }
+}
+```

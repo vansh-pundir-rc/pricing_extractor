@@ -1,0 +1,191 @@
+```python
+pricing_info = {
+    "Pro": {
+        "monthly_price": {
+            "USD": 9,
+            "AUD": 14,
+            "CAD": 12,
+            "CHF": 8,
+            "DKK": 62,
+            "EUR": 8,
+            "GBP": 7,
+            "JPY": 1400,
+            "NOK": 98,
+            "NZD": 15,
+            "SEK": 97,
+            "SGD": 12,
+            "ZAR": 170
+        },
+        "yearly_price": {
+            "USD": 144,
+            "AUD": 228,
+            "CAD": 192,
+            "CHF": 130,
+            "DKK": 1020,
+            "EUR": 130,
+            "GBP": 114,
+            "JPY": 1800,
+            "NOK": 1560,
+            "NZD": 240,
+            "SEK": 1560,
+            "SGD": 192,
+            "ZAR": 2340
+        },
+        "features": [
+            "Unlimited free Viewers",
+            "Gantt, grid, card, and calendar view",
+            "Rich formulas",
+            "Unlimited sheets, forms, and reports",
+            "250 automations per month"
+        ],
+        "members": "1-10 Members, unlimited Viewers"
+    },
+    "Business": {
+        "monthly_price": {
+            "USD": 19,
+            "AUD": 29,
+            "CAD": 26,
+            "CHF": 17,
+            "DKK": 132,
+            "EUR": 17,
+            "GBP": 15,
+            "JPY": 3000,
+            "NOK": 207,
+            "NZD": 32,
+            "SEK": 205,
+            "SGD": 25,
+            "ZAR": 359
+        },
+        "yearly_price": {
+            "USD": 228,
+            "AUD": 348,
+            "CAD": 312,
+            "CHF": 204,
+            "DKK": 1584,
+            "EUR": 204,
+            "GBP": 180,
+            "JPY": 3700,
+            "NOK": 2484,
+            "NZD": 384,
+            "SEK": 2484,
+            "SGD": 300,
+            "ZAR": 4308
+        },
+        "features": [
+            "Includes Pro plan features",
+            "Unlimited free Guests",
+            "Timeline view",
+            "Team workload tracking",
+            "Admin capabilities",
+            "Unlimited automations",
+            "1 TB attachment storage"
+        ],
+        "members": "3+ Members, unlimited Guests and Viewers"
+    },
+    "Enterprise": {
+        "price": "Custom pricing",
+        "features": [
+            "Includes Business plan features",
+            "AI formulas, texts, and charts",
+            "SAML-based SSO",
+            "WorkApps",
+            "Work Insights",
+            "Enterprise Plan Manager",
+            "Unlimited attachment storage",
+            "Directory integrations"
+        ]
+    },
+    "comparison": {
+        "Essential features": {
+            "Sheets": "Unlimited",
+            "Grid view": "Included",
+            "Gantt view": "Included",
+            "Calendar view": "Included",
+            "Card view": "Included",
+            "Timeline view": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            },
+            "Dashboards": "Unlimited",
+            "Reports": "Unlimited",
+            "Forms": "Unlimited",
+            "Conditional form logic": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            },
+            "Templates": "Included",
+            "Widgets per dashboard": {
+                "Pro": 10,
+                "Business": "Unlimited",
+                "Enterprise": "Unlimited"
+            },
+            "Sheets per report": {
+                "Pro": 1,
+                "Business": "Unlimited",
+                "Enterprise": "Unlimited"
+            },
+            "Mobile app": "Included",
+            "Private sheets and reports": "Included",
+            "Export sheet": "Included",
+            "Team workload tracking": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            }
+        },
+        "Formulas and functions": {
+            "Column types": "Included",
+            "Cell formulas": "Included",
+            "Column formulas": "Included",
+            "Cross-sheet formulas": "Included",
+            "Dependencies": "Included",
+            "Filters": "Included",
+            "Conditional formatting": "Included",
+            "Cell history": "Included",
+            "Cell linking": "Included",
+            "Lock or unlock rows and columns": "Included",
+            "Baselines": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            },
+            "Report grouping and summary": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            },
+            "Activity log": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            }
+        },
+        "Sharing": {
+            "Members": {
+                "Pro": "Max 10",
+                "Business": "Min 3",
+                "Enterprise": "Custom"
+            },
+            "Provisional Members": "Included",
+            "Viewers": "Included",
+            "Guests": {
+                "Pro": "Not included",
+                "Business": "Included",
+                "Enterprise": "Included"
+            },
+            "File/Attachment storage": {
+                "Pro": "20 GB",
+                "Business": "1 TB",
+                "Enterprise": "Unlimited"
+            },
+            "Maximum attachment size": {
+                "Pro": "30 MB",
+                "Business": "250 MB",
+                "Enterprise": "250 MB"
+            }
+        }
+    }
+}
+```

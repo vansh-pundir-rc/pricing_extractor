@@ -1,0 +1,87 @@
+```python
+pricing_info = {
+    "Free": {
+        "No of bots": 1,
+        "Channels": 2,
+        "Custom integrations (APIs)": 1,
+        "Custom dashboards (data explorer)": "No",
+        "Agents limit": 2,
+        "Out-of-box integrations": "Limited",
+        "MTU": "100/month",
+        "User360": "Max 1000 records/1000 transactions",
+        "Campaign management": "1 active campaign/Max 10 templates",
+        "Code access": "No",
+        "Custom events": "No"
+    },
+    "Enterprise": {
+        "No of bots": "Unlimited",
+        "Channels": "All",
+        "Custom integrations (APIs)": "Unlimited",
+        "Custom dashboards (data explorer)": "Yes",
+        "Agents limit": "Unlimited",
+        "Out-of-box integrations": "Unlimited",
+        "MTU": "Usage based pricing",
+        "User360": "Unlimited/1000 transactions per user FU",
+        "Campaign management": "Unlimited active campaigns/Unlimited templates",
+        "Code access": "Yes",
+        "Custom events": "Yes"
+    }
+}
+
+catalogue = {
+    "Platform": {
+        "Customer service automation platform": "A multi-LLM architecture, continuously trained on billions of conversations for scalability, speed, and accuracy for enterprises.",
+        "AI agents": ["Voice & calls", "Text & instant messaging", "Email automation"],
+        "AI assistants": ["Omnichannel agent assist"],
+        "AI analytics": ["Real-time reports and dashboards"],
+        "Marketplace": "Build high quality dynamic AI agents 2x faster and accelerate productivity",
+        "Integrations": "Go live in an instant with 100+ plug-n-play integrations"
+    },
+    "Integrations": {
+        "Yellow.ai + Zendesk": "Revolutionize Customer Service with Yellow.ai & Zendesk Sunshine Conversations",
+        "Yellow.ai + Genesys": "Transform contact center operations with Yellow.ai and Genesys",
+        "Yellow.ai + Freshdesk": "Drive powerful customer & employee experiences with Yellow.ai & Freshworks",
+        "Yellow.ai + HubSpot": "Turn your leads into loyal customers with Yellow.ai and Hubspot"
+    },
+    "Solutions": {
+        "By Use Cases": ["Customer service", "Employee Experience"],
+        "By Industry": ["BFSI", "Healthcare", "Utilities", "Retail", "Other Industries"]
+    },
+    "LLMs": {
+        "YellowG LLM": "Instant setup, faster response times and less than 1% hallucinations",
+        "Orchestrator LLM": "Industry-first LLM for contextual conversations with zero training",
+        "Komodo 7B": "Indonesia’s first LLM for customer support, available in 11+ languages"
+    },
+    "Resources": {
+        "Contextual customer conversations with zero training": "Read more",
+        "Create goal-oriented campaigns by YellowG zero setup": "Read more",
+        "Unveiling Komodo-7B for regional Indonesian languages": "Watch now"
+    }
+}
+
+comparison = {
+    "Pricing": {
+        "Free vs Enterprise": {
+            "No of bots": "1 vs Unlimited",
+            "Channels": "2 vs All",
+            "Custom integrations (APIs)": "1 vs Unlimited",
+            "Custom dashboards (data explorer)": "No vs Yes",
+            "Agents limit": "2 vs Unlimited",
+            "Out-of-box integrations": "Limited vs Unlimited",
+            "MTU": "100/month vs Usage based pricing",
+            "User360": "Max 1000 records/1000 transactions vs Unlimited/1000 transactions per user FU",
+            "Campaign management": "1 active campaign/Max 10 templates vs Unlimited active campaigns/Unlimited templates",
+            "Code access": "No vs Yes",
+            "Custom events": "No vs Yes"
+        }
+    }
+}
+
+data = {
+    "pricing_info": pricing_info,
+    "catalogue": catalogue,
+    "comparison": comparison
+}
+
+print(data)
+```

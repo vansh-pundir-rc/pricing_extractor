@@ -1,0 +1,153 @@
+```python
+pricing_info = {
+    "Creative Cloud All Apps": {
+        "description": "Get 20+ Creative Cloud apps including Photoshop, Illustrator, Adobe Express, Premiere Pro and Acrobat Pro. (Substance 3D apps are not included.)",
+        "save": "58%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "apps_included": [
+            "Acrobat Pro", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects", "Lightroom", 
+            "XD", "Animate", "Lightroom Classic", "Dreamweaver", "Audition", "InCopy", "Character Animator", 
+            "Capture", "Fresco", "Bridge", "Adobe Express", "Adobe Firefly", "Photoshop Express", "Media Encoder", 
+            "Aero", "Scan", "Fill & Sign", "Acrobat Reader"
+        ],
+        "secure_transaction": True
+    },
+    "Photography": {
+        "description": "Lightroom, Lightroom Classic, Photoshop for Desktop and iPad and 20 GB of cloud storage.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Acrobat Standard": {
+        "description": "Simple PDF tool to easily edit and convert documents.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Acrobat Pro": {
+        "description": "Create, edit, sign and manage your PDFs — quickly, easily, anywhere.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Photoshop": {
+        "description": "Create beautiful graphics, photos and art on desktop, web and iPad. Comes with Adobe Fresco for drawing and painting.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Adobe Premiere Pro": {
+        "description": "Professional video and film editing.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Illustrator": {
+        "description": "Create precise designs, Illustrations and vector graphics on desktop and iPad.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Adobe Express": {
+        "description": "Design flyers, TikToks, resumes and Reels with the new, all-in-one Adobe Express.",
+        "save": "50%",
+        "inclusive_of_GST": True,
+        "subscription": "Annual",
+        "cancellation_policy": "Cancel within 14 days for a full refund.",
+        "secure_transaction": True
+    },
+    "Adobe Firefly": {
+        "description": "Use everyday language to create extraordinary results with generative AI.",
+        "inclusive_of_GST": True,
+        "secure_transaction": True
+    },
+    "InDesign": {
+        "description": "Page design and layout for print and digital media.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "After Effects": {
+        "description": "Create motion graphics and visual effects for film, TV, video and web.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Lightroom plan with 1 TB": {
+        "description": "Edit, organise, store and share photos from anywhere.",
+        "save": "60%",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "AI Assistant for Acrobat": {
+        "description": "Ask your documents questions for quick answers and one-click summaries. Works with Acrobat Pro, Acrobat Standard and Acrobat Reader.",
+        "inclusive_of_GST": True,
+        "early_access_price_end_date": "4 Sep. 2024",
+        "secure_transaction": True
+    },
+    "Audition": {
+        "description": "Audio recording, mixing and restoration.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Animate": {
+        "description": "Design interactive vector animations for multiple platforms.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Adobe Substance 3D Collection": {
+        "description": "Model, texture and render 3D assets and scenes. Download 50 3D assets per month.",
+        "inclusive_of_GST": True,
+        "secure_transaction": True,
+        "apps_included": [
+            "Adobe Substance 3D Modeler", "Adobe Substance 3D Sampler", "Adobe Substance 3D Designer", 
+            "Adobe Substance 3D Painter", "Adobe Substance 3D Stager", "Adobe Substance 3D Assets"
+        ]
+    },
+    "Adobe Substance 3D Texturing": {
+        "description": "Create, capture and paint 3D materials.",
+        "inclusive_of_GST": True,
+        "secure_transaction": True
+    },
+    "Dreamweaver": {
+        "description": "Design and develop modern, responsive websites.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "InCopy": {
+        "description": "Make text edits and layout modifications without affecting designs.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    },
+    "Adobe Stock": {
+        "description": "Access millions of royalty-free stock images, videos, templates, and more — all in the same plan.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Get 10 standard assets free with a 30-day free trial.",
+        "secure_transaction": True,
+        "payment_plans": [
+            "Annual plan, paid monthly", 
+            "Annual plan, prepaid", 
+            "Monthly plan"
+        ],
+        "cancellation_policy": "Cancel risk-free within the first 30 days."
+    },
+    "Photography (1 TB)": {
+        "description": "Lightroom, Lightroom Classic, Photoshop on desktop and iPad and 1 TB of cloud storage.",
+        "inclusive_of_GST": True,
+        "additional_offer": "Add a 30-day free trial of Adobe Stock.",
+        "secure_transaction": True
+    }
+}
+```

@@ -1,0 +1,34 @@
+```python
+{
+    "Pricing": {
+        "Overview": "Our pricing packages are tailored to your individual needs and unique workflow.",
+        "Included": {
+            "Flat Platform Access Fee": "Covers data maintenance, set-up, onboarding, and 24-7 live chat support.",
+            "Unrestricted Access": "All users get unrestricted access to the data included in their package."
+        },
+        "Integrations": "Included in every package. Integrates with popular CRMs and Sales Engagement tools such as Salesforce, Hubspot, Outreach, and Salesloft.",
+        "Packages": {
+            "Platinum": {
+                "Contact Data": ["Email", "Direct Dial", "Mobile", "Title", "Location", "Skills"],
+                "Company Data": ["Industry", "Location", "Revenue", "Employees", "Founded Date", "Technologies"],
+                "Events": ["Hiring", "Funding", "Job Join"],
+                "Access": ["Unrestricted views", "individual & page-level exporting", "Global Database"],
+                "Platform": ["List Building Web App", "CSV Enrichment (Bulk Credits dependent)", "Individual Prospecting Browser Extension", "CRM Integrations"]
+            },
+            "Diamond": {
+                "Contact Data": ["Email", "Direct Dial", "Mobile", "Title", "Location", "Skills", "Phone-Verified Mobile Numbers"],
+                "Company Data": ["Industry", "Location", "Revenue", "Employees", "Founded Date", "Technologies"],
+                "Events": ["Hiring", "Funding", "Job Join", "Intent Data (Bombora)"],
+                "Access": ["Unrestricted views", "individual & page-level exporting", "Global Database", "Diamond Data® (phone-verified mobile numbers) filtering", "Phone Number Verification on Demand AKA Diamonds on Demand®"],
+                "Platform": ["List Building Web App", "CSV Enrichment (Bulk Credits dependent)", "Individual Prospecting Browser Extension", "CRM Integrations"]
+            }
+        }
+    },
+    "Comparisons": {
+        "Cognism vs Zoominfo": "See How We Compare",
+        "Cognism vs Lusha": "See How We Compare",
+        "Cognism vs Apollo": "See How We Compare",
+        "Cognism vs Other Providers": "See How We Compare"
+    }
+}
+```

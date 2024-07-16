@@ -1,0 +1,139 @@
+```python
+pricing_information = {
+    "Pricing Strategy": {
+        "Free Tier": {
+            "Description": "Most of GitLab functionality is and will be available for free.",
+            "Value": [
+                "Awareness/Mindshare",
+                "Product Familiarity/Training",
+                "Advocacy/Internal Champion",
+                "Contributions/Community",
+                "Third party support/Platform",
+                "Enable product-led growth & Reduce Customer Acquisition Cost",
+                "User habit/Retention lever"
+            ]
+        },
+        "Paid Tiers": {
+            "Description": "Include features that are more relevant for managers, directors, and executives.",
+            "Tiers": {
+                "Premium": {
+                    "Per user per month": "$29",
+                    "Who cares most about the feature": "Directors",
+                    "Main competitor": "GitHub Enterprise",
+                    "Type of sell": "Benefit/solution"
+                },
+                "Ultimate": {
+                    "Per user per month": "$99",
+                    "Who cares most about the feature": "Executives",
+                    "Main competitor": "Veracode, Checkmarx",
+                    "Type of sell": "Transformation"
+                }
+            }
+        },
+        "Pricing Philosophy": {
+            "Collaboration": "We want to keep the trust of our customers through a pricing approach that supports long-lasting customer relationships.",
+            "Results": "We aim to get a great ROI for our customers while maximizing IACV for GitLab over the long-term.",
+            "Efficiency": "Our pricing approach should be easy to understand, plan, and order.",
+            "Diversity, Inclusion and Belonging": "We build GitLab to be the best option for a wide variety of organizations, including educational institutions and organizations in different geographic regions.",
+            "Iteration": "We want to encourage the full scope of GitLab to be adopted over time.",
+            "Transparency": "We are public and explicit about what our pricing is based on."
+        },
+        "Pricing Methodology": {
+            "Value Proposition": [
+                "Development cost reduction",
+                "Revenue gain due to decreased time to market",
+                "Improved reliability and security",
+                "Greater and more effective collaboration",
+                "Emotional contribution of having delighted users"
+            ],
+            "Customer Collaboration": "Regular engagements with customers to understand the value of solutions and willingness to pay.",
+            "Competitive Landscape": "Understand competition and reflect differential value in pricing.",
+            "Mutual Success": "Support long-lasting customer relationships and consider cost to serve and margins."
+        },
+        "Three Tiers": {
+            "Self-Managed/SaaS tier": ["Free", "Premium", "Ultimate"],
+            "Prices": {
+                "Per user per month": {
+                    "Free": "$0",
+                    "Premium": "$29",
+                    "Ultimate": "$99"
+                }
+            },
+            "Buyer Based Tiering Clarification": {
+                "Free": "Single developer, purchasing decision by that person",
+                "Premium": "Team(s) usage, purchasing decision by Directors",
+                "Ultimate": "Strategic organizational usage, purchasing decision by Execs"
+            },
+            "Examples": {
+                "Kanban Boards": {
+                    "Project and Group Boards": "Free",
+                    "Issue Weight on Boards": "Premium",
+                    "Multiple Group Issue Boards": "Premium",
+                    "Issue Board Epic Swimlanes": "Ultimate"
+                },
+                "Merge Requests": {
+                    "Merge conflict resolution": "Free",
+                    "Merge approvals": "Premium",
+                    "Merge request reviews": "Premium"
+                },
+                "Pipelines": {
+                    "Built in CI Pipelines": "Free",
+                    "Show pipeline code coverage rate": "Premium",
+                    "Pipeline dashboards": "Premium",
+                    "Downloadable all pipeline logs": "Ultimate"
+                }
+            }
+        }
+    },
+    "True-up pricing": {
+        "Description": "License/sale never blocks user growth.",
+        "Charge": "100% for users added during the year"
+    },
+    "Consumption pricing principles": [
+        "Price is 5x the on-demand cost of the clouds",
+        "User flexibility to bring their own resources",
+        "Prepay vs. postpay",
+        "Manual vs. automatic ordering",
+        "Recurring vs. non-recurring",
+        "Refundable vs. non-refundable",
+        "Per user vs. per namespace"
+    ],
+    "Price difference between self-managed and SaaS": {
+        "Arguments to charge more for SaaS": [
+            "Higher costs for GitLab",
+            "Logical in revenue recognition"
+        ],
+        "Arguments to make them equal": [
+            "Self-managed pricing tends to be higher",
+            "More market demand for self-managed",
+            "No incentive for sales to sell SaaS over self-managed",
+            "Incentivize customers to move to SaaS"
+        ]
+    },
+    "Annual pricing": {
+        "Description": "Annual, up-front pricing is currently our only offering.",
+        "Supporting arguments": [
+            "Helps recover costs of acquiring, onboarding, and supporting a customer",
+            "Enables reinvestment to speed delivery of new product capabilities for customers",
+            "Aids customer self-selection and commitment to drive to successful deployment",
+            "Can be offered at a discount relative to monthly pricing",
+            "Costs are lower for sales, billing, and customer support",
+            "Better customer experience"
+        ]
+    },
+    "Only sell a suite": {
+        "Description": "We decided to only offer a suite that includes all our products.",
+        "Advantages": [
+            "Easier for organizations to adopt other products",
+            "Show customers the benefit of a single application",
+            "More usage of all products",
+            "Harder to displace the suite once it is in place"
+        ],
+        "Mitigation of risks": [
+            "Offer an Ultimate tier that is great value",
+            "Make a discount conditional on not using part of the product",
+            "Work extra hard on communicating differences"
+        ]
+    }
+}
+```

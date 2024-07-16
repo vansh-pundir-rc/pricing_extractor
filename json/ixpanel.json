@@ -1,0 +1,90 @@
+```python
+mixpanel_pricing = {
+    "plans": {
+        "Free": {
+            "description": "Measure your personal project",
+            "price": "Free",
+            "monthly_events": "Up to 20 million monthly events",
+            "features": [
+                "Analytics essentials",
+                "Templates to get started quickly",
+                "Access to the largest analytics Slack community"
+            ]
+        },
+        "Growth": {
+            "description": "Find product-market fit",
+            "price": "From $28/month for 10K events, price scales with events",
+            "features": [
+                "All features in Free, plus:",
+                "Advanced analytics",
+                "Unlimited saved reports and cohorts",
+                "Platform API access",
+                "Group Analytics & Data Pipelines add-ons"
+            ]
+        },
+        "Enterprise": {
+            "description": "Self-serve answers at scale",
+            "price": "Let's chat",
+            "monthly_events": "Up to 1 trillion monthly events",
+            "features": [
+                "All features in Growth, plus:",
+                "Data warehouse ingestion",
+                "Data governance and access controls",
+                "Automated provisioning and SSO",
+                "Custom pricing and terms",
+                "Premium support and services"
+            ]
+        }
+    },
+    "startups": {
+        "description": "Startups that were founded less than 5 years ago, with up to $8M in total funding, can receive their first year free on the Mixpanel Growth plan.",
+        "offer": "First year is free"
+    },
+    "comparisons": {
+        "saved_reports": {
+            "Free": "5 per seat",
+            "Growth": "Unlimited",
+            "Enterprise": "Unlimited"
+        },
+        "monthly_events": {
+            "Free": "Up to 20M",
+            "Growth": "Up to 20M",
+            "Enterprise": "Up to 1T"
+        },
+        "seats": {
+            "Free": "Unlimited",
+            "Growth": "Unlimited",
+            "Enterprise": "Unlimited"
+        },
+        "spark_ai_query_builder": {
+            "Free": "30 queries / month",
+            "Growth": "60 queries / month",
+            "Enterprise": "300 queries / month"
+        },
+        "data_management": {
+            "lookup_tables": {
+                "Free": "Limited",
+                "Growth": "Available",
+                "Enterprise": "Available"
+            },
+            "data_warehouse_export": {
+                "Free": "Add-on",
+                "Growth": "Add-on",
+                "Enterprise": "Included"
+            }
+        },
+        "support": {
+            "slack_community": {
+                "Free": "Available",
+                "Growth": "Available",
+                "Enterprise": "Available"
+            },
+            "email_support": {
+                "Free": "Available",
+                "Growth": "Standard Support",
+                "Enterprise": "24/7 Support"
+            }
+        }
+    }
+}
+```

@@ -1,0 +1,153 @@
+```python
+pricing_info = {
+    "plans": {
+        "Essential": {
+            "price_per_seat_per_month": 39,
+            "features": [
+                "Shared inbox",
+                "Fin AI Agent",
+                "Ticketing system",
+                "Fin AI Copilot",
+                "Macros",
+                "AI Compose",
+                "Public help center",
+                "Unlimited articles",
+                "Basic automation",
+                "Proactive support"
+            ]
+        },
+        "Advanced": {
+            "price_per_seat_per_month": 99,
+            "features": [
+                "Shared inbox",
+                "Fin AI Agent",
+                "Team inboxes",
+                "Fin AI Copilot",
+                "Ticketing system",
+                "AI Compose",
+                "AI Autofill",
+                "AI Summarize",
+                "Public help center",
+                "Tickets portal",
+                "Private help center",
+                "Unlimited articles",
+                "Proactive support",
+                "Side conversations",
+                "Multilingual help center",
+                "Workflows for advanced automation"
+            ]
+        },
+        "Expert": {
+            "price_per_seat_per_month": 139,
+            "features": [
+                "Shared inbox",
+                "Fin AI Agent",
+                "Team inboxes",
+                "Fin AI Copilot",
+                "Ticketing system",
+                "AI Compose",
+                "AI Autofill",
+                "AI Summarize",
+                "Public help center",
+                "Tickets portal",
+                "Private help center",
+                "Unlimited articles",
+                "Proactive support",
+                "Side conversations",
+                "Multilingual help center",
+                "Workflows for advanced automation",
+                "Multiple help centers",
+                "Workload management",
+                "Multibrand messenger",
+                "Single sign-on",
+                "Real-time dashboard"
+            ]
+        },
+    },
+    "addons": {
+        "Proactive Support Plus": {
+            "price_per_month": 99,
+            "features": [
+                "Product tours",
+                "Surveys",
+                "Mobile carousels",
+                "Checklists",
+                "News items",
+                "Push notifications",
+                "Posts",
+                "Series campaign builder",
+                "Including 500 messages sent/month"
+            ]
+        },
+        "Fin AI Copilot": {
+            "price_per_seat_per_month": 35,
+            "features": [
+                "Free to use in 10 tickets or conversations per agent/month",
+                "Unlimited usage with upgrade",
+                "Conversation history",
+                "External & internal sources",
+                "Reporting",
+                "Multilingual"
+            ]
+        }
+    },
+    "usage_charges": {
+        "Fin AI Agent": {
+            "price_per_resolution": 0.99,
+            "features": [
+                "Fin AI Answers",
+                "Fin Custom Answers",
+                "Multiple content sources",
+                "Content targeting",
+                "Workflows for Fin (only Advanced and Expert plans)"
+            ]
+        },
+        "WhatsApp": {
+            "price_per_conversation": "From $0.03 to $0.10"
+        },
+        "SMS": {
+            "price_per_sms": "From $0.01 to $0.09"
+        },
+        "Email campaigns": {
+            "price_per_email": "From $0.00025 to $0.045"
+        },
+        "Phone calls": {
+            "price_per_minute": "From $0.0035"
+        }
+    },
+    "comparisons": {
+        "Help Desk": {
+            "features": [
+                "Shared inbox",
+                "Basic chatbots and automations",
+                "AI Compose",
+                "Ticketing system",
+                "Public help center",
+                "Unlimited articles & collections",
+                "Multiple team inboxes (Advanced and Expert plans)",
+                "Workflows for advanced automations (Advanced and Expert plans)",
+                "Workload management (Expert plan)",
+                "Multiple help centers (Expert plan)"
+            ]
+        },
+        "Channels": {
+            "features": [
+                "Live chat",
+                "Inbound email",
+                "Social (Advanced and Expert plans)",
+                "Billed on usage: Email campaigns, SMS, WhatsApp, Phone"
+            ]
+        },
+        "Platform": {
+            "features": [
+                "Custom objects",
+                "Custom events",
+                "Pre-built reports",
+                "Custom reports (Advanced and Expert plans)",
+                "Custom roles (Expert plan)",
+                "SSO & identity management (Expert plan)"
+            ]
+        }
+    }
+}
+```

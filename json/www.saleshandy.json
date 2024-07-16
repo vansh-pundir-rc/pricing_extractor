@@ -1,0 +1,223 @@
+```python
+pricing_catalogue = {
+    "plans": {
+        "Outreach Starter": {
+            "monthly_price": 36,
+            "annual_price": 25,
+            "features": {
+                "Unlimited Email Accounts": True,
+                "Sender Rotation Starter": "3 email accounts allowed per sequence",
+                "Unified Inbox Starter": "Last 15 conversations will be visible and reply & forward functions won’t be allowed",
+                "Agency Portal with Unlimited Clients": True,
+                "Email Warm-up": "5 Email Accounts",
+                "Total Prospects": 2000,
+                "Emails Per Month": 10000,
+                "Email Verification Credits": 2500
+            }
+        },
+        "Outreach Pro": {
+            "monthly_price": 99,
+            "annual_price": 74,
+            "features": {
+                "Everything in Outreach Starter": True,
+                "Unlimited Team Members": True,
+                "Sender Rotation Pro": "25 Email Accounts Allowed Per Sequence",
+                "Unified Inbox Pro": "Full access to all the conversations with no restrictions on actions",
+                "Salesforce Integration": True,
+                "Zapier Integration": True,
+                "Hubspot Integration": True,
+                "Pipedrive Integration": True,
+                "Zoho Integration": True,
+                "Webhooks": True,
+                "Email Warm-up": "20 Email Accounts",
+                "Total Prospects": 30000,
+                "Emails Per Month": 125000,
+                "Email Verification Credits": 10000
+            }
+        },
+        "Outreach Scale": {
+            "monthly_price": 199,
+            "annual_price": 149,
+            "features": {
+                "Everything in Outreach Pro": True,
+                "Unlimited Teams": True,
+                "Sender Rotation Scale": "50 email accounts allowed per sequence",
+                "Email Warm-up": "50 Email Accounts",
+                "Total Prospects": 60000,
+                "Emails Per Month": 250000,
+                "Email Verification Credits": 25000
+            }
+        },
+        "Outreach Scale Plus": {
+            "monthly_price": 299,
+            "annual_price": 219,
+            "features": {
+                "Everything in Outreach Scale": True,
+                "Dedicated Success Manager": True,
+                "Email Warm-up": "75 Email Accounts",
+                "Total Prospects": 100000,
+                "Emails Per Month": 350000,
+                "Email Verification Credits": 45000
+            }
+        }
+    },
+    "add_on_service": {
+        "Email Verification": {
+            "price": 60,
+            "recipients": 30000
+        }
+    },
+    "comparison": {
+        "Unlimited Email Accounts": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Unlimited Team Members": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Unlimited Teams": {
+            "Outreach Starter": False,
+            "Outreach Pro": False,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Unlimited Sequences": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Unlimited 1:1 Email Tracking": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Agency Portal with Unlimited Clients": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Email Warm-up Accounts": {
+            "Outreach Starter": "5",
+            "Outreach Pro": "20",
+            "Outreach Scale": "50",
+            "Outreach Scale Plus": "75"
+        },
+        "Sender Rotation": {
+            "Outreach Starter": "3 Emails",
+            "Outreach Pro": "25 Emails",
+            "Outreach Scale": "50 Emails",
+            "Outreach Scale Plus": "Custom Limit"
+        },
+        "Unified Inbox": {
+            "Outreach Starter": "Limited",
+            "Outreach Pro": "Full Access",
+            "Outreach Scale": "Full Access",
+            "Outreach Scale Plus": "Full Access"
+        },
+        "A-Z Testing (Multivariant)": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Salesforce Integration": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Zapier Integration": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Hubspot Integration": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Pipedrive Integration": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Zoho Integration": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Webhooks": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Spintax": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Advanced Warm-up Settings": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Total Prospects": {
+            "Outreach Starter": 2000,
+            "Outreach Pro": 30000,
+            "Outreach Scale": 60000,
+            "Outreach Scale Plus": "100000 - 500000"
+        },
+        "Monthly Emails": {
+            "Outreach Starter": 10000,
+            "Outreach Pro": 125000,
+            "Outreach Scale": 250000,
+            "Outreach Scale Plus": "350000 - 1,550,000"
+        },
+        "Email Verification Credits": {
+            "Outreach Starter": 2500,
+            "Outreach Pro": 10000,
+            "Outreach Scale": 25000,
+            "Outreach Scale Plus": "45000 - 65000"
+        },
+        "Advanced Reports": {
+            "Outreach Starter": True,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "1:1 User Success Call": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "Dedicated Success Manager": {
+            "Outreach Starter": False,
+            "Outreach Pro": False,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        },
+        "API": {
+            "Outreach Starter": False,
+            "Outreach Pro": True,
+            "Outreach Scale": True,
+            "Outreach Scale Plus": True
+        }
+    }
+}
+```

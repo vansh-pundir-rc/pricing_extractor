@@ -1,0 +1,126 @@
+{
+  "Pricing": {
+    "Free": {
+      "Description": "For teams getting started",
+      "Price": "$0 user/month",
+      "Key Features": [
+        "Web, desktop, and mobile apps",
+        "Project & task management",
+        "Board view",
+        "Table view",
+        "Active task limitations apply"
+      ]
+    },
+    "Team": {
+      "Description": "For growing teams",
+      "Price": "$9.80 user/month",
+      "Key Features": [
+        "2-25 users",
+        "Unlimited projects",
+        "Unlimited tasks & subtasks",
+        "Unlimited custom fields",
+        "Unlimited request forms",
+        "20 free collaborators",
+        "Interactive Gantt charts",
+        "Automations (50 actions/user/month)",
+        "Generative AI",
+        "Custom workflows",
+        "Chart view",
+        "Calendar view",
+        "Dashboards",
+        "Use case templates",
+        "Google Sign-In",
+        "External requester collaboration",
+        "Integrations & open API",
+        "2 GB storage per user"
+      ]
+    },
+    "Business": {
+      "Description": "For all teams across an organization",
+      "Price": "$24.80 user/month",
+      "Key Features": [
+        "5-200 users",
+        "Folder structure & nested projects",
+        "Cross-tagging",
+        "Project Blueprints",
+        "Custom item types",
+        "Automations (200 actions/user/month)",
+        "AI risk prediction & work creation",
+        "Approvals & guest approvals",
+        "File and video proofing (30+ file formats)",
+        "Resource management, workloads & time tracking",
+        "Reports and Unlimited Dashboards",
+        "User groups & permissions",
+        "DAM Integrations and Cloud Content Connector",
+        "Adobe Creative Cloud Extensions",
+        "5 GB storage per user"
+      ]
+    },
+    "Enterprise": {
+      "Description": "For large teams",
+      "Price": "Contact us",
+      "Key Features": [
+        "5 to unlimited users",
+        "SAML-based SSO",
+        "Two-Factor Authentication (2FA)",
+        "Password policies",
+        "Custom access roles",
+        "Customizable user types",
+        "Admin permissions",
+        "User audit reports",
+        "Automations (1000 actions/user/month)",
+        "10 GB storage per user"
+      ]
+    },
+    "Pinnacle": {
+      "Description": "For teams with complex work needs",
+      "Price": "Contact us",
+      "Key Features": [
+        "5 to unlimited users",
+        "Locked Spaces",
+        "Advanced reporting & BI",
+        "Team utilization and performance dashboard",
+        "Job roles",
+        "Budgeting and billable hours",
+        "Bookings (project-level effort & time planning)",
+        "SharePoint and HTML5 proofing and approvals",
+        "Automations (1500 actions/user/month)",
+        "15 GB storage per user"
+      ]
+    }
+  },
+  "Comparison": {
+    "Free vs Team": {
+      "Main Differences": [
+        "Price: Free vs $9.80 user/month",
+        "Active task limitations in Free plan vs Unlimited tasks & subtasks in Team plan",
+        "No Generative AI, Custom workflows, Chart view, Calendar view, Dashboards, Use case templates, Google Sign-In, External requester collaboration, Integrations & open API in Free plan"
+      ]
+    },
+    "Team vs Business": {
+      "Main Differences": [
+        "Price: $9.80 user/month vs $24.80 user/month",
+        "User limit: 2-25 users in Team plan vs 5-200 users in Business plan",
+        "Additional features in Business plan: Folder structure & nested projects, Cross-tagging, Project Blueprints, Custom item types, AI risk prediction & work creation, Approvals & guest approvals, File and video proofing, Resource management, workloads & time tracking, Reports and Unlimited Dashboards, User groups & permissions, DAM Integrations and Cloud Content Connector, Adobe Creative Cloud Extensions",
+        "Storage: 2 GB per user in Team plan vs 5 GB per user in Business plan"
+      ]
+    },
+    "Business vs Enterprise": {
+      "Main Differences": [
+        "Price: $24.80 user/month vs Contact us",
+        "User limit: 5-200 users in Business plan vs 5 to unlimited users in Enterprise plan",
+        "Additional features in Enterprise plan: SAML-based SSO, Two-Factor Authentication (2FA), Password policies, Custom access roles, Customizable user types, Admin permissions, User audit reports",
+        "Automations: 200 actions/user/month in Business plan vs 1000 actions/user/month in Enterprise plan",
+        "Storage: 5 GB per user in Business plan vs 10 GB per user in Enterprise plan"
+      ]
+    },
+    "Enterprise vs Pinnacle": {
+      "Main Differences": [
+        "Price: Contact us for both plans",
+        "Additional features in Pinnacle plan: Locked Spaces, Advanced reporting & BI, Team utilization and performance dashboard, Job roles, Budgeting and billable hours, Bookings (project-level effort & time planning), SharePoint and HTML5 proofing and approvals",
+        "Automations: 1000 actions/user/month in Enterprise plan vs 1500 actions/user/month in Pinnacle plan",
+        "Storage: 10 GB per user in Enterprise plan vs 15 GB per user in Pinnacle plan"
+      ]
+    }
+  }
+}

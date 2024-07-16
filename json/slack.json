@@ -1,0 +1,184 @@
+```python
+slack_pricing = {
+    "Free": {
+        "Description": "The quickest and easiest way to try Slack",
+        "Price": "₹0/mth",
+        "Features": {
+            "Message history": "90 days of message history",
+            "App integrations": "Ten app integrations",
+            "Audio and video meetings": "1:1 audio and video meetings",
+            "External messaging": "1:1 messages with people outside your organisation",
+            "Workspace": "One workspace",
+            "Workflows": "Unlimited workflows",
+            "Collaboration on lists and documents": "Included",
+            "User provisioning and deprovisioning": "Included",
+            "SAML-based single sign-on": "Included",
+            "Data exports": "Data exports for all messages",
+            "Support for DLP, e-discovery, and backup": "Included",
+            "HIPAA compliance": "Included",
+            "Employee directory": "Built-in employee directory"
+        }
+    },
+    "Pro": {
+        "Description": "More power for small teams who want better collaboration",
+        "Price": {
+            "Annual": "₹245.25/mth per active user",
+            "Monthly": "₹294.75 per active user"
+        },
+        "Features": {
+            "Message history": "Unlimited message history",
+            "App integrations": "Unlimited app integrations",
+            "Audio and video meetings": "Group audio and video meetings",
+            "External messaging": "Group messages with people outside your organisation",
+            "Workspace": "One workspace",
+            "Workflows": "Unlimited workflows",
+            "Collaboration on lists and documents": "Included",
+            "User provisioning and deprovisioning": "Included",
+            "SAML-based single sign-on": "Included",
+            "Data exports": "Data exports for all messages",
+            "Support for DLP, e-discovery, and backup": "Included",
+            "HIPAA compliance": "Included",
+            "Employee directory": "Built-in employee directory",
+            "Slack AI add-on": "Available"
+        }
+    },
+    "Business+": {
+        "Description": "Scale your business, increase productivity and keep your teams connected",
+        "Price": {
+            "Annual": "₹422.10/mth per active user",
+            "Monthly": "₹506.25 per active user"
+        },
+        "Features": {
+            "Message history": "Unlimited message history",
+            "App integrations": "Unlimited app integrations",
+            "Audio and video meetings": "Group audio and video meetings",
+            "External messaging": "Group messages with people outside your organisation",
+            "Workspace": "One workspace",
+            "Workflows": "Unlimited workflows",
+            "Collaboration on lists and documents": "Included",
+            "User provisioning and deprovisioning": "Included",
+            "SAML-based single sign-on": "Included",
+            "Data exports": "Data exports for all messages",
+            "Support for DLP, e-discovery, and backup": "Included",
+            "HIPAA compliance": "Included",
+            "Employee directory": "Built-in employee directory",
+            "Slack AI add-on": "Available"
+        }
+    },
+    "Enterprise Grid": {
+        "Description": "Maximise performance and productivity at every level of your enterprise",
+        "Price": "Contact sales for pricing",
+        "Features": {
+            "Message history": "Unlimited message history",
+            "App integrations": "Unlimited app integrations",
+            "Audio and video meetings": "Group audio and video meetings",
+            "External messaging": "Group messages with people outside your organisation",
+            "Workspace": "Unlimited workspaces",
+            "Workflows": "Unlimited workflows",
+            "Collaboration on lists and documents": "Included, including custom templates",
+            "User provisioning and deprovisioning": "Included",
+            "SAML-based single sign-on": "Supports multiple SAML configurations",
+            "Data exports": "Data exports for all messages",
+            "Support for DLP, e-discovery, and backup": "Included",
+            "HIPAA compliance": "Included",
+            "Employee directory": "Built-in employee directory",
+            "Slack AI add-on": "Available"
+        }
+    },
+    "Comparison": {
+        "Message history": {
+            "Free": "90-day access",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Slack huddles": {
+            "Free": "1:1 only",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Audio and video clips": {
+            "Free": "Included",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Work with external people": {
+            "Free": "1:1 only",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Slack canvases": {
+            "Free": "Channels and DMs only",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Slack lists": {
+            "Free": "Included",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Custom templates": {
+            "Enterprise Grid": "Included"
+        },
+        "Customisable sections": {
+            "Free": "Included",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Slack Atlas": {
+            "Pro": "Add-on",
+            "Business+": "Included"
+        },
+        "Slack AI": {
+            "Pro": "Add-on",
+            "Business+": "Add-on",
+            "Enterprise Grid": "Add-on"
+        },
+        "Integrations with other apps": {
+            "Free": "10",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Workflow Builder": {
+            "Free": "Included",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Custom workflow steps": {
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Deploy apps to Slack infrastructure": {
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Total published workflows or integrations with other apps": {
+            "Free": "Unlimited",
+            "Pro": "Unlimited",
+            "Business+": "Unlimited",
+            "Enterprise Grid": "Unlimited"
+        },
+        "Standard workflows": {
+            "Free": "Included",
+            "Pro": "Included",
+            "Business+": "Included",
+            "Enterprise Grid": "Included"
+        },
+        "Premium workflows": {
+            "Free": "1000 runs/month",
+            "Pro": "2000 runs/month",
+            "Business+": "5000 runs/month"
+        }
+    }
+}
+```

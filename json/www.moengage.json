@@ -1,0 +1,193 @@
+```python
+pricing_info = {
+    "plans": {
+        "Growth": {
+            "description": "Essential solutions to help your growing teams build and retain customers.",
+            "optimal_for": "Start-Up & Mid-Market Brands",
+            "features": [
+                "Personalize communication based on customer behavior and interactions.",
+                "Build omnichannel customer journeys using an easy-to-use visual editor.",
+                "Leverage AI and machine learning to optimize the timing and content of your campaigns.",
+                "Reach more customers on mobile devices with increased push notification delivery rates.",
+                "Interact with our team of in-house experts on customer engagement and reachability."
+            ]
+        },
+        "Enterprise": {
+            "description": "Essential solutions for multi-functional teams to create unique experiences for every customer across the globe.",
+            "optimal_for": "Enterprises",
+            "features": [
+                "Sync your product and content catalog to deliver hyper-personalized recommendations.",
+                "Automatically direct customers to the best-performing paths in your customer journey.",
+                "Improve security by managing access controls across multiple team members.",
+                "Get Enterprise-grade compliance with access to local data servers and IP whitelisting.",
+                "Quarterly business reviews with the MoEngage team to get access to our consultation service."
+            ]
+        },
+        "Inform": {
+            "description": "Unified Messaging Infrastructure for Multichannel Transactional Alerts",
+            "features": [
+                "Deliver time-sensitive transactional alerts across channels instantly.",
+                "Save 60% on your SMS and email spends and 95% of developer bandwidth.",
+                "Channel fallback mechanism switches to the next available channel in case of any failed deliveries.",
+                "Supports 30+ service providers with SDKs in all significant languages."
+            ]
+        },
+        "Personalize": {
+            "description": "Engage and convert website visitors with personalized web experiences",
+            "features": [
+                "Leverage the WYSIWYG editor to create personalized campaigns at scale.",
+                "Refine web experiences for customers based on predictions and affinities.",
+                "Run A/B tests and optimize with actionable insights.",
+                "Personalize for anonymous visitors based on device, location, traffic source, and more."
+            ]
+        }
+    },
+    "comparisons": {
+        "Channels": {
+            "Mobile App Push Notifications": {"Growth": True, "Enterprise": True},
+            "Web Push Notifications": {"Growth": True, "Enterprise": True},
+            "Email": {"Growth": True, "Enterprise": True},
+            "SMS": {"Growth": True, "Enterprise": True},
+            "In-app Messages": {"Growth": True, "Enterprise": True},
+            "On-site Messages": {"Growth": True, "Enterprise": True},
+            "Cards": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Whatsapp Native": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Personalize": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Facebook Audience Sync": {"Growth": True, "Enterprise": True},
+            "Google Ads Audience Sync": {"Growth": True, "Enterprise": True},
+            "Webhooks": {"Growth": True, "Enterprise": True},
+        },
+        "Basic Analytics": {
+            "Key Metrics": {"Growth": True, "Enterprise": True},
+            "Acquisition Analytics": {"Growth": True, "Enterprise": True},
+            "Uninstall Analytics": {"Growth": True, "Enterprise": True},
+        },
+        "Advanced Analytics": {
+            "Custom Dashboards": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "User Analysis": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Behavior Analytics": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Funnels": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Retention": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Session and Source": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "User Paths": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Open Analytics": {"Growth": "Add-on", "Enterprise": "Add-on"},
+        },
+        "Segmentation": {
+            "Attribute Segmentation": {"Growth": True, "Enterprise": True},
+            "Behavioral Segments": {"Growth": True, "Enterprise": True},
+            "Offline Segment Uploads": {"Growth": True, "Enterprise": True},
+            "RFM Segments": {"Growth": True, "Enterprise": True},
+            "Affinity Segments": {"Growth": True, "Enterprise": True},
+        },
+        "Campaign Management": {
+            "Broadcast Message to a Segment": {"Growth": True, "Enterprise": True},
+            "Event Triggered Messages": {"Growth": True, "Enterprise": True},
+            "Location Triggered Messages": {"Growth": True, "Enterprise": True},
+            "Device Triggered Messages": {"Growth": True, "Enterprise": True},
+            "Business Event Triggered Messages": {"Growth": True, "Enterprise": True},
+            "Campaign Tags": {"Growth": True, "Enterprise": True},
+            "Campaign Control Groups": {"Growth": True, "Enterprise": True},
+            "Global Control Groups": {"Growth": True, "Enterprise": True},
+            "Rich Push Templates": {"Growth": True, "Enterprise": True},
+            "Push Amplification+": {"Growth": True, "Enterprise": True},
+            "Personalised Message Previews": {"Growth": True, "Enterprise": True},
+            "Email Inbox Previews": {"Growth": True, "Enterprise": True},
+            "Localization": {"Growth": True, "Enterprise": True},
+            "A/B Testing": {"Growth": True, "Enterprise": True},
+            "Delivery Controls": {"Growth": True, "Enterprise": True},
+            "Campaign Analytics": {"Growth": True, "Enterprise": True},
+            "Campaign Attribution": {"Growth": True, "Enterprise": True},
+            "Campaign Reports": {"Growth": True, "Enterprise": True},
+            "Preference Management": {"Growth": True, "Enterprise": True},
+            "Campaign Statistics dashboard": {"Growth": True, "Enterprise": True},
+            "Push and SMS Template API's": {"Growth": True, "Enterprise": True},
+            "Alert Management": {"Growth": "System Alerts", "Enterprise": "System & Custom Alerts"},
+            "UTM Tracking": {"Growth": True, "Enterprise": True},
+            "Email Domain Reputation Tracking": {"Growth": True, "Enterprise": True},
+            "Content Blocks": {"Growth": True, "Enterprise": True},
+        },
+        "Flows": {
+            "Cross-channel Workflow Builder": {"Growth": True, "Enterprise": True},
+            "A/B Testing Branches": {"Growth": True, "Enterprise": True},
+            "Wait Till An Action or Certain Time Period": {"Growth": True, "Enterprise": True},
+            "Conditional Split": {"Growth": True, "Enterprise": True},
+            "Error Log": {"Growth": True, "Enterprise": True},
+            "Flow Sunsetting": {"Growth": True, "Enterprise": True},
+            "Debug Flows": {"Growth": True, "Enterprise": True},
+            "Flow Versioning": {"Growth": True, "Enterprise": True},
+            "Performance Analytics": {"Growth": True, "Enterprise": True},
+            "Flow Templates": {"Growth": True, "Enterprise": True},
+        },
+        "Personalize": {
+            "In-Session Attributes": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "In-Session User Behavior": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Multi-channel unified experiences (Web, App & others)": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Visual Website Editor": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Custom HTML/JS": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Product Recommendations": {"Growth": "Add-on", "Enterprise": "Add-on"},
+        },
+        "Inform": {
+            "Single API for Cross-Channel Messaging": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Channel Fallback": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Personalization Support": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Logs and Reporting": {"Growth": "Add-on", "Enterprise": "Add-on"},
+        },
+        "Intelligence": {
+            "Trigger Delay and Content Optimization": {"Growth": True, "Enterprise": True},
+            "Predictions": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Intelligent Path Optimizer": {"Growth": True, "Enterprise": True},
+            "Proactive Assistant": {"Growth": True, "Enterprise": True},
+            "Best Time to Send": {"Growth": True, "Enterprise": True},
+            "Most Preferred Channel": {"Growth": True, "Enterprise": True},
+            "Next Best Action in Flows": {"Growth": True, "Enterprise": True},
+            "Merlin AI Copywriter": {"Growth": True, "Enterprise": True},
+        },
+        "Message Content Personalization": {
+            "User Attributes": {"Growth": True, "Enterprise": True},
+            "Event Attributes": {"Growth": True, "Enterprise": True},
+            "Item Attribute based catalog filters": {"Growth": True, "Enterprise": True},
+            "User action based catalog filters": {"Growth": True, "Enterprise": True},
+            "Content API": {"Growth": True, "Enterprise": True},
+            "AI Recommendations": {"Growth": "Add-on", "Enterprise": "Add-on"},
+        },
+        "Data": {
+            "File User Imports": {"Growth": True, "Enterprise": True},
+            "AWS Data Imports": {"Growth": True, "Enterprise": True},
+            "Data Management": {"Growth": True, "Enterprise": True},
+            "Segment User Exports": {"Growth": True, "Enterprise": True},
+            "Streams": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Data Warehouse Exports": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Outbound Data Sync": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "App Marketplace": {"Growth": True, "Enterprise": True},
+        },
+        "User Management and Security": {
+            "Single Sign-On (SSO)": {"Growth": True, "Enterprise": True},
+            "2-Step Verification": {"Growth": True, "Enterprise": True},
+            "One Time Password (OTP) Verification": {"Growth": True, "Enterprise": True},
+            "Audit Logs": {"Growth": True, "Enterprise": True},
+            "Firewall": {"Growth": True, "Enterprise": True},
+            "PII Data Encryption": {"Growth": True, "Enterprise": True},
+            "PII Masking": {"Growth": True, "Enterprise": True},
+            "PII Tokenized Sending": {"Growth": "Add-on", "Enterprise": "Add-on"},
+            "Access Roles": {"Growth": True, "Enterprise": True},
+            "Teams": {"Growth": True, "Enterprise": True},
+            "Campaign Approval Workflow": {"Growth": True, "Enterprise": True},
+        },
+        "Customer Success and Support": {
+            "Online User/Developer Guide": {"Growth": True, "Enterprise": True},
+            "Online Helpdesk Support": {"Growth": True, "Enterprise": True},
+            "Access to Growth Academy and Knowledge Resources": {"Growth": True, "Enterprise": True},
+            "Implementation Services": {"Growth": "Speak to Sales", "Enterprise": "Speak to Sales"},
+            "Consultation Services and Business Reviews": {"Growth": "Speak to Sales", "Enterprise": "Speak to Sales"},
+        }
+    },
+    "custom_add_ons": [
+        "WhatsApp Native",
+        "Real-time Data Exports",
+        "AI-driven Predictions",
+        "Open Analytics",
+        "Content Cards",
+        "Outbound Segment Sync"
+    ]
+}
+```

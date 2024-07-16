@@ -1,0 +1,43 @@
+{
+    "Products & Capabilities": {
+        "eSignature": "Send, sign, and track documents",
+        "Contract Lifecycle Management": "Automate your contract lifecycle",
+        "Identify": "Add stronger authentication",
+        "Document Generation": "Automate document preparation",
+        "Web Forms": "Collect data and speed up signing",
+        "Electronic Notarization": "Send, sign, and notarize remotely",
+        "Multi-channel Delivery": "Send agreements from SMS or WhatsApp",
+        "APIs": "Integrate Docusign technologies"
+    },
+    "Platform Services": {
+        "Docusign Maestro": "Automate agreement workflows",
+        "Docusign Navigator": "Store, manage, and analyze agreements",
+        "Docusign AI": "Transform static agreement data",
+        "Docusign App Center": "Extend your Docusign experience"
+    },
+    "Applications": {
+        "Docusign IAM Core": "For all organizations and industries",
+        "Docusign IAM for Sales": "Streamline your quote-to-cash process",
+        "Docusign IAM for Customer Experience": "Build engaging customer journeys"
+    },
+    "Use Cases": {
+        "Human Resources": "Manage your hire-to-retire lifecycle",
+        "Legal": "Reduce risk and improve turnaround times",
+        "Procurement": "Transform the procure-to-pay process"
+    },
+    "Industries": [
+        "Financial Services",
+        "Insurance",
+        "Real Estate",
+        "Government"
+    ],
+    "Pricing": {
+        "eSignature Plans": {
+            "description": "We’ve got the right plan for you",
+            "Real Estate": "Docusign for REALTORS® now includes Real Estate Forms"
+        },
+        "IAM Plans": "Modernize your agreement process with intelligent agreement management",
+        "Enterprise Pricing": "Every organization is different. That’s why we use bespoke pricing to ensure you only pay for what you need.",
+        "API Plans": "Start simple or build for scale with robust APIs"
+    }
+}

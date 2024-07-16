@@ -1,0 +1,44 @@
+```python
+pricing_info = {
+    "For Individuals": {
+        "Basic": {
+            "price": "Unlock to view pricing",
+            "responses_per_year": 2500,
+            "full_users": 1,
+            "contacts": 10000,
+            "emails": 7500,
+            "features": ["Schedule surveys"]
+        },
+        "Starter": {
+            "price": "Unlock to view pricing",
+            "responses_per_year": 15000,
+            "full_users": 1,
+            "contacts": 20000,
+            "emails": 45000,
+            "features": ["Schedule reports"]
+        }
+    },
+    "For Teams": {
+        "Business": {
+            "price": "Unlock to view pricing",
+            "responses_per_year": 50000,
+            "full_users": 3,
+            "contacts": 200000,
+            "emails": 150000,
+            "features": ["Survey branding", "Password protected reports"]
+        },
+        "Professional": {
+            "price": "Unlock to view pricing",
+            "responses_per_year": 100000,
+            "full_users": 5,
+            "contacts": 200000,
+            "emails": 300000,
+            "features": ["Custom SMTP", "Two-Factor authentication"]
+        },
+        "Enterprise": {
+            "price": "Contact us",
+            "features": ["Complete branding", "Global throttling", "Custom data center", "Single Sign-On (SSO)"]
+        }
+    }
+}
+```

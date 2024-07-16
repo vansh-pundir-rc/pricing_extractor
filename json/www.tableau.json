@@ -1,0 +1,122 @@
+```python
+pricing_info = {
+    "Editions": {
+        "Tableau": {
+            "Description": "Our comprehensive software package to help you be more data-driven. Available on Tableau Cloud and Tableau Server."
+        },
+        "Enterprise": {
+            "Description": "Our advanced software package to help you explore and manage data faster. Available on Tableau Cloud and Tableau Server."
+        },
+        "Tableau+": {
+            "Description": "Our premium package to help you bring AI-powered analytics to every corner of your organization. Available on Tableau Cloud only. Contact Sales to learn more.",
+            "Pricing": "Contact Sales"
+        }
+    },
+    "Licenses": {
+        "Tableau Creator": {
+            "Includes": [
+                "Tableau Desktop",
+                "Tableau Prep Builder",
+                "Tableau Pulse",
+                "One Creator license on Tableau Cloud or Server"
+            ]
+        },
+        "Enterprise Creator": {
+            "Includes": [
+                "Tableau Desktop",
+                "Tableau Prep Builder",
+                "Tableau Pulse",
+                "One Creator license on Tableau Cloud or Server with Advanced Management and Data Management",
+                "A year of access to eLearning for Creators"
+            ]
+        },
+        "Tableau Explorer": {
+            "Includes": [
+                "Tableau Pulse",
+                "One Explorer license on Tableau Cloud or Server"
+            ]
+        },
+        "Enterprise Explorer": {
+            "Includes": [
+                "Tableau Pulse",
+                "One Explorer license on Tableau Cloud or Server with Advanced Management and Data Management",
+                "A year of access to eLearning for Explorers"
+            ]
+        },
+        "Tableau Viewer": {
+            "Includes": [
+                "Tableau Pulse",
+                "One Viewer license on Tableau Cloud or Server"
+            ]
+        },
+        "Enterprise Viewer": {
+            "Includes": [
+                "Tableau Pulse",
+                "One Viewer license on Tableau Cloud or Server with Advanced Management and Data Management"
+            ]
+        }
+    },
+    "Comparisons": {
+        "Editions Comparison": {
+            "Analytics": {
+                "Tableau": "Author, Govern, and Collaborate",
+                "Enterprise": "Use Tableau Desktop or Tableau web authoring on Tableau Cloud to create, collaborate, and securely share insights.",
+                "Tableau+": "Analytics coverage with additional AI capabilities"
+            },
+            "AI": {
+                "Tableau": "Tableau Pulse",
+                "Enterprise": "Tableau Pulse",
+                "Tableau+": "Einstein Copilot for Tableau in Prep and Catalog"
+            },
+            "Data": {
+                "Tableau": "Data Cloud",
+                "Enterprise": "Data Cloud with 250k Credits",
+                "Tableau+": "Data Cloud with 250k Credits and 1 Data Connect node"
+            },
+            "Scale": {
+                "Tableau": "Advanced Management",
+                "Enterprise": "Advanced Management",
+                "Tableau+": "Advanced Management and Premier Success"
+            }
+        },
+        "Licenses Comparison": {
+            "Govern": {
+                "Creator": ["Manage users and permissions", "Curate and share data sources", "Manage content and certify data sources", "Author from curated data", "Server administration (only on Tableau Server)"],
+                "Explorer": ["Manage users and permissions", "Curate and share data sources", "View lineage and impact (with Tableau Data Management)", "Set data quality warnings (with Tableau Data Management)"],
+                "Viewer": ["View lineage and impact (with Tableau Data Management)", "Set data quality warnings (with Tableau Data Management)"]
+            },
+            "Interact": {
+                "Creator": ["Interact with visualizations and dashboards", "Create custom views", "Share custom views", "Download visualizations as images (.pdf, .png)", "Download summary data", "Download full data", "See data quality warnings (with Tableau Data Management)"],
+                "Explorer": ["Interact with visualizations and dashboards", "Create custom views", "Share custom views", "Download visualizations as images (.pdf, .png)", "Download summary data", "See data quality warnings (with Tableau Data Management)"],
+                "Viewer": ["Interact with visualizations and dashboards", "Download visualizations as images (.pdf, .png)", "See data quality warnings (with Tableau Data Management)"]
+            },
+            "Collaborate": {
+                "Creator": ["Comment on a dashboard or visualization", "Create a subscription for yourself", "Receive data-driven alerts", "Create subscriptions for others", "Create data-driven alerts"],
+                "Explorer": ["Comment on a dashboard or visualization", "Create a subscription for yourself", "Receive data-driven alerts"],
+                "Viewer": ["Comment on a dashboard or visualization", "Receive data-driven alerts"]
+            },
+            "Author": {
+                "Creator": ["Edit existing workbooks and visualizations", "Create and publish new workbook from existing published data source", "Create and publish new workbook with a new data source", "Create and publish new data sources", "Create new workbooks based on pre-built Dashboard Starters (only on Tableau Cloud)"],
+                "Explorer": ["Edit existing workbooks and visualizations", "Create and publish new workbook from existing published data source"],
+                "Viewer": []
+            },
+            "Prepare": {
+                "Creator": ["Create new data flows (.tfl)", "Edit and modify a data flow (.tfl)", "Export data (.tde, .hyper or .csv)", "Publish and run flows (with Tableau Data Management)", "Schedule flows (with Tableau Data Management)", "Monitor flow performance and health (with Tableau Data Management)", "Get AI-powered assistance from Einstein Copilot for Tableau in Prep (only with Tableau+)"],
+                "Explorer": [],
+                "Viewer": []
+            },
+            "Tableau Pulse": {
+                "Creator": ["Insights Summaries (only on Tableau Cloud)", "Pulse Q&A (only on Tableau Cloud)", "Email & Slack Digests (only on Tableau Cloud)", "Personalized Insights (only on Tableau Cloud)", "Metric Creation (only on Tableau Cloud)", "Metric Search (only on Tableau Cloud)", "Configurable Insights (only on Tableau Cloud)", "Improved time handling (only on Tableau Cloud)"],
+                "Explorer": ["Insights Summaries (only on Tableau Cloud)", "Pulse Q&A (only on Tableau Cloud)", "Email & Slack Digests (only on Tableau Cloud)", "Personalized Insights (only on Tableau Cloud)", "Metric Creation (only on Tableau Cloud)", "Metric Search (only on Tableau Cloud)", "Configurable Insights (only on Tableau Cloud)", "Improved time handling (only on Tableau Cloud)"],
+                "Viewer": ["Insights Summaries (only on Tableau Cloud)", "Pulse Q&A (only on Tableau Cloud)", "Email & Slack Digests (only on Tableau Cloud)", "Personalized Insights (only on Tableau Cloud)", "Metric Creation (only on Tableau Cloud)", "Metric Search (only on Tableau Cloud)", "Configurable Insights (only on Tableau Cloud)", "Improved time handling (only on Tableau Cloud)"]
+            }
+        }
+    },
+    "Add-ons": {
+        "Data Management": "Enhanced data preparation and governance for Tableau.",
+        "Advanced Management": "Enhanced manageability, scalability, and security in your Tableau deployment. Available for Enterprise and Tableau+ customers.",
+        "Data Connect": "Enable seamless access to on-premises and private cloud data from Tableau Cloud.",
+        "Resource Blocks": "Use Resource Blocks to run concurrent Prep flows on your Tableau Cloud site. Easily add more to scale with your organization’s needs."
+    }
+}
+```
